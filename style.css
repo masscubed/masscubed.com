@@ -1,0 +1,121 @@
+/* @group typography */
+
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+html {
+	font-size: 112.5%; /* 1rem = 18px */
+	font-family: "PT Serif", "Georgia", serif;
+	line-height: 1.6;
+	background-color: white;
+	color: #333;
+}
+
+a {
+	text-decoration: none;
+}
+
+/* @group header */
+
+header {
+	text-align: center;
+	padding: 2rem;
+	max-width: 1000px;
+	margin: 0 auto;
+}
+
+header a {
+	color: #FFF;
+}
+
+.edition {
+	font-style: italic;
+	color: rgba(255,255,255,0.7);
+}
+
+.edition:before, .edition:after {
+	content: " ";
+	display: inline-block;
+	height: 1px;
+	width: 30%;
+	margin: 0 1rem;
+	background-color: rgba(255,255,255,0.4);
+	vertical-align: middle;
+}
+
+.title {
+	font-size: 3.5em;
+	vertical-align: top;
+	line-height: 1;
+	margin: 1rem 0;
+}
+
+.title span, .title sup {
+	margin-top: .25em;
+	display: inline-block;
+	font-size: .5em;
+	vertical-align: top;
+}
+
+.title span {
+	margin-right: -.25em;
+}
+
+.subtitle {
+	color: rgba(255,255,255,0.8);
+	font-family: "PT Sans", "Trebuchet MS", sans-serif;
+	font-size: .75em;
+	font-weight: normal;
+	text-transform: uppercase;
+	letter-spacing: .1rem;
+}
+
+/* @group site-wide */
+
+nav ul {
+	list-style: none;
+}
+
+nav li {
+	display: inline-block;
+}
+
+.menu {
+	margin: 1rem 0;
+}
+
+.menu a:hover {
+	color: #46BBAD;
+}
+
+.menu li {
+	padding: .25rem;
+	margin: 0 1rem;
+	font-family: "PT Sans", "Trebuchet MS", sans-serif;
+}
+
+.active {
+	font-weight: bold;
+}
+
+/* @group frontpage */
+
+.featured {
+	margin-top: -300px;
+	height: 90vh;
+	width: 100%;
+	background-color: #111;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+.featured:after {
+	content: "";
+	display: block;
+	width: 100%;
+	height: 100%;
+	background-color: rgba(0,0,0,.4);
+}
