@@ -36,11 +36,33 @@ nav li {
 }
 
 .three_tile .tile {
-	margin-right: calc((9%/3)/2);
-	margin-left: calc((9%/3)/2);
+	margin-right: calc((13%/3)/2);
+	margin-left: calc((13%/3)/2);
 	display: inline-block;
 	vertical-align: top;
 	width: 30%;
+}
+
+.two_tile .tile {
+	margin-right: calc((13%/3)/2);
+	display: inline-block;
+	vertical-align: top;
+	width: 30%;
+}
+
+.two_tile .slab {
+	width: calc(60% + (13%/3));
+	margin-left: calc((13%/3)/2);
+	display: inline-block;
+	vertical-align: top;
+}
+
+.tile:nth-child(1) {
+	margin-left: 0;
+}
+
+.tile:nth-child(3) {
+	margin-right: 0;
 }
 
 /* @group header */
@@ -171,19 +193,20 @@ header {
 	background-color: #9FE9E9 !important;
 }
 
-/* @group main */
+/* @group stories tiles */
 
 .stories {
 	text-align: center;
 }
 
-.stories .tile {
-	padding: 1rem;
+.tile {
 	box-shadow: 0 0 10rem rgba(0,0,0,.6) inset;
 	background-position: center center;
 	background-repeat: no-repeat;
 	background-color: #111;
 	background-size: cover;
+	min-height: 220px;
+	padding: 1rem;
 }
 
 .tile:hover {
@@ -194,17 +217,62 @@ header {
 	font-family: "PT Sans", "Trebuchet MS", sans-serif;
 	text-align: left;
 	margin-top: 6rem;
-	color: white;
 	line-height: 1.2;
 	min-height: 75px;
+	color: white;
 }
+
+.pagemast {
+	border-bottom: 1px solid #ddd;
+	margin-bottom: 1rem;
+	font-size: 2em;
+}
+
+/* @group posts */
 
 .posts {
 	padding-top: 0;
 }
 
-.pagemast {
-	margin-bottom: 1rem;
-	font-size: 2rem;
+.post {
+	margin: 1rem 0 3rem;
+}
+
+.post:last-child {
+	padding-bottom: 3rem;
 	border-bottom: 1px solid #ddd;
+}
+
+.post .tile {
+	box-shadow: none;
+}
+
+.article_category {
+	font-family: "PT Sans", "Trebuchet MS", sans-serif;
+	text-transform: uppercase;
+	letter-spacing: .1rem;
+	text-align: center;
+	font-weight: bold;
+	font-size: .75em;
+	color: #888;
+}
+
+.article_title {
+	font-family: "PT Sans", "Trebuchet MS", sans-serif;
+	color: black;
+	margin-bottom: .5rem;
+	line-height: 1.2;
+	font-size: 2em;
+}
+
+.article_subtitle {
+	line-height: 1.4;
+	margin-bottom: .5rem;
+	font-weight: normal;
+	font-size: 1.1em;
+}
+
+.article_meta {
+	font-style: italic;
+	color: #888;
 }
