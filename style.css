@@ -156,7 +156,8 @@ header {
 
 .featured h1 {
 	font-family: "PT Sans", "Trebuchet MS", sans-serif;
-	line-height: 1.4;
+	line-height: 1.2;
+	margin-bottom: .25rem;
 	font-size: 3em;
 	color: white;
 }
