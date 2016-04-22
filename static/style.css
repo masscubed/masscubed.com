@@ -1,33 +1,35 @@
 /* @group grid */
 
-.full {
-	margin: 0 auto;
-	max-width: 1000px;
-	background-color: #eee;
+.grid {
 	text-align: center;
 }
 
+.full {
+	width: calc(100% - 1rem);
+}
+
 .half {
-	width: calc(50% - 4%);
+	width: calc(50% - 1rem);
 }
 
 .two-third {
-	width: calc((2*(100%/3)) - 4%);
+	width: calc((2*(100%/3)) - 1rem);
 }
 
 .one-third {
-	width: calc((100%/3) - 4%);
+	width: calc((100%/3) - 1rem);
 }
 
 .quarter {
-	width: calc(25% - 4%);
+	width: calc(25% - 1rem);
 }
 
 .col {
 	vertical-align: top;
 	display: inline-block;
-	margin-left: calc(4% / 2 - .125rem);
-	margin-right: calc(4% / 2 - .125rem);
+	text-align: left;
+	margin-left: calc(1rem / 2 - .125rem);
+	margin-right: calc(1rem / 2 - .125rem);
 }
 
 .col:first-child {
@@ -41,7 +43,7 @@
 @media (max-width: 768px) {
 
 	.quarter {
-		width: calc(50% - 4%);
+		width: calc(50% - 1rem);
 	}
 
 	.quarter:nth-child(2) {
@@ -57,12 +59,12 @@
 @media (max-width: 440px) {
 
 	.col {
-		width: calc(100% - 4%);
+		width: calc(100% - 1rem);
 	}
 
 	.col:last-child, .col:first-child, .quarter:nth-child(2), .quarter:nth-child(3) {
-		margin-left: 2%;
-		margin-right: 2%;
+		margin-left: .5rem;
+		margin-right: .5rem;
 	}
 
 }
