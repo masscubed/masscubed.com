@@ -201,6 +201,9 @@ nav li {
 	padding-top: 24%;
 	margin-bottom: 1rem;
 	background-color: #111;
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: top center;
 }
 
 .all-stories .article {
