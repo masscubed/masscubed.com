@@ -201,6 +201,7 @@ nav li {
 	padding-top: 24%;
 	margin-bottom: 1rem;
 	background-color: #111;
+	box-shadow: 0 0 1px rgba(0,0,0,.4) inset;
 	background-size: cover;
 	background-repeat: no-repeat;
 	background-position: top center;
