@@ -184,14 +184,6 @@ nav li {
 	font-size: 2em;
 }
 
-/*.article-headline:after {
-	content: '→';
-	display: none;
-	transform: translate(-3rem,0);
-	opacity: 0;
-	transition: all 0.2s ease-in;
-}*/
-
 .article-subhead {
 	font-size: 1.5em;
 	line-height: 1.2;
@@ -214,12 +206,6 @@ nav li {
 .all-stories .article {
 	margin-bottom: 2rem;
 }
-
-/*.permalink:hover .article-headline:after {
-	transform: translate(0,0);
-	opacity: 1;
-	display: inline-block;
-}*/
 
 .article-header {
 	margin-bottom: 1rem;
