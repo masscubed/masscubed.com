@@ -1,5 +1,109 @@
 {% extends "main.html" %}
 
-{% block content %}
+		{% block header %}
 
-{% endblock content %}
+		{% for post in posts %}{% if post.featured|upper == "TRUE" %}
+		<header class="cover" style="background-image:url({{ post.image }});">
+		{% endif %}{% endfor %}
+			<div class="grid container">
+				<div class="col max-width mast">
+					<h1 class="logo"><a href="/"><span>The</span> MASS<sup>3</sup> Monthly</a></h1>
+					<h2 class="byline">Monash Advanced Science &amp; Science Scholar Society News</h2>
+					<div class="edition"><a href="/archive">April 2016 Edition</a></div>
+				</div>
+
+				<div class="col two-third no-left">
+					{% for post in posts %}{% if post.featured|upper == "TRUE" %}
+					<a class="permalink" href="/{{ post.path }}">
+						<article class="article">
+							<span class="article-type">{{ post.type }}</span>
+							<h1 class="article-headline">{{  post.headline }}</h1>
+							<h2 class="article-subhead">{{ post.subhead }}</h2>
+							<span class="article-byline">By {{ post.author }}</span>
+						</article>
+					</a>
+					{% endif %}{% endfor %}
+				</div>
+				<div class="col one-third no-right"></div>
+			</div>
+		</header>
+		{% endblock header %}
+
+		{% block topnav %}
+		<nav class="navbar hidden" onclick="toggle(this)">
+			<ul class="grid container">
+				<li class="active"><a href="/">Front Page</a></li>
+				<li><a href="/community">Community</a></li>
+				<li><a href="/events">Events</a></li>
+				<li><a href="/news">News</a></li>
+				<li><a href="/editorial">Editorial</a></li>
+				<li><a href="/misc">Misc</a></li>
+				<li><a href="/archive">Previous Editions</a></li>
+			</ul>
+		</nav>
+		{% endblock topnav %}
+
+		{% block content %}
+			<section class="grid container top-stories">
+				{% for post in posts %}{% if post.tile1|upper == "TRUE" %}
+				<a class="col one-third tile no-left" href="/{{ post.path }}" style="background-image:url({{ post.image }});">
+					<article class="article">
+						<span class="article-type">{{ post.type }}</span>
+						<h1 class="article-headline">{{ post.headline }}</h1>
+					</article>
+				</a>
+				{% endif %}{% endfor %}
+				{% for post in posts %}{% if post.tile2|upper == "TRUE" %}
+				<a class="col one-third tile" href="/{{ post.path }}" style="background-image:url({{ post.image }});">
+					<article class="article">
+						<span class="article-type">{{ post.type }}</span>
+						<h1 class="article-headline">{{ post.headline }}</h1>
+					</article>
+				</a>
+				{% endif %}{% endfor %}
+				{% for post in posts %}{% if post.tile3|upper == "TRUE" %}
+				<a class="col one-third tile no-right" href="/{{ post.path }}" style="background-image:url({{ post.image }});">
+					<article class="article">
+						<span class="article-type">{{ post.type }}</span>
+						<h1 class="article-headline">{{ post.headline }}</h1>
+					</article>
+				</a>
+				{% endif %}{% endfor %}
+			</section>
+
+			<section class="grid container all-stories">
+				<div class="col max-width">
+					<h1 class="section-header">In This Issue</h1>
+				</div>
+				{% for post in posts %}
+				{% if post.archived|upper != "TRUE" %}
+				<article class="article">
+					<div class="col one-third no-left article-image" style="background-image:url({{ post.image }});">
+					</div>
+					<div class="col two-third no-right">
+						<a class="permalink" href="/{{ post.path }}">
+							<span class="article-type">{{ post.type }}</span>
+							<h1 class="article-headline">{{ post.headline }}</h1>
+							<h2 class="article-subhead">{{ post.subhead }} </h2>
+							<span class="article-byline">By {{ post.author }}</span>
+						</a>
+					</div>
+				</article>
+				{% endif %}
+				{% endfor %}
+			</section>
+		{% endblock content %}
+
+		{% block bottomnav %}
+		<nav class="navbar bottom-nav hidden" onclick="toggle(this)">
+			<ul class="grid container">
+				<li class="active"><a href="/">Front Page</a></li>
+				<li><a href="/community">Community</a></li>
+				<li><a href="/events">Events</a></li>
+				<li><a href="/news">News</a></li>
+				<li><a href="/editorial">Editorial</a></li>
+				<li><a href="/misc">Misc</a></li>
+				<li><a href="/archive">Previous Editions</a></li>
+			</ul>
+		</nav>
+		{% endblock bottomnav %}
