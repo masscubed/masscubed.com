@@ -76,7 +76,7 @@
 					<h1 class="section-header">In This Issue</h1>
 				</div>
 				{% for post in posts %}
-				{% if post.archived|upper != "TRUE" %}
+				{% if post.archived|upper != "TRUE" and post.type|upper != "SPONSOR" %}
 				<article class="article">
 					<div class="col one-third no-left article-image" style="background-image:url({{ post.image }});">
 					</div>

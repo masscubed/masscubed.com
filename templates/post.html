@@ -9,7 +9,7 @@
 						<span class="article-type">{{ type }}</span>
 						<h1 class="article-headline">{{ headline }}</h1>
 						<h2 class="article-subhead">{{ subhead }}</h2>
-						<span class="article-byline">By {{ author }}</span>
+						{% if author %}<span class="article-byline">By {{ author }}</span>{% endif %}
 					</div>
 				{{ body }}
 				</article>

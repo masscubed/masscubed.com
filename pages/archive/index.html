@@ -22,16 +22,15 @@
 				{% for post in posts %}
 				{% if post.archived|upper == "TRUE" %}
 				<article class="article">
-					<div class="col one-third no-left article-image" style="background-image:url({{ post.image }});">
-					</div>
-					<div class="col two-third no-right">
-						<a class="permalink" href="/{{ post.path }}">
-							<span class="article-type">{{ post.type }}</span>
+					<div class="col two-third no-left">
+						<a class="permalink" href="{{ post.link }}">
 							<h1 class="article-headline">{{ post.headline }}</h1>
 							<h2 class="article-subhead">{{ post.subhead }} </h2>
+							<p>{{ post.body }}</p>
 							<span class="article-byline">By {{ post.author }}</span>
 						</a>
 					</div>
+					<div class="col one-third no-right"></div>
 				</article>
 				{% endif %}
 				{% endfor %}
