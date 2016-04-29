@@ -27,12 +27,16 @@ h1, h2, h3, h4 {
 	font-family: "PT Sans", "Trebuchet MS", system, "Helvetica Neue";
 }
 
+.full-article h3 {
+	margin-top: 2rem;
+}
+
 p {
 	line-height: 1.5;
 	margin-bottom: 1rem;
 }
 
-img, embed, pre, iframe {
+img, .embed, pre, iframe {
 	max-width: 100%;
 	margin-bottom: 1rem;
 }
@@ -297,7 +301,7 @@ nav li {
 	background-size: cover;
 	background-repeat: no-repeat;
 	background-position: top center;
-	box-shadow: 0 0 10rem rgba(0,0,0,.5) inset;
+	box-shadow: 0 0 10rem rgba(0,0,0,.6) inset;
 }
 
 .tile .article {
@@ -309,6 +313,28 @@ nav li {
 	margin-bottom: 2rem;
 	border-bottom: 1px solid #ddd;
 	font-family: "PT Serif", "Georgia", serif;
+}
+
+.footnotes {
+	border-top: 1px solid #ddd;
+	padding-top: 1rem;
+}
+
+.embed {
+	height: 0;
+	width: 100%;
+	float: none;
+	position: relative;
+	padding-bottom: 55.55%;
+	box-sizing: border-box
+}
+
+.embed iframe {
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+	position: absolute
 }
 
 /* @end */
@@ -381,6 +407,10 @@ nav li {
 	.edition:before, .edition:after {
 		display: block;
 		margin: 1rem auto;
+	}
+
+	.sidebar {
+		display: none;
 	}
 
 	.sitemap .half-size {
