@@ -26,7 +26,7 @@ defaults:
     layout: article
     permalink: "/articles/:title"
 description: Monash Advanced Science & Science Scholar Society News
-url: 
+url: http://masscubed.siteleaf.net
 editor: Carlos Melegrito
 edition: April 2016 Edition
 website: http://masscubed.net/
