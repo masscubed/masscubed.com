@@ -12,7 +12,8 @@
 				<!-- article -->
 				<article class="col two-third no-left full-article">
 					<div class="article-header">
-						<span class="article-type">{{ page.category }}</span>
+						<img src="{{ page.image }}"/>
+						<span class="article-type">{{ page.categories[0] }}</span>
 						<h1 class="article-headline">{{ page.title }}</h1>
 						<h2 class="article-subhead">{{ page.subtitle }}</h2>
 						<span class="article-byline">Written by {{ page.author }}</span>
@@ -26,7 +27,7 @@
 					{% for article in site.posts limit:3 | sort: "date" %}
 						<a class="col tile" href="{{ post.url }}" style="background-image:url({{ article.image }})">
 							<article class="article">
-								<span class="article-type">{{ article.category }}</span>
+								<span class="article-type">{{ article.categories[0] }}</span>
 								<h1 class="article-headline">{{ article.title }}</h1>
 							</article>
 						</a>

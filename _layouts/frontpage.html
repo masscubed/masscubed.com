@@ -15,7 +15,7 @@
 						<div class="col two-third no-left">
 							<a class="permalink" href="{{ article.url }}">
 								<article class="article">
-									<span class="article-type">{{ article.category }}</span>
+									<span class="article-type">{{ article.categories[0] }}</span>
 									<h1 class="article-headline">{{ article.title }}</h1>
 									<h2 class="article-subhead">{{ article.subtitle }}</h2>
 									{% if article.imageSource %}
