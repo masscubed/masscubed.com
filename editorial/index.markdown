@@ -1,6 +1,5 @@
 ---
-
+title: Editorial
 layout: category
-title: "Editorial"
-
 ---
+

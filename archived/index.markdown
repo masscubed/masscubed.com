@@ -1,8 +1,6 @@
 ---
-
+title: Previous Editions
 layout: default
-title: "Previous Editions"
-
 ---
 
 <main>

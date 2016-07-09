@@ -1,6 +1,5 @@
 ---
-
+title: Miscellaneous
 layout: category
-title: "Miscellaneous"
-
 ---
+
