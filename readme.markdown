@@ -6,4 +6,4 @@ The website for the Monash Advanced Science & Science Scholar Society
 
 - The entire site runs as a Jekyll build
 - CMS via [Siteleaf](http://siteleaf.com)
-- Webhook to <masscubed.net/monthly> via Amazon S3
+- Webhook to [masscubed.net/monthly](masscubed.net/monthly) via Amazon S3
