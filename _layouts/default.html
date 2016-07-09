@@ -1,0 +1,22 @@
+<!doctype html>
+<html lang="en">
+	{% include head.html %}
+	<body>
+		{% include header.html %}
+		<nav class="navbar mobile">
+			{% include nav.html %}
+		</nav>
+
+		<main>
+			<div class="grid container">
+				{{ content }}
+			</div>
+		</main>
+
+		<nav class="navbar bottom-nav mobile">
+			{% include nav.html %}
+		</nav>
+		{% include footer.html %}
+	</body>
+	{% include scripts.html %}
+</html>

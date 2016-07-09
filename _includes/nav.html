@@ -1,0 +1,9 @@
+<ul class="grid container">
+	<li {% if page.title == "Front Page" %}class="active"{% endif %}><a href="{{ site.url }}">Front Page</a></li>
+	<li {% if page.title == "Community News" %}class="active"{% endif %}><a href="{{ site.url }}/community">Community</a></li>
+	<li {% if page.title == "Events" %}class="active"{% endif %}><a href="{{ site.url }}/events">Events</a></li>
+	<li {% if page.title == "Science News" %}class="active"{% endif %}><a href="{{ site.url }}/news">News</a></li>
+	<li {% if page.title == "Editorial" %}class="active"{% endif %}><a href="{{ site.url }}/editorial">Editorial</a></li>
+	<li {% if page.title == "Miscellaneous" %}class="active"{% endif %}><a href="{{ site.url }}/misc">Misc</a></li>
+	<li {% if page.title == "Previous Editions" %}class="active"{% endif %}><a href="{{ site.url }}/archived">Previous Editions</a></li>
+</ul>

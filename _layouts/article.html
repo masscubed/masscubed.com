@@ -1,0 +1,44 @@
+<!doctype html>
+<html lang="en">
+	{% include head.html %}
+	<body>
+		{% include header.html %}
+		<nav class="navbar mobile">
+			{% include nav.html %}
+		</nav>
+
+ 		<main>
+			<div class="grid container">
+				<!-- article -->
+				<article class="col two-third no-left full-article">
+					<div class="article-header">
+						<span class="article-type">{{ page.category }}</span>
+						<h1 class="article-headline">{{ page.title }}</h1>
+						<h2 class="article-subhead">{{ page.subtitle }}</h2>
+						<span class="article-byline">Written by {{ page.author }}</span>
+					</div>
+					{{ content }}
+				</article>
+
+				<!-- links to other articles -->
+				<div class="col one-third no-right sidebar">
+					<h2 class="section-header">In This Issue</h2>
+					{% for article in site.posts limit:3 | sort: "date" %}
+						<a class="col tile" href="{{ post.url }}" style="background-image:url({{ article.image }})">
+							<article class="article">
+								<span class="article-type">{{ article.category }}</span>
+								<h1 class="article-headline">{{ article.title }}</h1>
+							</article>
+						</a>
+					{% endfor %}
+				</div>
+			</div>
+		</main>
+
+		<nav class="navbar bottom-nav mobile">
+			{% include nav.html %}
+		</nav>
+		{% include footer.html %}
+	</body>
+	{% include scripts.html %}
+</html>
