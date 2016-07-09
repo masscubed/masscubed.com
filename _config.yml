@@ -26,11 +26,11 @@ defaults:
     layout: article
     permalink: "/articles/:title"
 description: Monash Advanced Science & Science Scholar Society News
-url: ''
+url: 
 editor: Carlos Melegrito
-edition: ''
+edition: 
 website: http://masscubed.net/
-twitter: ''
+twitter: 
 facebook: http://www.facebook.com/groups/masscubed
 email: mass3@monashclubs.org
 color: "#111111"
