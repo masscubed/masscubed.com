@@ -1,30 +1,36 @@
 ---
-title: "The MASS^3 Monthly"
-description: "Monash Advanced Science & Science Scholar Society News"
-url: ""
-editor: "Carlos Melegrito"
-edition: ""
-
-website: "http://masscubed.net/"
-twitter: ""
-facebook: "http://www.facebook.com/groups/masscubed"
-email: "mass3@monashclubs.org"
-color: "#111111"
-
+title: The MASS^3 Monthly
+timezone: UTC
+collections:
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
 defaults:
 - scope:
-    path: ""
+    path: ''
     type: posts
   values:
-    title: "Article Title is Capitalised"
-    subtitle: "A short description of the article"
-    author: "Author Name"
-    image: "https://unsplash.it/1000/500/?random"
-    imageSource: "Unsplash"
-    imageSourceURL: "https://unsplash.it/"
-    category: "Miscellaneous"
-    date: "2017-07-09"
+    title: Article Title is Capitalised
+    subtitle: A short description of the article
+    author: Author Name
+    image: https://unsplash.it/1000/500/?random
+    imageSource: Unsplash
+    imageSourceURL: https://unsplash.it/
+    category: Miscellaneous
+    date: '2017-07-09'
     featured: false
     cover: false
     layout: article
     permalink: "/articles/:title"
+description: Monash Advanced Science & Science Scholar Society News
+url: ''
+editor: Carlos Melegrito
+edition: ''
+website: http://masscubed.net/
+twitter: ''
+facebook: http://www.facebook.com/groups/masscubed
+email: mass3@monashclubs.org
+color: "#111111"

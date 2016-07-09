@@ -1,6 +1,5 @@
 ---
-
+title: Community News
 layout: category
-title: "Community News"
-
 ---
+

@@ -1,6 +1,5 @@
 ---
-
+title: Science News
 layout: category
-title: "Science News"
-
 ---
+

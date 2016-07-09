@@ -1,6 +1,5 @@
 ---
-
+title: Events
 layout: category
-title: "Events"
-
 ---
+
