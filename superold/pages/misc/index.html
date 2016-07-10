@@ -1,0 +1,53 @@
+{% extends "main.html" %}
+
+		{% block topnav %}
+		<nav class="navbar hidden" onclick="toggle(this)">
+			<ul class="grid container">
+				<li><a href="/">Front Page</a></li>
+				<li><a href="/community">Community</a></li>
+				<li><a href="/events">Events</a></li>
+				<li><a href="/news">News</a></li>
+				<li><a href="/editorial">Editorial</a></li>
+				<li class="active"><a href="/misc">Misc</a></li>
+				<li><a href="/archive">Previous Editions</a></li>
+			</ul>
+		</nav>
+		{% endblock topnav %}
+
+		{% block content %}
+			<section class="grid container all-stories">
+				<div class="col max-width">
+					<h1 class="section-header">Miscellany</h1>
+				</div>
+				{% for post in posts %}
+				{% if post.type|upper == "MISC" %}
+				<article class="article">
+					<div class="col one-third no-left article-image" style="background-image:url({{ post.image }});">
+					</div>
+					<div class="col two-third no-right">
+						<a class="permalink" href="/{{ post.path }}">
+							<span class="article-type">{{ post.type }}</span>
+							<h1 class="article-headline">{{ post.headline }}</h1>
+							<h2 class="article-subhead">{{ post.subhead }} </h2>
+							<span class="article-byline">By {{ post.author }}</span>
+						</a>
+					</div>
+				</article>
+				{% endif %}
+				{% endfor %}
+			</section>
+		{% endblock content %}
+
+		{% block bottomnav %}
+		<nav class="navbar bottom-nav hidden" onclick="toggle(this)">
+			<ul class="grid container">
+				<li><a href="/">Front Page</a></li>
+				<li><a href="/community">Community</a></li>
+				<li><a href="/events">Events</a></li>
+				<li><a href="/news">News</a></li>
+				<li><a href="/editorial">Editorial</a></li>
+				<li class="active"><a href="/misc">Misc</a></li>
+				<li><a href="/archive">Previous Editions</a></li>
+			</ul>
+		</nav>
+		{% endblock bottomnav %}
