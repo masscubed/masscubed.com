@@ -1,0 +1,5 @@
+---
+title: Editorial
+layout: category
+---
+

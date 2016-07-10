@@ -1,0 +1,36 @@
+---
+title: The MASS³ Monthly
+timezone: Australia/Melbourne
+collections:
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
+defaults:
+- scope:
+    path: ''
+    type: posts
+  values:
+    title: Article Title is Capitalised
+    subtitle: A short description of the article
+    author: Author Name
+    image: https://unsplash.it/1000/500/?random
+    imageSource: Unsplash
+    imageSourceURL: https://unsplash.it/
+    category: Miscellaneous
+    date: '2017-07-09'
+    featured: false
+    cover: false
+    layout: article
+    permalink: "/monthly/articles/:title"
+description: Monash Advanced Science & Science Scholar Society News
+url: "/monthly/"
+editor: Carlos Melegrito
+edition: April 2016 Edition
+website: http://masscubed.net/
+twitter: 
+facebook: http://www.facebook.com/groups/masscubed
+email: mass3@monashclubs.org
+color: "#111111"

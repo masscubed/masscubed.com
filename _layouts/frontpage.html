@@ -1,0 +1,83 @@
+<!doctype html>
+<html lang="en">
+	{% include head.html %}
+	<body>
+		{% for article in site.posts %}
+			{% if article.cover == true %}
+				<header class="cover" style="background-image:url({{ article.image }})">
+					<div class="grid container">
+						<div class="col max-width mast">
+							<h1 class="logo"><a href="{{ site.url }}"><span>The</span> MASS<sup>3</sup> Monthly</a></h1>
+							<h2 class="byline">Monash Advanced Science &amp; Science Scholar Society News</h2>
+							{% if site.edition %}<div class="edition">{{ site.edition }}</div>{% endif %}
+						</div>
+
+						<div class="col two-third no-left">
+							<a class="permalink" href="{{ article.url }}">
+								<article class="article">
+									<span class="article-type">{{ article.categories[0] }}</span>
+									<h1 class="article-headline">{{ article.title }}</h1>
+									<h2 class="article-subhead">{{ article.subtitle }}</h2>
+									{% if article.imageSource %}
+										<span class="article-byline">Photo from <a href="{{ article.imageSourceURL }}">{{ article.imageSource }}</a></span>
+									{% endif %}
+								</article>
+							</a>
+						</div>
+						<div class="col one-third no-right">
+							<!-- potential ad space -->
+						</div>
+					</div>
+				</header>
+			{% endif %}
+		{% endfor %}
+
+
+		<nav class="navbar mobile" onclick="toggle(this)">
+			{% include nav.html %}
+		</nav>
+
+		<main>
+			<!-- top 3 featured articles -->
+			<section class="grid container top-stories">
+				{% for article in site.posts %}
+					{% if article.featured == true %}
+						<a class="col one-third tile {% if forloop.index == 1 %}no-left{% endif %}{% if forloop.index == 3 %}no-right{% endif %}" href="{{ article.url }}" style="background-image:url({{ article.image }})">
+							<article class="article">
+								<span class="article-type">{{ article.categories[0] }}</span>
+								<h1 class="article-headline">{{ article.title }}</h1>
+							</article>
+						</a>
+					{% endif %}
+				{% endfor %}
+			</section>
+
+			<!-- all articles -->
+			<section class="grid container all-stories">
+				<div class="col max-width">
+					<h1 class="section-header">In This Issue</h1>
+				</div>
+				{% for article in site.posts %}
+					<article class="article">
+						<div class="col one-third no-left article-image" style="background-image:url({{ article.image }})">
+						</div>
+						<div class="col two-third no-right">
+							<a class="permalink" href="{{ article.url }}">
+								<span class="article-type">{{ article.categories[0] }}</span>
+								<h1 class="article-headline">{{ article.title }}</h1>
+								<h2 class="article-subhead">{{ article.subtitle }}</h2>
+								<span class="article-byline">Written by {{ article.author }}</span>
+							</a>
+						</div>
+					</article>
+				{% endfor %}
+			</section>
+		</main>
+
+		<nav class="navbar bottom-nav mobile" onclick="toggle(this)">
+			{% include nav.html %}
+		</nav>
+		{% include footer.html %}
+	</body>
+	{% include scripts.html %}
+</html>

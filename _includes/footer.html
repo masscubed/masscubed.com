@@ -1,0 +1,52 @@
+<footer class="sitemap">
+	<div class="grid container">
+		<div class="col max-width mast">
+			<h1 class="logo"><a href="{{ site.url }}"><span>The</span> MASS<sup>3</sup> Monthly</a></h1>
+			<h2 class="byline">{{ site.description }}</h2>
+		</div>
+		<div class="col half-size no-left grid">
+			<div class="col half-size no-left">
+				<h2 class="footer-header">More MASS³</h2>
+				<ul class="footer-links">
+					<li><a href="{{ site.website }}">Main Site</a></li>
+					<li><a href="{{ site.website }}/about">About</a></li>
+					<li><a href="{{ site.website }}/committee">Committee</a></li>
+					<li><a href="{{ site.facebook }}">Events</a></li>
+				</ul>
+			</div>
+			<div class="col half-size no-right">
+				<h2 class="footer-header">Get in Touch</h2>
+				<ul class="footer-links">
+					<li><a href="{{ site.facebook }}">MASS³ Facebook</a></li>
+					<li><a href="{{ site.email }}">Send an email</a></li>
+					<li><a href="{{ site.email }}?subject=Sponsor">Sponsor us</a></li>
+				</ul>
+			</div>
+		</div>
+		<div class="col half-size no-right grid">
+			<div class="col half-size no-left">
+				<h2 class="footer-header">Write the news</h2>
+				<ul class="footer-links">
+					<li><a href="{{ site.email }}?subject=Submission">Submit a post</a></li>
+					<li><a href="{{ site.email }}?subject=Submission">Suggest an idea</a></li>
+					<li><a href="{{ site.email }}?subject=Submission">Start a column</a></li>
+					<li><a href="{{ site.email }}?subject=Submission">Write a review</a></li>
+				</ul>
+			</div>
+			<div class="col half-size no-right">
+				<h2 class="footer-header">Previous Editions</h2>
+				<ul class="footer-links">
+					{% for article in site.posts limit:4 | sort: "date" %}
+						{% if article.category == "Archived" %}
+							<li><a href="{{ article.url }}">{{ article.title | truncate: 10 }}</a></li>
+						{% endif %}
+					{% endfor %}
+				</ul>
+			</div>
+		</div>
+		<div class="col max-width">
+			<div class="edition">Proudly published by {{ site.editor }}</div>
+			<p class="copyright">All rights reserved.</p>
+		</div>
+	</div>
+</footer>

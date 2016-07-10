@@ -1,0 +1,42 @@
+<!doctype html>
+<html lang="en">
+	{% include head.html %}
+	<body>
+		{% include header.html %}
+		<nav class="navbar mobile" onclick="toggle(this)">
+			{% include nav.html %}
+		</nav>
+
+ 		<main>
+			<section class="grid container all-stories">
+				<div class="col max-width">
+					<h1 class="section-header">{{ page.title }}</h1>
+				</div>
+				{% for article in site.posts %}
+				{% assign articleCategory = article.categories[0] | downcase | slugify %}
+				{% assign pageCategory = page.title | downcase | slugify %}
+					{% if articleCategory == pageCategory %}
+						<article class="article">
+							<div class="col one-third no-left article-image" style="background-image:url({{ article.image }})">
+							</div>
+							<div class="col two-third no-right">
+								<a class="permalink" href="{{ article.url }}">
+									<span class="article-type">{{ article.categories[0] }}</span>
+									<h1 class="article-headline">{{ article.title }}</h1>
+									<h2 class="article-subhead">{{ article.subtitle }}</h2>
+									<span class="article-byline">Written by {{ article.author }}</span>
+								</a>
+							</div>
+						</article>
+					{% endif %}
+				{% endfor %}
+			</section>
+		</main>
+
+		<nav class="navbar bottom-nav mobile" onclick="toggle(this)">
+			{% include nav.html %}
+		</nav>
+		{% include footer.html %}
+	</body>
+	{% include scripts.html %}
+</html>
