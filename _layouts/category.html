@@ -3,7 +3,7 @@
 	{% include head.html %}
 	<body>
 		{% include header.html %}
-		<nav class="navbar mobile" onclick="toggle(this)">
+		<nav class="navbar mobile hidden" onclick="toggle(this)">
 			{% include nav.html %}
 		</nav>
 
@@ -33,7 +33,7 @@
 			</section>
 		</main>
 
-		<nav class="navbar bottom-nav mobile" onclick="toggle(this)">
+		<nav class="navbar bottom-nav mobile hidden" onclick="toggle(this)">
 			{% include nav.html %}
 		</nav>
 		{% include footer.html %}
