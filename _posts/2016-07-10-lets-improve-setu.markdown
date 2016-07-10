@@ -2,7 +2,7 @@
 title: Let’s Improve SETU!
 date: 2016-07-10 19:43:00 +10:00
 categories:
-- Miscellaneous
+- Community News
 subtitle: Monash University is looking for ways to improve the feedback system.
 author: Carlos Melegrito for Danushi Peiris
 image: "/uploads/bulb.jpg"
