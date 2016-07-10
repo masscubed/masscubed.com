@@ -19,6 +19,10 @@
 						<span class="article-byline">Written by {{ page.author }}</span>
 					</div>
 					{{ content }}
+
+					<div class="footnotes">
+						<p>Article image from <a href="{{ article.imageSourceURL }}">{{ article.imageSource }}</a></p>
+					</div>
 				</article>
 
 				<!-- links to other articles -->

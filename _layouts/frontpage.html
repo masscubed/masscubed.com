@@ -41,8 +41,9 @@
 			<!-- top 3 featured articles -->
 			<section class="grid container top-stories">
 				{% for article in site.posts %}
+				{% assign count = 0 %}
 					{% if article.featured == true %}
-						<a class="col one-third tile {% if forloop.index == 1 %}no-left{% endif %}{% if forloop.index == 3 %}no-right{% endif %}" href="{{ article.url }}" style="background-image:url({{ article.image }})">
+						<a class="col one-third tile {% cycle 'no-left', '', 'no-right' %}" href="{{ article.url }}" style="background-image:url({{ article.image }})">
 							<article class="article">
 								<span class="article-type">{{ article.categories[0] }}</span>
 								<h1 class="article-headline">{{ article.title }}</h1>
