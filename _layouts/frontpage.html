@@ -44,7 +44,7 @@
 					{% if article.featured == true %}
 						<a class="col one-third tile {% if forloop.index == 1 %}no-left{% endif %}{% if forloop.index == 3 %}no-right{% endif %}" href="{{ article.url }}" style="background-image:url({{ article.image }})">
 							<article class="article">
-								<span class="article-type">{{ article.category }}</span>
+								<span class="article-type">{{ article.categories[0] }}</span>
 								<h1 class="article-headline">{{ article.title }}</h1>
 							</article>
 						</a>
@@ -63,7 +63,7 @@
 						</div>
 						<div class="col two-third no-right">
 							<a class="permalink" href="{{ article.url }}">
-								<span class="article-type">{{ article.category }}</span>
+								<span class="article-type">{{ article.categories[0] }}</span>
 								<h1 class="article-headline">{{ article.title }}</h1>
 								<h2 class="article-subhead">{{ article.subtitle }}</h2>
 								<span class="article-byline">Written by {{ article.author }}</span>
