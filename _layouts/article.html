@@ -24,13 +24,15 @@
 				<!-- links to other articles -->
 				<div class="col one-third no-right sidebar">
 					<h2 class="section-header">In This Issue</h2>
-					{% for article in site.posts limit:3 | sort: "date" %}
-						<a class="col tile" href="{{ post.url }}" style="background-image:url({{ article.image }})">
-							<article class="article">
-								<span class="article-type">{{ article.categories[0] }}</span>
-								<h1 class="article-headline">{{ article.title }}</h1>
-							</article>
-						</a>
+					{% for article in site.posts %}
+						{% if article.featured == true %}
+							<a class="col tile" href="{{ post.url }}" style="background-image:url({{ article.image }})">
+								<article class="article">
+									<span class="article-type">{{ article.categories[0] }}</span>
+									<h1 class="article-headline">{{ article.title }}</h1>
+								</article>
+							</a>
+						{% endif %}
 					{% endfor %}
 				</div>
 			</div>
