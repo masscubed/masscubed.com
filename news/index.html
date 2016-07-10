@@ -1,0 +1,191 @@
+<!Doctype html>
+<html>
+	<head>
+		<title>News</title>
+		<meta charset="UTF-8">
+		<link type="text/css" rel="stylesheet" href="/style.css">
+		<link rel="shortcut icon" type="image/x-icon" href="/images/favicon.ico"/>
+		<script src="/jquery-1.9.0.js"></script>
+		<script src="/jquery-ui.min.js"></script>
+		<script type = "text/javascript" src = "https://ajax.googleapis.com/ajax/libs/jqueryui/1.11.3/jquery-ui.min.js"></script>
+		<script type="text/javascript" src="/konami.js"></script>
+		<!--<script src="/http://code.jquery.com/jquery-1.9.0.js"></script>-->
+	</head>
+	<body>
+		<div class="overlay">
+	    	<img alt="IMAGE" src="/images/backgrounds/books.jpg" class="landing">
+	    </div>
+	    <div class="squares">
+	    	<img alt="" src="/images/square.png">
+	    	<img alt="" src="/images/square.png">
+	    </div>
+	    <div class="screen-first">
+		    <div class="desc">
+		    	<img alt="" src="/images/icons/news-w.svg" class="icon">
+		    	<p>Newsletter archive dating back to 2011.<br>
+		    		The latest newsletters are uploaded here.</p>
+		    </div>
+			<ul class="nav">
+				<a href="/"><li>HOME</li></a>
+				<a href="/about"><li>ABOUT</li></a>
+				<a href="/committee"><li>COMMITTEE</li></a>
+				<a href="/events"><li>EVENTS</li></a>
+				<a href="/news"><li class="current">NEWS</li></a>
+			</ul>
+			<div  class="scroll-down"><img alt="" src="/images/arrow.png"></div>
+		</div>
+
+		<div class="screen-second">
+			<h1>Newsletters</h1>
+			<ul class="news">
+				<li onclick="location.href='newsletters/mar16.pdf'">
+					<h2>March</h2>
+					<h3>2016</h3>
+				</li>
+				<li onclick="location.href='newsletters/feb16.pdf'">
+					<h2>February</h2>
+					<h3>2016</h3>
+				</li>
+				<li onclick="location.href='newsletters/sep15.pdf'">
+					<h2>September</h2>
+					<h3>2015</h3>
+				</li>
+				<li onclick="location.href='newsletters/apr15.pdf'">
+					<h2>April</h2>
+					<h3>2015</h3>
+				</li>
+				<li onclick="location.href='newsletters/aug14.pdf'">
+					<h2>August</h2>
+					<h3>2014</h3>
+				</li>
+				<li onclick="location.href='newsletters/jun14.pdf'">
+					<h2>June</h2>
+					<h3>2014</h3>
+				</li>
+				<li onclick="location.href='newsletters/apr14.pdf'">
+					<h2>April</h2>
+					<h3>2014</h3>
+				</li>
+				<li onclick="location.href='newsletters/oct13.pdf'">
+					<h2>October</h2>
+					<h3>2013</h3>
+				</li>
+				<li onclick="location.href='newsletters/apr13.gif'">
+					<h2>April</h2>
+					<h3>2013</h3>
+				</li>
+				<li onclick="location.href='newsletters/mar13.pdf'">
+					<h2>March</h2>
+					<h3>2013</h3>
+				</li>
+				<li onclick="location.href='newsletters/oct12.pdf'">
+					<h2>October</h2>
+					<h3>2012</h3>
+				</li>
+				<li onclick="location.href='newsletters/apr12.pdf'">
+					<h2>April</h2>
+					<h3>2012</h3>
+				</li>
+				<li onclick="location.href='newsletters/mar12.pdf'">
+					<h2>March</h2>
+					<h3>2012</h3>
+				</li>
+				<li onclick="location.href='newsletters/oct11.pdf'">
+					<h2>October</h2>
+					<h3>2011</h3>
+				</li>
+				<li onclick="location.href='newsletters/jul11.pdf'">
+					<h2>July</h2>
+					<h3>2011</h3>
+				</li>
+				<li onclick="location.href='newsletters/apr11.pdf'">
+					<h2>April</h2>
+					<h3>2011</h3>
+				</li>
+		    </ul>
+		</div>
+
+		<script>
+			$(document).ready(function(){
+				//$(".move").effect("bounce", { times:3, distance:30 }, 2500);
+				$(".squares img:nth-child(1)").css("opacity","1");
+				$(".squares img:nth-child(2)").css("opacity","0.5");
+				//fade and slide
+				function slideFadeUp(elem) {
+				   var fade = { opacity: 0, transition: 'opacity 0.5s', 'z-index': '0'};
+				   elem.css(fade).slideUp("slow");
+				}
+				function slideFadeDown(elem) {
+				   var fade = { opacity: 0, transition: 'opacity 0.5s', 'z-index': '0' };
+				   elem.css(fade).slideDown("slow");
+				}
+				function slideShowUp(elem) {
+				   var fade = { opacity: 1, transition: 'opacity 0.5s', 'z-index': '1'};
+				   elem.css(fade).slideUp("slow");
+				}
+				function slideShowDown(elem) {
+				   var fade = { opacity: 1, transition: 'opacity 0.5s', 'z-index': '1' };
+				   elem.css(fade).slideDown("slow");
+				}
+
+				var page = 1;
+				var threshold=0;
+
+				$(window).on( 'DOMMouseScroll mousewheel', function ( event ) {
+					threshold++
+					if (threshold>3){
+						if(event.originalEvent.detail > 0 || event.originalEvent.wheelDelta < 0 ) {
+							//down
+							if(page==1){
+								slideFadeUp($(".screen-first"));
+								slideShowDown($(".screen-second"));
+								$(".squares img:nth-child(2)").css("opacity","1");
+								$(".squares img:nth-child(1)").css("opacity","0.5");
+							}
+							if(page<2){
+								page++;
+							}
+						} else{
+							//up
+							if(page==2){
+								slideShowDown($(".screen-first"));
+								slideFadeDown($(".screen-second"));
+								$(".squares img:nth-child(1)").css("opacity","1");
+								$(".squares img:nth-child(2)").css("opacity","0.5");
+							}
+							if (page>1){
+								page--;
+							}
+						}
+						threshold=0;
+					}
+				});
+				$(".scroll-down").on("click", function(){
+					if(page==1){
+						slideFadeUp($(".screen-first"));
+						slideShowDown($(".screen-second"));
+						$(".squares img:nth-child(2)").css("opacity","1");
+						$(".squares img:nth-child(1)").css("opacity","0.5");
+					}
+					if(page<2){
+						page++;
+					}
+				});
+				$(".squares img:nth-child(1)").on("click",function(){
+					slideShowDown($(".screen-first"));
+					slideFadeUp($(".screen-second"));
+					$(".squares img:nth-child(1)").css("opacity","1");
+					$(".squares img:nth-child(2)").css("opacity","0.5");
+					page=1;
+				});
+				$(".squares img:nth-child(2)").on("click",function(){
+					slideShowDown($(".screen-second"));
+					slideFadeUp($(".screen-first"));
+					$(".squares img:nth-child(2)").css("opacity","1");
+					$(".squares img:nth-child(1)").css("opacity","0.5");
+					page=2;
+				});
+			});
+		</script>
+	</body>
+</html>
