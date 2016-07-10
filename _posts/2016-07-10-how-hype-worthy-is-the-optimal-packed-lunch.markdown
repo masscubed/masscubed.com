@@ -7,7 +7,6 @@ subtitle: Uncovering the mathematical relationship between Hype, Cost, Time and 
 author: Carlos Melegrito, with Peter Halat, Bernard Field, Jack Polmear, Ivan Begic,
   Hans Kek, Josh Cameron and Sam Walker
 image: "/uploads/news-packed-lunch.jpg"
-featured: true
 ---
 
 Whenever you decide what you’re going to have for lunch tomorrow, you’re actually balancing tradeoffs between time, cost, and overall deliciousness. And when you factor in potential hype, the decision can become even more complicated.
