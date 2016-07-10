@@ -1,0 +1,187 @@
+<!Doctype html>
+<html>
+	<head>
+		<title>About</title>
+		<meta charset="UTF-8">
+		<link type="text/css" rel="stylesheet" href="/style.css">
+		<link rel="shortcut icon" type="image/x-icon" href="/images/favicon.ico"/>
+		<script src="/jquery-1.9.0.js"></script>
+		<script src="/jquery-ui.min.js"></script>
+		<script type = "text/javascript" src = "https://ajax.googleapis.com/ajax/libs/jqueryui/1.11.3/jquery-ui.min.js"></script>
+		<script type="text/javascript" src="/konami.js"></script>
+		<!--<script src="/http://code.jquery.com/jquery-1.9.0.js"></script>-->
+	</head>
+	<body>
+		<div class="overlay">
+	    	<img alt="IMAGE" src="/images/backgrounds/desk.jpg" class="landing">
+	    </div>
+	    <div class="squares">
+	    	<img alt="" src="/images/square.png">
+	    	<img alt="" src="/images/square.png">
+	    	<img alt="" src="/images/square.png">
+	    </div>
+	    <div class="screen-first">
+		    <div class="desc">
+		    	<img alt="" src="/images/icons/about-w.svg" class="icon">
+		    	<p>MASS³ is a club for students enrolled in the Advanced Science, Science Scholar, Science Research and Global Challenges Programs at Monash. Our purpose is to provide strong social and academic networks for high achieving students in university.</p>
+		    </div>
+			<ul class="nav">
+				<a href="/"><li>HOME</li></a>
+				<a href="/about"><li class="current">ABOUT</li></a>
+				<a href="/committee"><li>COMMITTEE</li></a>
+				<a href="/events"><li>EVENTS</li></a>
+				<a href="/news"><li>NEWS</li></a>
+			</ul>
+			<div  class="scroll-down"><img alt="" src="/images/arrow.png"></div>
+		</div>
+
+		<div class="screen-second">
+			<h1>The Common Room</h1>
+			<p>We have our very own room! Find us at 19 Rainforest Walk.<br>
+			<ul>
+				<li>Friendly people</li>
+		    	<li>Computers, whiteboards, study spaces</li>
+		    	<li>A big screen for communal games/shenanigans</li>
+		    	<li>A toaster, small grill, fridge, and a microwave</li>
+		    	<li>Plates, bowls, cups and utensils</li>
+		    </ul>
+			</p>
+			<h2>Sponsors</h2>
+			<p>
+				We are sponsored by Monash CLV, a very helpful service for anything careers related! Visit them <a href="http://www.monash.edu/careers">here</a>.
+			</p>
+			<h2>Constitution</h2>
+			<p>
+				The <a href="/constitution.doc">constitution</a>
+			</p>
+			<div  class="scroll-down"><img alt="" src="/images/arrow.png"></div>
+		</div>
+
+		<div class="screen-third">
+			<h1>Contact</h1>
+			<h2>Find Us</h2>
+			<p>
+				19 Rainforest walk, <a href="http://monash.edu/pubs/maps/3-Claytoncolour.pdf">Campus Map</a><br>
+				Located between the old labs and 1st year Biology labs, on the right under the sheltered area. 
+			</p>
+			<h2>Facebook</h2>
+			<p>
+				<a href="http://www.facebook.com/groups/masscubed/">Join us</a>, sign up, keep up to date with club events and announcements!
+			</p>
+			<h2>Enquire Now</h2>
+			<p>
+				If you have any questions or concerns, call or email us on:<br>
+				(03) 9905 1458<br>
+				mass3@monashclubs.org
+			</p>
+		</div>
+		<script>
+			$(document).ready(function(){
+				//$(".move").effect("bounce", { times:3, distance:30 }, 2500);
+				$(".squares img:nth-child(1)").css("opacity","1");
+				$(".squares img:nth-child(2), .squares img:nth-child(3)").css("opacity","0.5");
+				//fade and slide
+				function slideFadeUp(elem) {
+				   var fade = { opacity: 0, transition: 'opacity 0.5s', 'z-index': '0'};
+				   elem.css(fade).slideUp("slow");
+				}
+				function slideFadeDown(elem) {
+				   var fade = { opacity: 0, transition: 'opacity 0.5s', 'z-index': '0' };
+				   elem.css(fade).slideDown("slow");
+				}
+				function slideShowUp(elem) {
+				   var fade = { opacity: 1, transition: 'opacity 0.5s', 'z-index': '1'};
+				   elem.css(fade).slideUp("slow");
+				}
+				function slideShowDown(elem) {
+				   var fade = { opacity: 1, transition: 'opacity 0.5s', 'z-index': '1' };
+				   elem.css(fade).slideDown("slow");
+				}
+
+				var page = 1;
+				var threshold=0;
+
+				$(window).on( 'DOMMouseScroll mousewheel wheel', function ( event ) {
+					threshold++
+					if (threshold>3){
+						if(event.originalEvent.detail > 0 || event.originalEvent.wheelDelta < 0 ) {
+							//down
+							if(page==1){
+								slideFadeUp($(".screen-first"));
+								slideShowDown($(".screen-second"));
+								$(".squares img:nth-child(2)").css("opacity","1");
+								$(".squares img:nth-child(1), .squares img:nth-child(3)").css("opacity","0.5");
+							}
+							else if(page==2){
+								slideFadeUp($(".screen-second"));
+								slideShowDown($(".screen-third"));
+								$(".squares img:nth-child(3)").css("opacity","1");
+								$(".squares img:nth-child(1), .squares img:nth-child(2)").css("opacity","0.5");
+							}
+							if(page<3){
+								page++;
+							}
+						} else{
+							//up
+							if(page==2){
+								slideShowDown($(".screen-first"));
+								slideFadeDown($(".screen-second"));
+								$(".squares img:nth-child(1)").css("opacity","1");
+								$(".squares img:nth-child(2), .squares img:nth-child(3)").css("opacity","0.5");
+							}
+							else if(page==3){
+								slideShowDown($(".screen-second"));
+								slideFadeDown($(".screen-third"));
+								$(".squares img:nth-child(2)").css("opacity","1");
+								$(".squares img:nth-child(1), .squares img:nth-child(3)").css("opacity","0.5");
+							}
+
+							if (page>1){
+								page--;
+							}
+						}
+						threshold=0;
+					}
+				});
+				$(".scroll-down").on("click", function(){
+					if(page==1){
+						slideFadeUp($(".screen-first"));
+						slideShowDown($(".screen-second"));
+						$(".squares img:nth-child(2)").css("opacity","1");
+						$(".squares img:nth-child(1), .squares img:nth-child(3)").css("opacity","0.5");
+					}
+					else if(page==2){
+						slideFadeUp($(".screen-second"));
+						slideShowDown($(".screen-third"));
+						$(".squares img:nth-child(3)").css("opacity","1");
+						$(".squares img:nth-child(1), .squares img:nth-child(2)").css("opacity","0.5");
+					}
+					if(page<3){
+						page++;
+					}
+				});
+				$(".squares img:nth-child(1)").on("click",function(){
+					slideShowDown($(".screen-first"));
+					slideFadeUp($(".screen-second,.screen-third"));
+					$(".squares img:nth-child(1)").css("opacity","1");
+					$(".squares img:nth-child(2), .squares img:nth-child(3)").css("opacity","0.5");
+					page=1;
+				});
+				$(".squares img:nth-child(2)").on("click",function(){
+					slideShowDown($(".screen-second"));
+					slideFadeUp($(".screen-first,.screen-third"));
+					$(".squares img:nth-child(2)").css("opacity","1");
+					$(".squares img:nth-child(1), .squares img:nth-child(3)").css("opacity","0.5");
+					page=2;
+				});
+				$(".squares img:nth-child(3)").on("click",function(){
+					slideShowDown($(".screen-third"));
+					slideFadeUp($(".screen-first,.screen-second"));
+					$(".squares img:nth-child(3)").css("opacity","1");
+					$(".squares img:nth-child(1), .squares img:nth-child(2)").css("opacity","0.5");
+					page=3;
+				});
+			});
+		</script>
+	</body>
+</html>
