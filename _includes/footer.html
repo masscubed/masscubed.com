@@ -38,7 +38,7 @@
 				<ul class="footer-links">
 					{% for article in site.posts limit:4 | sort: "date" %}
 						{% if article.category == "Archived" %}
-							<li><a href="{{ article.url }}">{{ article.title | truncate: 10 }}</a></li>
+							<li><a href="{{ article.PDFurl }}">{{ article.title | truncate: 10 }}</a></li>
 						{% endif %}
 					{% endfor %}
 				</ul>
