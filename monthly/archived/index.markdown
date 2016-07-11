@@ -3,7 +3,7 @@ title: Previous Editions
 layout: default
 ---
 
-<main>
+
 <section class="grid container all-stories">
 	<div class="col max-width">
 		<h1 class="section-header">{{ page.title }}</h1>
@@ -23,4 +23,3 @@ layout: default
 		{% endif %}
 	{% endfor %}
 </section>
-</main>
