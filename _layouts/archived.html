@@ -13,7 +13,7 @@
 				<article class="col two-third no-left">
 					<h1 class="section-header">Archived Articles</h1>
 					{% for article in site.posts %}
-						{% if article.category == "Archived" %}
+						{% if article.categories[0] == "Archived" %}
 							<article class="archived-article">
 								<div class="col one-third no-left article-image" style="background-image:url({{ article.image }})">
 								</div>

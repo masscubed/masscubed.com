@@ -41,7 +41,7 @@ Just static `html`, `css` and `js` files, sprinkled with some images all within 
 
 The news site is generated using [Jekyll](https://jekyllrb.com) and [GitHub Pages](https://pages.github.com) (a nice intro video tutorial [can be found here](https://www.youtube.com/watch?v=nN6QuNqmAwk)). Basically, the files for the news site is organised in a way such that GitHub _parses_ through all the files with an underscore (e.g. `_layouts`) or with the file extension `.markdown` and generates a blogging website. It's a better alternative to using WordPress or any other third-party solution.
 
-If you want to publish posts, upload images, or tweak a little of the newe site's content, I suggest you login using the secret credentials on [Siteleaf](http://manage.siteleaf.com).
+If you want to publish posts, upload images, or tweak a little of the news site's content, I suggest you login using the secret credentials on [Siteleaf](http://manage.siteleaf.com).
 
 If you want to modify any of the files, I recommend learning a little bit about Jekyll yourself. Otherwise, have at thee!
 
