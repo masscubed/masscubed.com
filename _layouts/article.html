@@ -32,7 +32,7 @@
 					<h2 class="section-header">In This Issue</h2>
 					{% for article in site.posts %}
 						{% if article.featured == true %}
-							<a class="col tile" href="{{ post.url }}" style="background-image:url({{ article.image }})">
+							<a class="col tile" href="{{ article.url }}" style="background-image:url({{ article.image }})">
 								<article class="article">
 									<span class="article-type">{{ article.categories[0] }}</span>
 									<h1 class="article-headline">{{ article.title }}</h1>
