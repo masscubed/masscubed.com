@@ -3,7 +3,6 @@ title: Previous Editions
 layout: default
 ---
 
-
 <section class="grid container all-stories">
 	<div class="col max-width">
 		<h1 class="section-header">{{ page.title }}</h1>
