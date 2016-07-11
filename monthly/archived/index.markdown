@@ -3,36 +3,38 @@ title: Previous Editions
 layout: archived
 newsletters:
 - title: March 2016
-  url: "/news/newsletters/mar16.pdf"
+  url: "/assets/newsletters/2016-march.pdf"
 - title: February 2016
-  url: "/news/newsletters/feb16.pdf"
+  url: "/assets/newsletters/2016-february.pdf"
+- title: October 2015
+  url: "/assets/newsletters/2015-october.pdf"
 - title: September 2015
-  url: "/news/newsletters/sep15.pdf"
+  url: "/assets/newsletters/2015-september.pdf"
 - title: April 2015
-  url: "/news/newsletters/apr15.pdf"
+  url: "/assets/newsletters/2015-april.pdf"
 - title: August 2014
-  url: "/news/newsletters/aug14.pdf"
+  url: "/assets/newsletters/2014-august.pdf"
 - title: June 2014
-  url: "/news/newsletters/jun14.pdf"
+  url: "/assets/newsletters/2014-june.pdf"
 - title: April 2014
-  url: "/news/newsletters/apr14.pdf"
+  url: "/assets/newsletters/2014-april.pdf"
 - title: October 2013
-  url: "/news/newsletters/oct13.pdf"
+  url: "/assets/newsletters/2013-october.pdf"
 - title: April 2013
-  url: "/news/newsletters/apr13.pdf"
+  url: "/assets/newsletters/2013-april.pdf"
 - title: March 2013
-  url: "/news/newsletters/mar13.pdf"
+  url: "/assets/newsletters/2013-march.pdf"
 - title: October 2012
-  url: "/news/newsletters/oct12.pdf"
+  url: "/assets/newsletters/2012-october.pdf"
 - title: April 2012
-  url: "/news/newsletters/apr12.pdf"
+  url: "/assets/newsletters/2012-april.pdf"
 - title: March 2012
-  url: "/news/newsletters/mar12.pdf"
+  url: "/assets/newsletters/2012-march.pdf"
 - title: October 2011
-  url: "/news/newsletters/oct11.pdf"
+  url: "/assets/newsletters/2011-october.pdf"
 - title: July 2011
-  url: "/news/newsletters/jul11.pdf"
+  url: "/assets/newsletters/2011-july.pdf"
 - title: April 2011
-  url: "/news/newsletters/apr11.pdf"
+  url: "/assets/newsletters/2011-april.pdf"
 ---
 
