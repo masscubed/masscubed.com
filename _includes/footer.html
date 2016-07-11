@@ -34,14 +34,12 @@
 				</ul>
 			</div>
 			<div class="col half-size no-right">
-				<h2 class="footer-header">Previous Editions</h2>
+				<h2 class="footer-header">Manage the Site</h2>
 				<ul class="footer-links">
-					{% for article in site.posts limit:4 | sort: "date" %}
-						{% if article.category == "Archived" %}
-							<li><a href="{{ article.PDFurl }}">{{ article.title | truncate: 10 }}</a></li>
-						{% endif %}
-					{% endfor %}
-				</ul>
+					<li><a href="{{ site.email }}?subject=Feedback">Contact Editor</a></li>
+					<li><a href="http://manage.siteleaf.net">Log In</a></li>
+					<li><a href="http://github.com/cjmlgrto/masscubed.net">View Source</a></li>
+				</ul>	
 			</div>
 		</div>
 		<div class="col max-width">

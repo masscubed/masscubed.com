@@ -5,7 +5,7 @@ categories:
 - Community News
 subtitle: The newsletter you all know and love is now online, and better than ever.
 author: Carlos Melegrito
-image: "/uploads/andromeda-51da74.jpg"
+image: "/uploads/andromeda.jpg"
 cover: true
 ---
 

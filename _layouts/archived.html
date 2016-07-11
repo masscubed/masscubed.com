@@ -1,0 +1,49 @@
+<!doctype html>
+<html lang="en">
+	{% include head.html %}
+	<body>
+		{% include header.html %}
+		<nav class="navbar mobile hidden" onclick="toggle(this)">
+			{% include nav.html %}
+		</nav>
+
+ 		<main>
+			<div class="grid container">
+				<!-- list of archived articles -->
+				<article class="col two-third no-left">
+					<h1 class="section-header">Archived Articles</h1>
+					{% for article in site.posts %}
+						{% if article.category == "Archived" %}
+							<article class="archived-article">
+								<div class="col one-third no-left article-image" style="background-image:url({{ article.image }})">
+								</div>
+								<div class="col two-third no-right">
+									<a class="permalink" href="{{ article.url }}">
+										{% if article.edition %}<span class="article-type">{{ article.edition }}</span>{% endif %}
+										<h1 class="article-headline">{{ article.title }}</h1>
+									</a>
+								</div>
+							</article>
+						{% endif %}
+					{% endfor %}
+				</article>
+
+				<!-- links to other articles -->
+				<div class="col one-third no-right sidebar paper-editions">
+					<h2 class="section-header">Paper Editions</h2>
+					<ul>
+						{% for newsletter in page.newsletters %}
+							<li><a href="{{ newsletter.url }}">{{ newsletter.title }}</a></li>
+						{% endfor %}
+					</ul>
+				</div>
+			</div>
+		</main>
+
+		<nav class="navbar bottom-nav mobile hidden" onclick="toggle(this)">
+			{% include nav.html %}
+		</nav>
+		{% include footer.html %}
+	</body>
+	{% include scripts.html %}
+</html>

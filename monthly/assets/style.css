@@ -233,6 +233,32 @@ nav li {
 	margin: 0 0 2rem;
 }
 
+.archived-article .one-third {
+	width: calc(33% - 2.5rem);
+	margin-right: 0;
+}
+
+.archived-article .two-thid {
+	width: calc(67% - 1rem)
+}
+
+.paper-editions ul {
+	list-style: none;
+}
+
+.paper-editions li {
+	display: block;
+	font-weight: bold;
+	margin-bottom: .5rem;
+	letter-spacing: .1rem;
+	text-transform: uppercase;
+	font-family: "PT Sans", "Trebuchet MS", system, "Helvetica Neue"; 
+}
+
+.paper-editions li a {
+	text-decoration: none;
+}
+
 
 /* @end */
 
