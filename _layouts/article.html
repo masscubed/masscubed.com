@@ -20,9 +20,11 @@
 					</div>
 					{{ content }}
 
-					<div class="footnotes">
-						<p>Article image from <a href="{{ article.imageSourceURL }}">{{ article.imageSource }}</a></p>
-					</div>
+					{% if article.imageSource %}
+						<div class="footnotes">
+							<p>Article image from {% if article.imageSourceURL %}<a href="{{ article.imageSourceURL }}">{% endif %}{{ article.imageSource }}{% if article.imageSourceURL %}</a>{% endif %}</p>
+						</div>
+					{% endif %}
 				</article>
 
 				<!-- links to other articles -->
