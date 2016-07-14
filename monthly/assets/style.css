@@ -511,6 +511,10 @@ nav li {
 		padding-top: 50%;
 	}
 
+	.archived-article .article-image {
+		display: none;
+	}
+
 }
 
 /* @end */
