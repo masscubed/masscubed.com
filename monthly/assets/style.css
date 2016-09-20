@@ -31,6 +31,10 @@ h1, h2, h3, h4 {
 	margin-top: 2rem;
 }
 
+.full-article h2 {
+	margin-top: 2rem
+}
+
 p {
 	line-height: 1.5;
 	margin-bottom: 1rem;
@@ -142,6 +146,7 @@ nav li {
 
 .cover .article-subhead {
 	font-weight: bold;
+	margin-top: 0;
 }
 
 .cover .article-byline {
