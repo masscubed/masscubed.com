@@ -6,7 +6,7 @@ categories:
 subtitle: An interactive workshop blending public speaking & science
 author: Vox
 image: "/uploads/Vox.png"
-featured: true
+featured: false
 ---
 
 Here's the problem: science is still poorly communicated to the general public. As a result, journalists and media outlets publish sensationalised, often misleading claims— which in turn cause laypeople to hold on to completely unscientific ideas or have a crude view of how science works.
