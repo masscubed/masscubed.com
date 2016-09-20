@@ -6,7 +6,7 @@ categories:
 subtitle: An interactive workshop blending public speaking & science
 author: Carlos Melegrito for the Vox Club
 image: "/uploads/Vox.png"
-featured: false
+featured: true
 ---
 
 Here's the problem: [science is still poorly communicated to the general public](http://www.vox.com/2016/7/14/12016710/science-challeges-research-funding-peer-review-process). As a result, journalists and media outlets publish sensationalised, often misleading claims— which in turn cause laypeople to hold on to completely unscientific ideas or have a crude view of how science works.
