@@ -17,11 +17,16 @@ This Thursday the 6th of October, _Vox_ is holding [an interactive event](https:
 
 It will be held at the Green Chemical Futures Foyer from 6:00pm to 8:30pm, and tickets are priced at $5 for one, or $12 for three (bring friends!). Note that the tickets include **dinner**! You can find out more by at their [TryBooking web page](https://www.trybooking.com/Booking/BookingEventSummary.aspx?eid=228313).
 
+---
+
 ## Event Details
 
-- **When**: Thursday, October 6 from 6:00pm to 8:30pm
-- **Where**: Green Chemical Futures Foyer, Monash University Clayton
-- **How Much**: One ticket for $5 or three tickets for $12 (includes booking fee)
-- **Contact Email**: [Isobel Campbell](mailto:iccam1@student.monash.edu)
+**When**: Thursday, October 6 from 6:00pm to 8:30pm
+
+**Where**: Green Chemical Futures Foyer, Monash University Clayton
+
+**How Much**: One ticket for $5 or three tickets for $12 (includes booking fee)
+
+**Contact Email**: [Isobel Campbell](mailto:iccam1@student.monash.edu)
 
 
