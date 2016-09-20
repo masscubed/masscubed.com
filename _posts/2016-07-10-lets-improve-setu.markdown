@@ -7,7 +7,7 @@ categories:
 subtitle: Monash University is looking for ways to improve the feedback system.
 author: Carlos Melegrito for Danushi Peiris
 image: "/uploads/bulb.jpg"
-featured: true
+featured: false
 ---
 
 Danushi Peiris, fellow MASS³-ian and a member of the Dean’s Student Action Committee, is looking for your comments and suggestions regarding SETU. That is, in what ways can SETU be improved? Do you think there’s a better way to improve the system that helps improve your overall learning experience?
