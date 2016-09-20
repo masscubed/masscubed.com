@@ -6,7 +6,7 @@ categories:
 subtitle: Learn one of the most famous computer science problems of all time— without
   a single line of code!
 author: Carlos Melegrito
-image: https://hd.unsplash.com/photo-1457485206806-80a2d4b9ec93
+image: https://hd.unsplash.com/photo-1447969025943-8219c41ea47a
 imageSource: Unsplash
 imageSourceURL: https://unsplash.com/search/cat?photo=C7OHGQYtvxg
 cover: true
