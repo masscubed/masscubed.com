@@ -59,6 +59,7 @@
 					<h1 class="section-header">In This Issue</h1>
 				</div>
 				{% for article in site.posts %}
+					{% if site.categories[0] != "Archived" %}
 					<article class="article">
 						<div class="col one-third no-left article-image" style="background-image:url({{ article.image }})">
 						</div>
@@ -71,6 +72,7 @@
 							</a>
 						</div>
 					</article>
+					{% endif %}
 				{% endfor %}
 			</section>
 		</main>
