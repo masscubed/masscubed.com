@@ -7,7 +7,6 @@ categories:
 subtitle: The newsletter you all know and love is now online, and better than ever.
 author: Carlos Melegrito
 image: "/uploads/andromeda.jpg"
-cover: false
 ---
 
 Late last week, I was getting ready to publish the next edition of *the monthly*. All the articles had been written up. The photos for each piece were already in place. The word doc template was typeset, and all I needed to do was export the file as a PDF, then get our dear webmaster to upload it and share it.
