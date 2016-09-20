@@ -2,11 +2,12 @@
 title: Fun-tastic Science YouTube Channels
 date: 2016-07-10 19:48:00 +10:00
 categories:
+- Archived
 - Miscellaneous
 subtitle: Get smarter while you're bored!
 author: Carlos Melegrito
 image: "/uploads/misc-science-channels.jpg"
-featured: true
+featured: false
 ---
 
 Right now, I’m subscribed to about 30 YouTube channels— and a majority of them are science communication channels. Not only are they really fun to watch, but they’re great to learn from in terms of science content *and* information delivery!

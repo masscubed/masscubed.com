@@ -2,6 +2,7 @@
 title: How Hype-worthy is the Optimal Packed Lunch?
 date: 2016-07-10 19:50:00 +10:00
 categories:
+- Archived
 - Science News
 subtitle: Uncovering the mathematical relationship between Hype, Cost, Time and Deliciousness
 author: Carlos Melegrito, with Peter Halat, Bernard Field, Jack Polmear, Ivan Begic,

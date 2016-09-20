@@ -28,7 +28,7 @@ This GitHub repo is organised into a few main parts. Namely:
 - `/committee`
 - `/events`
 
-Just static `html`, `css` and `js` files, sprinkled with some images all within the `/assets` folder. Nothing fancy here, and what you see is what you get. Future webmaster, feel free to redesign these when you're bored.
+Just static `html`, `css` and `js` files, sprinkled with some images all within the `/assets` folder. Nothing fancy here, and what you see is what you get. Future webmaster, feel free to redesign these when you want to.
 
 ### The News Site
 

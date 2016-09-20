@@ -2,6 +2,7 @@
 title: The State of the Common Room Address
 date: 2016-07-10 19:40:00 +10:00
 categories:
+- Archived
 - Community News
 subtitle: The common room is filthy. Search your feelings. You know it to be true.
 author: Carlos Melegrito
