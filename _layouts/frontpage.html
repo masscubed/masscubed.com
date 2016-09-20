@@ -42,7 +42,7 @@
 			<section class="grid container top-stories">
 				{% for article in site.posts %}
 				{% assign count = 0 %}
-					{% if article.featured == true and site.categories[0] != "Archived" %}
+					{% if article.featured == true and article.categories[0] != "Archived" %}
 						<a class="col one-third tile {% cycle 'no-left', '', 'no-right' %}" href="{{ article.url }}" style="background-image:url({{ article.image }})">
 							<article class="article">
 								<span class="article-type">{{ article.categories[0] }}</span>
@@ -59,7 +59,7 @@
 					<h1 class="section-header">In This Issue</h1>
 				</div>
 				{% for article in site.posts %}
-					{% if site.categories[0] != "Archived" %}
+					{% if article.categories[0] != "Archived" %}
 					<article class="article">
 						<div class="col one-third no-left article-image" style="background-image:url({{ article.image }})">
 						</div>
