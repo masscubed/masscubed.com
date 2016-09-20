@@ -17,8 +17,6 @@ This Thursday the 6th of October, _Vox_ is holding [an interactive event](https:
 
 It will be held at the Green Chemical Futures Foyer from 6:00pm to 8:30pm, and tickets are priced at $5 for one, or $12 for three (bring friends!). Note that the tickets include **dinner**! You can find out more by at their [TryBooking web page](https://www.trybooking.com/Booking/BookingEventSummary.aspx?eid=228313).
 
----
-
 ## Event Details
 
 **When**: Thursday, October 6 from 6:00pm to 8:30pm
