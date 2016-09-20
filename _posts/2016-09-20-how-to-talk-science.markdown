@@ -25,4 +25,4 @@ It will be held at the Green Chemical Futures Foyer from 6:00pm to 8:30pm, and t
 
 **How Much**: One ticket for $5 or three tickets for $12 (includes booking fee)
 
-**Contact Email**: [Isobel Campbell](mailto:iccam1@student.monash.edu)
+**Contact Email**: [Isobel Campbell, iccam1@student.monash.edu](mailto:iccam1@student.monash.edu)
