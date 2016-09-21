@@ -15,7 +15,7 @@ Are you prospecting for a job? Unsure of what your career’s going to look like
 
 So where do you find it? LITERALLY walk a few steps from the common room! Not only do they provide comprehensive information about finding the right job, they also provide workshops on improving your resumé, cover-letter writing skills, and even on-the-spot practice interviews (and more)!
 
-For more information, head one over to [monash.edu.au/careers](monash.edu.au/careers).
+For more information, head on over to [monash.edu.au/careers](monash.edu.au/careers).
 
 ### Upcoming Events and Seminars
 
