@@ -37,7 +37,7 @@ Note: if you cannot make it on the night and would like to vote for someone or n
 
 **When**: Wednesday, September 21 from 6:00pm to 7:30pm
 
-**Where**: THe Monash Advanced Science Student Common Room, Monash University Clayton
+**Where**: The Monash Advanced Science Student Common Room, Monash University Clayton
 
 **How Much**: Free!
 
