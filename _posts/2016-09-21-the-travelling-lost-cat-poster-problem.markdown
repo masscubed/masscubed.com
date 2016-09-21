@@ -32,6 +32,10 @@ Solution two: plan it out a little. What if you visualised all the possible path
 
 Well, it won't work, because if you're good at math, you've now probably realised that if we have *n* lecture theatres, there are at least *n!* paths between each of them. Even if there are just 12 lecture theatres, you'd have to visualise 479,001,600 possible choices of paths. *Nope nope nope nope nope*.
 
+![FullSizeRender.jpg](/uploads/FullSizeRender.jpg)
+
+Such lecture theatres. Many paths.
+
 ## Option 3
 
 The next option? Play it like chess. Not literally, but work through the problem like you would decide your next move in a game of chess. How? Start off with your current position: what are the closest lecture theatres to you? Which path to the closest lecture theatres will take the minimal amount of time? Then, imagine yourself at that next lecture theatre. Imagine the closest lecture theatres to that one. Which paths are better? Did visiting that path save you time, or could you have picked the other path which saves you more time later?
