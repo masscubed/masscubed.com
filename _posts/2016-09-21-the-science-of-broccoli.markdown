@@ -41,5 +41,5 @@ So, this taste-receptor gene in humans *TAS2R*— works the same way. We [expres
 And that's the science of broccoli. As it turns out, it's more than a side-dish. It's a vegetable with a story— and its roots go way, way deeper!
 
 <div class="footnotes">
-<p>Sources are embedded in the article links, the photo of wild brassica oleracea is from [Flickr user –Tico–](https://www.flickr.com/photos/tico_bassie/) is licensed under [CC BY NC ND 2.0](https://creativecommons.org/licenses/by-nc-nd/2.0/) and the header image is used under a public domain license.</p>
+<p>Sources are embedded in the article links, the photo of wild brassica oleracea is from <a href="https://www.flickr.com/photos/tico_bassie/">Flickr user –Tico–</a> is licensed under <a href="https://creativecommons.org/licenses/by-nc-nd/2.0/">CC BY NC ND 2.0</a> and the header image is used under a public domain license.</p>
 </div> 
