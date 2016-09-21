@@ -30,6 +30,8 @@ Just like broccoli, dogs share a more recent common ancestor. Over time, humans 
 
 For the non-bio students reading this, here's a little bit more about breeding: even though broccoli, kale, cabbage and cauliflower all look very different, they all share the same base set of genes. What makes them look different is that certain genes are 'turned on' based on the way they've been bred and propagated— so the genes that express the dotted look of broccoli are also in the genome of kale, except they haven't been *expressed*.
 
+![boleracea.jpg](https://hd.unsplash.com/photo-1461840749711-ef8d1b5726cc)
+
 In fact, this same idea can also explain why only some of us humans really love (or hate!) this bitter vegetable.
 
 There's a specific gene shared by us humans called the [*TAS2R bitter receptor*](http://www.ncbi.nlm.nih.gov/pubmed/18003842), and you've probably guessed, it is responsible for our repsonses to bitter-tasting foods. We've evolved to have this gene as a defense mechanism against potentially dangerous substances— such as for example, if we were trawling through the wild with no food in sight, we'd need to be able to figure out whether a food is poisonous or not.
@@ -41,5 +43,5 @@ So, this taste-receptor gene in humans *TAS2R*— works the same way. We [expres
 And that's the science of broccoli. As it turns out, it's more than a side-dish. It's a vegetable with a story— and its roots go way, way deeper!
 
 <div class="footnotes">
-<p>Sources are embedded in the article links, the photo of wild brassica oleracea is from <a href="https://www.flickr.com/photos/tico_bassie/">Flickr user –Tico–</a> is licensed under <a href="https://creativecommons.org/licenses/by-nc-nd/2.0/">CC BY NC ND 2.0</a> and the header image is used under a public domain license.</p>
+<p>Sources are embedded in the article links, the photo of wild brassica oleracea is from <a href="https://www.flickr.com/photos/tico_bassie/">Flickr user –Tico–</a> is licensed under <a href="https://creativecommons.org/licenses/by-nc-nd/2.0/">CC BY NC ND 2.0</a>, the photo of broccoli is from [Unsplash](https://unsplash.com/search/broccoli?photo=hVYavwE969U) under a royalty-free license, and the header image is used under a public domain license.</p>
 </div> 
