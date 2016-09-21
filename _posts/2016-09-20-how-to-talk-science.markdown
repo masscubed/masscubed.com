@@ -5,7 +5,7 @@ categories:
 - Events
 subtitle: An interactive workshop blending public speaking & science
 author: Carlos Melegrito for the Vox Club
-image: "/uploads/Card.png"
+image: "/uploads/Vox.png"
 featured: false
 ---
 
