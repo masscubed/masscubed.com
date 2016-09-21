@@ -59,3 +59,8 @@ The third solution is a bit more smart— in fact, it is almost the same way the
 This entire problem is also known as the [*Travelling Salesman Problem*](https://www.wired.com/2013/01/traveling-salesman-problem/) in computer science, and the same situation can be generalised into a whole lot more real-world problems. For example, delivering parcels, scheduling flight patterns, and even just navigating a map. It's one of the most famous (perhaps, notoriously infamous) problems in computer science because it's a dilemma that's entirely dependent on the given input and the type of solution it requires.
 
 But hey, even if you didn't get to put up all the posters, you at least learned a little bit about computer science! Oh hold on— what's that mysterious black figure next to your lab class? Ah, it's your cat!
+
+<div class="footnotes">
+<p>The <a href="https://unsplash.com/search/cat?photo=C7OHGQYtvxg">above cat picture</a> is from Unsplash and is used under a royalty-free license.</p>
+
+</div>
