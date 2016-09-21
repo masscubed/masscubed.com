@@ -11,7 +11,7 @@ featured: true
 
 ## The AGM?
 
-The *Annual General Meeting* happens every year in September, and it's your chance to elect the new committee for next year - maybe even go for a role yourself!
+The [*Annual General Meeting*](https://www.facebook.com/events/177164336046797/) happens every year in September, and it's your chance to elect the new committee for next year - maybe even go for a role yourself!
 
 The roles up for grabs are:
 
@@ -35,4 +35,6 @@ Note: if you cannot make it on the night and would like to vote for someone or n
 **How Much**: Free!
 
 **Contact Email**: [Victoria Bicknell](https://www.facebook.com/victoria.bicknell1)
+
+Visit the [Facebook Event page](https://www.facebook.com/events/177164336046797/) to find out more.
 
