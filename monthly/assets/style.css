@@ -233,6 +233,15 @@ nav li {
 	font-size: 3em;
 }
 
+.full-article .article-subhead {
+	margin-top: 0;
+}
+
+.full-article ul, .full-article ol {
+	margin-left: 1rem;
+	padding-left: 1rem;
+}
+
 .sidebar .col {
 	width: 100%;
 	margin: 0 0 2rem;
