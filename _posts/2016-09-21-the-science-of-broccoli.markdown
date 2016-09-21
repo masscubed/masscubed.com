@@ -7,6 +7,8 @@ subtitle: What do broccoli, cauliflower, brussel sprouts, cabbage, and kale have
   common? And nope, they're not just vegetables!
 author: Carlos Melegrito
 image: "/uploads/veggies.jpg"
+imageSource: Wikemedia Commons
+imageSourceURL: https://en.wikipedia.org/wiki/Brassica_oleracea#/media/File:Frukt_och_grösakshandel._Pieter_Aertsen_-_Hallwylska_museet_-_86399.tif
 cover: true
 ---
 
