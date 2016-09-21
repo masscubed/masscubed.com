@@ -54,6 +54,8 @@ The second solution is termed the *brute force* approach. That is, to think of e
 
 The third solution is a bit more smart— in fact, it is almost the same way the world's best chess grandmasters play chess. In computer science terms, it's called using a little bit of [*backtracking*](https://web.archive.org/web/20070317015632/http://www.cse.ohio-state.edu/~gurari/course/cis680/cis680Ch19.html#QQ1-51-128) and [*dynamic programming*](http://stackoverflow.com/questions/1065433/what-is-dynamic-programming) (a.k.a. using previous solutions to affect your choices). It's definitely a lot faster than generating all permutations, but it's still no faster once you have to crunch the data for a whole lot of lecture theatres. All in all however, this is probably the fastest known way to do it.
 
+![paths.jpg](/uploads/paths.jpg)
+
 This entire problem is also known as the [*Travelling Salesman Problem*](https://www.wired.com/2013/01/traveling-salesman-problem/) in computer science, and the same situation can be generalised into a whole lot more real-world problems. For example, delivering parcels, scheduling flight patterns, and even just navigating a map. It's one of the most famous (perhaps, notoriously infamous) problems in computer science because it's a dilemma that's entirely dependent on the given input and the type of solution it requires.
 
 But hey, even if you didn't get to put up all the posters, you at least learned a little bit about computer science! Oh hold on— what's that mysterious black figure next to your lab class? Ah, it's your cat!
