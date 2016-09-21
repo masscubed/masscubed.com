@@ -14,6 +14,8 @@ featured: true
 
 Monash University is partnering with the Australian Regenerative Medicine Institute to raise and secure funds for scientific research into Muscular Dystrophy. The collaborative crowdfunding campaign is launching on Wednesday, the 21st of September.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6iApht0qgDc" frameborder="0" allowfullscreen></iframe>
+
 ## About the Cause
 
 Muscular Dystrophy (MD) is a life threatening genetic condition that causes the gradual wasting away of muscles. Eventually making daily tasks impossible without help. One in every 2900 males and 50 million females are born with, or develop, a form of MD.
