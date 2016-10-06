@@ -10,7 +10,6 @@ subtitle: A new committee,  a new editor and a new era of MassCubed Monthly!
 author: Riley McGoldrick
 image: "/uploads/somethinnew.gif"
 imageSource: gifsoup
-featured: true
 layout: article
 ---
 
