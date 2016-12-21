@@ -1,7 +1,8 @@
 ---
 title: How to Write Without Feeling Like a Big Dumb Idiot
 date: 2016-10-06 13:34:00 +11:00
-published: false
+categories:
+- Editorial
 tags:
 - writing
 - welcome
@@ -9,7 +10,6 @@ subtitle: A new committee,  a new editor and a new era of MassCubed Monthly!
 author: Riley McGoldrick
 image: "/uploads/somethinnew.gif"
 imageSource: gifsoup
-featured: true
 layout: article
 ---
 
