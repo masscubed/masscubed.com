@@ -2,7 +2,6 @@
 title: Secure Funds for Research in Muscular Dystrophy
 date: 2016-09-21 02:03:00 +10:00
 categories:
-- Community News
 - Archived
 subtitle: Monash University's first-ever official crowdfunding campaign is up for
   a good cause
