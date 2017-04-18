@@ -10,6 +10,7 @@ tags:
 subtitle: 'March 2017 common room quote commentary, because why not? '
 author: Shon Kolomoisky
 image: "/uploads/OcrQ.jpg"
+imageSource: The pavement in front of the common room
 featured: true
 cover: true
 ---
