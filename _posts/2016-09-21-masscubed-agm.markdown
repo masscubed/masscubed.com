@@ -6,7 +6,6 @@ categories:
 subtitle: It's that time of year— to elect the new committee for the next year!
 author: MASS³
 image: "/uploads/ogm_pic.jpg"
-featured: true
 ---
 
 ## The AGM?

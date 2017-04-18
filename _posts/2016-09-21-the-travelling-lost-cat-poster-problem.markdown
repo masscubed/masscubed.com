@@ -9,7 +9,6 @@ author: Carlos Melegrito
 image: https://hd.unsplash.com/photo-1447969025943-8219c41ea47a
 imageSource: Unsplash
 imageSourceURL: https://unsplash.com/search/cat?photo=C7OHGQYtvxg
-cover: false
 ---
 
 Why Computer Science? Because it's the future. No, I'm serious— a decade from now, computer science is [expected to be in the primary school curriculum](https://theconversation.com/an-education-for-the-21st-century-means-teaching-coding-in-schools-42046). Pretty soon the next-generation millenials (if they're still called millenials then) will know more about these problems in their younger ages than you do right now. So you've got a lot of catching up to do, if you want to keep hip and cool with the youngsters!

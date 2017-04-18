@@ -2,6 +2,7 @@
 title: The Science of Broccoli
 date: 2016-09-21 11:58:00 +10:00
 categories:
+- Archived
 - Editorial
 subtitle: What do broccoli, cauliflower, brussel sprouts, cabbage, and kale have in
   common? And nope, they're not just vegetables!
