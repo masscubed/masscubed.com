@@ -26,7 +26,7 @@ Now, onto the good part.
 
 * *“Fuck your beliefs”* – Michael/Keith/Boris/Pablo
 
-* *“Michael: What your favourite type of condom?                                         Sean: Duplex”*                                                                                                              ***Note:** ***It is always useful to have recommendations of proper protection.**
+* *“Michael: What your favourite type of condom?                                         Sean: Duplex”*                                                                                                              \***Note:** \***It is always useful to have recommendations of proper protection.**
 
 * *“Katie: Yeah boiiiiiiiiiiiii”*
 
@@ -40,7 +40,7 @@ Now, onto the good part.
 
 * *“No one else is man enough to eat ovaries and die”* – Peter
 
-* \*“Don’t stab my muffin” \*– Katie
+* *“Don’t stab my muffin”* – Katie
 
 * *“Touch there and then with one hand, touch the nipple”* – Madeline
 
@@ -52,11 +52,11 @@ Now, onto the good part.
 
 * *“It’s always the quiet ones” – Quite one                                                              **Note***: Ask Sean for recommendations before trying anything too intense.\*\*
 
-* *“I am like a bee, my lumps break off when I stab people with them” *– Jack
+* \*“I am like a bee, my lumps break off when I stab people with them” \*– Jack
 
 * *“We should bring back pegging to the common room”* – Keith              ***Note:*** **Start a petition and we will see what we can do**
 
-* *“F off Sophie”* – Everyone                                                                                   \*\*\*Note: \*\*\***Institutionalised Bullying is not technically endorsed by the Mass3 leadership. However, censorship is definitly discouraged, please use complete profanities next time verbal abuse is incited. Thank you for your cooperation.**
+* *“F off Sophie”* – Everyone                                                                                   ***Note: *****Institutionalised Bullying is not technically endorsed by the Mass3 leadership. However, censorship is definitly discouraged, please use complete profanities next time verbal abuse is incited. Thank you for your cooperation.**
 
 * *“I need to go pee”* – Jack
 
