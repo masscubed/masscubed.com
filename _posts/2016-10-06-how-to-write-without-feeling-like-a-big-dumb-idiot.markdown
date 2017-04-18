@@ -1,7 +1,6 @@
 ---
 title: How to Write Without Feeling Like a Big Dumb Idiot
 date: 2016-10-06 13:34:00 +11:00
-published: false
 categories:
 - Editorial
 tags:
