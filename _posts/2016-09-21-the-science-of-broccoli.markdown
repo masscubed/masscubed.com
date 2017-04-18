@@ -9,7 +9,6 @@ author: Carlos Melegrito
 image: "/uploads/veggies.jpg"
 imageSource: Wikemedia Commons
 imageSourceURL: https://en.wikipedia.org/wiki/Brassica_oleracea#/media/File:Frukt_och_grösakshandel._Pieter_Aertsen_-_Hallwylska_museet_-_86399.tif
-cover: true
 ---
 
 The scientific name for broccoli— that bitter-tasting, almost alien-like green vegetable— is *brassica oleracea*. Translated, the *oleracea* part literally means ‘edible vegetable’. It's as vague as it gets because that suprisingly iconic culinary plant has been around with us humans ever since the dawn of civilisation.
