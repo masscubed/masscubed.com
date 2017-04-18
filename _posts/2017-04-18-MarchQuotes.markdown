@@ -17,7 +17,7 @@ cover: true
 
 # A Quick Intro
 
-So before get into the borderline insanity that are the common room quotes, let me introduce myself. I am Shon Kolomoisky, your new editor. I know an update to the Monthly has been a long time coming, but better late than never right? Either way, I plan on future articles being more punctual than this one. If you are reading this article and want to contribute to the Monthly, feel free to speak to me or message me.
+So before we get into the borderline insanity that are the common room quotes, let me introduce myself. I am Shon Kolomoisky, your new editor. I know an update to the Monthly has been a long time coming, but better late than never right? Either way, I plan on future articles being more punctual than this one. If you are reading this article and want to contribute to the Monthly, feel free to speak to me or message me.
 
 Now, onto the good part.
 
