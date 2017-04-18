@@ -29,11 +29,11 @@ Now, onto the good part.
 
 * *“Fuck your beliefs”* – Michael/Keith/Boris/Pablo
 
-* *“Michael: What your favourite type of condom?                                         Sean: Duplex”*                                                                                                              \***Note:** \***It is always useful to have recommendations of proper protection.**
+* *“Michael: What your favourite type of condom?                                         Sean: Duplex”*                                                                                                              ***Note:*** **It is always useful to have recommendations of proper protection.**
 
 * *“Katie: Yeah boiiiiiiiiiiiii”*
 
-* *“David is the most amazing person ever, better than Jesus” *– Kathleen
+* *“David is the most amazing person ever, better than Jesus”* – Kathleen
 
 * *“There’s nothing I can do in LaTeX that I can’t do in word”* – Shon      ***Note*****: This list is typed in word, suck it Ethan/Ashton.**
 
@@ -49,17 +49,17 @@ Now, onto the good part.
 
 * *“Pure maths is like the internet.. But cooler”* – Ivan Doritos
 
-* \*“Smite me daddy” \*– Shon
+* *“Smite me daddy”*– Shon
 
 * *“I need to get a quote up there”­* – Nobes
 
-* *“It’s always the quiet ones” – Quite one                                                              **Note***: Ask Sean for recommendations before trying anything too intense.\*\*
+* *“It’s always the quiet ones”* – Quite one                                                              ***Note***: **Ask Sean for recommendations before trying anything too intense.**
 
 * \*“I am like a bee, my lumps break off when I stab people with them” \*– Jack
 
 * *“We should bring back pegging to the common room”* – Keith              ***Note:*** **Start a petition and we will see what we can do**
 
-* *“F off Sophie”* – Everyone                                                                                   ***Note: *****Institutionalised Bullying is not technically endorsed by the Mass3 leadership. However, censorship is definitly discouraged, please use complete profanities next time verbal abuse is incited. Thank you for your cooperation.**
+* *“F off Sophie”* – Everyone                                                                                   ***Note:*** **Institutionalised Bullying is not technically endorsed by the Mass3 leadership. However, censorship is definitly discouraged, please use complete profanities next time verbal abuse is incited. Thank you for your cooperation.**
 
 * *“I need to go pee”* – Jack
 
@@ -67,7 +67,7 @@ Now, onto the good part.
 
 * *“Because I am a male I have to wait a few seconds before I can blast again”* – Jack                                                                                                                 **So... Many... Quotes...**
 
-* *“Okay I’ve got herpes, whatever.”* – Jack                                                       \*\*\*Note: \*\*\***Again, please ask Sean for condom recommendations.**
+* *“Okay I’ve got herpes, whatever.”* – Jack                                                       ***Note:*** **Again, please ask Sean for 'recommendations'.**
 
 * *“Nathan please don’t bend down like that”* – Jack
 
