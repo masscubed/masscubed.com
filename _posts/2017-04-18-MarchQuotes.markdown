@@ -8,7 +8,8 @@ tags:
 subtitle: 'March 2017 common room quote commentary, because why not? '
 author: Shon Kolomoisky
 image: "/uploads/OcrQ.jpg"
-featured: 'True'
+featured: true
+cover: true
 ---
 
 # A Quick Intro
