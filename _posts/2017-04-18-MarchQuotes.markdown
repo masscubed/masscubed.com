@@ -95,6 +95,6 @@ This one is self-explanatory, an award for those who would go through anything t
 
 ## The Quote that Made Me Want to End Myself the Most:
 
-*“I have like 9 contact hours”* – Resident arts student (aka Rachel)
+*“I have like 8 contact hours”* – Resident arts student (aka Rachel)
 
 ‘nuff said.
