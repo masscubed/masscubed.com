@@ -2,6 +2,7 @@
 title: 'Soon: The MASS³ AGM'
 date: 2016-09-21 10:30:00 +10:00
 categories:
+- Archived
 - Events
 subtitle: It's that time of year— to elect the new committee for the next year!
 author: MASS³

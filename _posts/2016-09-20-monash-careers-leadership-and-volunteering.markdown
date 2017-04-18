@@ -2,6 +2,7 @@
 title: Monash Careers, Leadership and Volunteering
 date: 2016-09-20 19:55:00 +10:00
 categories:
+- Archived
 - Miscellaneous
 subtitle: A word from our sponsor
 author: MASS³
