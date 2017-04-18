@@ -53,7 +53,7 @@ Now, onto the good part.
 
 * *“I need to get a quote up there”­* – Nobes
 
-* *“It’s always the quiet ones”* – Quite one                                                              ***Note***: **Ask Sean for recommendations before trying anything too intense.**
+* *“It’s always the quiet ones”* – Quiet one                                                              ***Note***: **Ask Sean for recommendations before trying anything too intense.**
 
 * \*“I am like a bee, my lumps break off when I stab people with them” \*– Jack
 
