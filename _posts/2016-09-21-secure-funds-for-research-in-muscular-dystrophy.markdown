@@ -9,7 +9,6 @@ author: Carlos Melegrito via ARMI
 image: "/uploads/Unknown.jpeg"
 imageSource: ARMI
 imageSourceURL: https://www.instagram.com/p/BJcb_mmBhUC/?taken-by=regener8au
-featured: true
 ---
 
 Monash University is partnering with the Australian Regenerative Medicine Institute to raise and secure funds for scientific research into Muscular Dystrophy. The collaborative crowdfunding campaign is launching on Wednesday, the 21st of September.
