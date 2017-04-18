@@ -59,7 +59,7 @@ Now, onto the good part.
 
 * *“We should bring back pegging to the common room”* – Keith              ***Note:*** **Start a petition and we will see what we can do**
 
-* *“F off Sophie”* – Everyone                                                                                   ***Note:*** **Institutionalised Bullying is not technically endorsed by the Mass3 leadership. However, censorship is definitly discouraged, please use complete profanities next time verbal abuse is incited. Thank you for your cooperation.**
+* *“F off Sophie”* – Everyone                                                                                   ***Note:*** **Institutionalised Bullying is not technically endorsed by the Mass3 leadership. However, censorship is definitely discouraged, please use complete profanities next time verbal abuse is incited. Thank you for your cooperation.**
 
 * *“I need to go pee”* – Jack
 
