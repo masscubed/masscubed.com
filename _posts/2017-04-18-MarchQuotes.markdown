@@ -18,17 +18,17 @@ Now, onto the good part.
 
 # Quotes of March:
 
-* \*“What if there are really fat people?” \*– Peter
+* *“What if there are really fat people?”*– Peter
 
 * *“No, I’m basic. There’s a difference.”* – Hans
 
 * *“Fuck your beliefs”* – Michael/Keith/Boris/Pablo
 
-* \*“Michael: What your favourite type of condom?                                         Sean: Duplex”                                                                                                              \*\*Note: \*\*\***It is always useful to have recommendations of proper protection.**
+* *“Michael: What your favourite type of condom?                                         Sean: Duplex”*                                                                                                              ***Note:** ***It is always useful to have recommendations of proper protection.**
 
 * *“Katie: Yeah boiiiiiiiiiiiii”*
 
-* \*“David is the most amazing person ever, better than Jesus” \*– Kathleen
+* *“David is the most amazing person ever, better than Jesus” *– Kathleen
 
 * *“There’s nothing I can do in LaTeX that I can’t do in word”* – Shon      ***Note*****: This list is typed in word, suck it Ethan/Ashton.**
 
@@ -50,7 +50,7 @@ Now, onto the good part.
 
 * *“It’s always the quiet ones” – Quite one                                                              **Note***: Ask Sean for recommendations before trying anything too intense.\*\*
 
-* “I am like a bee, my lumps break off when I stab people with them”\* \*– Jack
+* *“I am like a bee, my lumps break off when I stab people with them” *– Jack
 
 * *“We should bring back pegging to the common room”* – Keith              ***Note:*** **Start a petition and we will see what we can do**
 
@@ -58,9 +58,9 @@ Now, onto the good part.
 
 * *“I need to go pee”* – Jack
 
-* \*“My dad is a fancy air conditioner” \*– Jack
+* *“My dad is a fancy air conditioner”* – Jack
 
-* \*“Because I am a male I have to wait a few seconds before I can blast again” \*– Jack                                                                                                                 **So... Many... Quotes...**
+* *“Because I am a male I have to wait a few seconds before I can blast again”* – Jack                                                                                                                 **So... Many... Quotes...**
 
 * *“Okay I’ve got herpes, whatever.”* – Jack                                                       \*\*\*Note: \*\*\***Again, please ask Sean for condom recommendations.**
 
@@ -68,7 +68,7 @@ Now, onto the good part.
 
 * *“SCI2015? More like sigh2015”* – George
 
-* *“So I am enquiring about tractorsxxx.xom”* – Tom, Tom, Ethan                Great idea for the GC kids right here. Get on it.
+* *“So I am enquiring about tractorsxxx.xom”* – Tom, Tom, Ethan                **Great idea for the GC kids right here. Get on it.**
 
 * *“I have like 8 contact hours”* – Resident arts student
 
