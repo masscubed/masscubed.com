@@ -2,8 +2,8 @@
 title: The Travelling Lost Cat Poster Problem
 date: 2016-09-21 00:39:00 +10:00
 categories:
-- Editorial
 - Archived
+- Editorial
 subtitle: Learn one of the most famous computer science problems of all time— without
   a single line of code!
 author: Carlos Melegrito
