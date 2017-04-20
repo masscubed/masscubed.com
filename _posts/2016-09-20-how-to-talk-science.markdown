@@ -2,8 +2,8 @@
 title: How to Talk Science
 date: 2016-09-20 23:54:00 +10:00
 categories:
-- Events
 - Archived
+- Events
 subtitle: An interactive workshop blending public speaking & science
 author: Carlos Melegrito for the Vox Club
 image: "/uploads/Vox.png"
