@@ -57,7 +57,7 @@ On With the quotes!
 
   * **Yes, yes it is. Side note: people are getting lazier and lazier in giving your name/s the respect they deserve Keith/Michael/Pablo/Boris/Possibly other names that I am yet to learn..**
 
-* \*"All shitty drawn rockets look like schlongs" - \*Shon
+* *"All shitty drawn rockets look like schlongs"* - Shon
 
   * **I stand by my words, they do.**
 
