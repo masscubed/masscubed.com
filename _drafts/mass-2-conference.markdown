@@ -8,6 +8,8 @@ tags:
 - Conference
 subtitle: A summary of the glorious event that was the first official MASS^2 Conference!
 author: Shon Kolomoisky
+image: "/uploads/20170515_212349.jpg"
+imageSource: Lachlan King
 featured: 'True'
 cover: 'True'
 ---
