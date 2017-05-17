@@ -2,8 +2,7 @@
 title: Monthly Quote Highlight
 date: 2017-04-18 16:07:00 +10:00
 permalink: "/monthly/editorial/MarchQuotes"
-categories:
-- Editorial
+published: false
 tags:
 - Quotes
 - March
@@ -11,8 +10,6 @@ subtitle: 'March 2017 common room quote commentary, because why not? '
 author: Shon Kolomoisky
 image: "/uploads/OcrQ.jpg"
 imageSource: The pavement in front of the common room
-featured: true
-cover: true
 ---
 
 # A Quick Intro
