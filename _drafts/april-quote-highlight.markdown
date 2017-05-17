@@ -7,6 +7,9 @@ tags:
 - Monthly Quotes
 subtitle: Another month bring more insanity. Sweet, sweet insanity.
 author: Shon Kolomoisky
+image: "/uploads/20170512_104553.jpg"
+imageSource: A common room whiteboard
+featured: 'True'
 ---
 
 So once again another month has passed, and once again I am a behind in posting the next monthly newsletter. However, as always here is a plethora of quotes that once again highlight that there is in fact a relationship between a love of science, and a certain degree of repressed darkness hiding in one's mind.
