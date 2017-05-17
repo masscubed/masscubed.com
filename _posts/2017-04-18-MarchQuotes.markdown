@@ -2,8 +2,7 @@
 title: Monthly Quote Highlight
 date: 2017-04-18 16:07:00 +10:00
 permalink: "/monthly/editorial/MarchQuotes"
-categories:
-- Editorial
+published: false
 tags:
 - Quotes
 - March
