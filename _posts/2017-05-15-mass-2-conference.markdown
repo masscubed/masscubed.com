@@ -10,7 +10,7 @@ subtitle: A summary of the glorious event that was the first official MASS^2 Con
 author: Shon Kolomoisky
 image: "/uploads/20170515_212349.jpg"
 imageSource: Lachlan King
-featured: true
+featured: false
 cover: true
 ---
 
