@@ -10,8 +10,8 @@ subtitle: A summary of the glorious event that was the first official MASS^2 Con
 author: Shon Kolomoisky
 image: "/uploads/20170515_212349.jpg"
 imageSource: Lachlan King
-featured: 'True'
-cover: 'True'
+featured: true
+cover: true
 ---
 
 May 2017 will hopefully be of a special significance to MASS^3 as this month was host to the Monash Advanced Science Student Showcase, or MASS^2 for short. This was a chance for the brilliant minds and personalities in the Advanced Science courses to show off and present their various research projects, business pitches, and other speeches of various styles.  The night was run through the joint effort of the wonderful MCs Peter Halat and Loren Pugh, who made sure MASS^2 was an entertaining and well run event.
