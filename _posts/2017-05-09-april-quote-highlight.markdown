@@ -1,8 +1,7 @@
 ---
 title: April Quote Highlight
 date: 2017-05-09 21:28:00 +10:00
-categories:
-- Editorial
+published: false
 tags:
 - Monthly Quotes
 subtitle: Another month bring more insanity. Sweet, sweet insanity.
