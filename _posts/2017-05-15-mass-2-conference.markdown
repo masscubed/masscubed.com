@@ -1,8 +1,7 @@
 ---
 title: MASS^2 Conference
 date: 2017-05-15 23:47:00 +10:00
-categories:
-- Events
+published: false
 tags:
 - MASS^2
 - Conference
