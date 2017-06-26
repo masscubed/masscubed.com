@@ -1,8 +1,7 @@
 ---
 title: MASS^2 Conference
 date: 2017-05-15 23:47:00 +10:00
-categories:
-- Events
+published: false
 tags:
 - MASS^2
 - Conference
@@ -10,7 +9,7 @@ subtitle: A summary of the glorious event that was the first official MASS^2 Con
 author: Shon Kolomoisky
 image: "/uploads/20170515_212349.jpg"
 imageSource: Lachlan King
-featured: true
+featured: false
 cover: true
 ---
 
