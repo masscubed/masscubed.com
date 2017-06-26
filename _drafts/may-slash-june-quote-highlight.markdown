@@ -21,7 +21,7 @@ Regardless of how badly abused everyone was with their exams, let's get into thi
 
 * *"It's like Stockholm Syndrome. You Stockholm me."* - Shon
 
-* \*"Why is there maths on the quote board? Who would quote maths?" \*- Anon
+* "\*Why is there maths on the quote board? Who would quote maths?" \*- Anon
 
   * **I like what the need for anonymity in this quote says about the people we are.**
 
@@ -29,7 +29,7 @@ Regardless of how badly abused everyone was with their exams, let's get into thi
 
 * *"You poke it and it squirts; quite a defensive squirt."* - Anon
 
-* *"Are you fat shaming?"* 
+* *"Are you fat shaming?"*
 
   *"Yes"* - Hans
 
@@ -41,7 +41,7 @@ Regardless of how badly abused everyone was with their exams, let's get into thi
 
 * *"I am a little bit of a racist"* - Jimmy
 
-* *He's close, I can smell him."* - Rachel
+* *"He's close, I can smell him."* - Rachel
 
 * *"Jimmy!"* - About 6 people simultaneously
 
@@ -53,7 +53,7 @@ Regardless of how badly abused everyone was with their exams, let's get into thi
 
 * *"I've got a whole inch on my brother."* - Unknown
 
-  * **Congratulations? **
+  * **Congratulations?**
 
 * *"Same way with anything else, suck it up and watch it fall" - Keith*
 
@@ -65,19 +65,17 @@ Regardless of how badly abused everyone was with their exams, let's get into thi
 
 * *"I'm not weak, I just enjoy enjoying my life"* - Anthony
 
-* *"Hi my name is I do global challenges"* - Evert GC kid
+* *"Hi my name is I do global challenges"* - Every GC kid
 
 * *"You are going to f up your exams... in a good way.."* - Jack
 
-* *Where are you on a scale of :*
+* *"Where are you on a scale of :*
 
-  *\[What the hell is god---------------------to-----------------------OMG it's god!\]" *
-
-  - Unknown
+  *\[What the hell is god---------------------to-----------------------OMG it's god!\]"*  -Unknown
 
   * **Note: I did not know how to represent this quote in text...**
 
-* *"Hi my name is ____ and I make memes." - *Every research kid ever
+* *"Hi my name is ____ and I make memes."* - Every research kid ever
 
   * **I mean... That's not wrong...**
 
@@ -95,6 +93,24 @@ Regardless of how badly abused everyone was with their exams, let's get into thi
 
 * *"What happened to Hitler's body?"*
 
-  *"It resurrected in the form of Jimmy"* - George* *
+  *"It resurrected in the form of Jimmy"* - George\* \*
 
 * *"Fucking Germans"* -James
+
+# Quote Awards:
+
+**Best Piece of Advice:**
+
+This award goes to the person with the quote that provides us with the best life advice. So out of all the... let's say gems of wisdom that are present on the board, this award goes to Sean Malcolm with the following wisdom:
+
+*"Pain is temporary, GPA is forever."*
+
+**Best Quote of the Month/s:**
+
+This month we have a draw, two quotes that have hit a certain degree of fundamental truth about the state of the world, the function of the universe, and the essence of existence. The award in fact goes to the following two quotes:
+
+* *"Hi my name is I do global challenges"*  - Every GC kid
+
+* *"Hi my name is ____ and I make memes."* - Every research kid ever
+
+So technically... Everyone won an award this month! Give yourself a pat on the back, you achieved something.
