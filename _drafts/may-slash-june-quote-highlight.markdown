@@ -21,7 +21,7 @@ Regardless of how badly abused everyone was with their exams, let's get into thi
 
 * *"It's like Stockholm Syndrome. You Stockholm me."* - Shon
 
-* "\*Why is there maths on the quote board? Who would quote maths?" \*- Anon
+* *"Why is there maths on the quote board? Who would quote maths?"* - Anon
 
   * **I like what the need for anonymity in this quote says about the people we are.**
 
