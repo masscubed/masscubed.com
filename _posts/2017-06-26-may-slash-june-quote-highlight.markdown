@@ -8,6 +8,8 @@ tags:
 subtitle: The combined quotes of two months!
 author: Shon Kolomoisky
 image: "/uploads/IMG_20170613_111953.jpg"
+featured: true
+cover: true
 ---
 
 Welcome back to another issue of Mass^3 Monthly! This is possibly the latest issue yet with only days of June left. June has been a great month hasn't it? We saw the end of another semester, another Mass^3 study night, and everyone's favorite time of semester: Exams.
