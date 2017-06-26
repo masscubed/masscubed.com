@@ -3,6 +3,8 @@ title: May/June Quote Highlight
 date: 2017-06-26 17:12:00 +10:00
 categories:
 - Editorial
+tags:
+- Monthly Quotes
 subtitle: The combined quotes of two months!
 author: Shon Kolomoisky
 image: "/uploads/IMG_20170613_111953.jpg"
