@@ -57,4 +57,4 @@ Anyway, let's get down to business!
 
 * *"Stop distracting me!"* - Maddy
 
-  *"Stop trying to sleep with me!" *- Liam
+  *"Stop trying to sleep with me!"* - Liam
