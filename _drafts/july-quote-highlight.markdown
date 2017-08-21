@@ -88,3 +88,9 @@ As the title may suggest, this person has a certain type of personality to deliv
 *"I like my animals like I like my violence. Domestic."* - Hayden
 
 *"Dark matter - True; Dark People's rights - False"* - Hayden
+
+**Most wholesome quote:**
+
+This award is a rarity, probably for obvious reasons. It celebrates the quote that manage to make it on the board not for their shock value, but for their ability to improve our lives. Unfortunately, the winner's name this week is unknown. Sad reacts only please.
+
+*"Disco Disco Good Good"* - Our Lord/Savior/Daddy
