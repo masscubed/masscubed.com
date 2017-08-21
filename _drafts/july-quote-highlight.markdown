@@ -11,7 +11,11 @@ Anyway, let's get down to business!
 
 * *"Klance is fake!"* - Emily and Keith
 
+  * **I don't even know you guys anymore...**
+
 * *"Jack do you need to pee?"* - Liz
+
+  * **Thanks for asking Liz, we were starting to worry.**
 
 * *"Why tf did we reset the quote board?"* - Everyone
 
@@ -29,11 +33,15 @@ Anyway, let's get down to business!
 
 * *"Dark matter - True; Dark People's rights - False"* - Hayden
 
+  * **Bloody hell Hayden, you are going straight to hell with that triple combo.**
+
 * *"Why won't it eat cookies in the ass?"* - Rylan
 
 * *"Do you still have a girlfriend or did she leave you?"* - Rachel
 
 * *"Look at this guy he's so depressing"* - Rachel
+
+  * **Holy shit savage...**
 
 * *"Disco Disco Good Good"* - Our Lord/Savior/Daddy
 
@@ -44,6 +52,8 @@ Anyway, let's get down to business!
 * *"Can't wait till I am a sperm!"* - Rylan
 
 * *"I can go on a dry spell without muff for one day."* - Peter
+
+  * **I admire your commitment to muff Peter, but you may have a problem...**
 
 * *"I don't like them when they are dead, I like them when they are dying."* - Unknown
 
@@ -58,3 +68,7 @@ Anyway, let's get down to business!
 * *"Stop distracting me!"* - Maddy
 
   *"Stop trying to sleep with me!"* - Liam
+
+## Quote Awards!
+
+**Most desperate quoters:**
