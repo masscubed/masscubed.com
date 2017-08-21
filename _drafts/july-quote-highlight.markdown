@@ -19,6 +19,8 @@ Anyway, let's get down to business!
 
 * *"Why tf did we reset the quote board?"* - Everyone
 
+  * **Ivan needs room for maths, and new quotes need room to grow and flourish.**
+
 * *"I am going to learn the shit out of HIV!"* - Matt
 
 * *"I've never had a quote..."* - Tanner
@@ -72,3 +74,17 @@ Anyway, let's get down to business!
 ## Quote Awards!
 
 **Most desperate quoters:**
+
+Oh boy, this one is definitely earned by all those who have scraped a spot on the board. So this month's most desperate quotes go to Sean and Tanner. Please clap..
+
+*"I've never had a quote..."* - Tanner
+
+*"I don't have a quote on there"* - Sean
+
+**"You're going to hell" Award:**
+
+As the title may suggest, this person has a certain type of personality to deliver quotes that have a large chance of banishing the quoter to the lowest depth of the lowest realm of hell. This month the winner is obvious. Sorry Hayden, it's one way trip to become Satan's mistress for you.
+
+*"I like my animals like I like my violence. Domestic."* - Hayden
+
+*"Dark matter - True; Dark People's rights - False"* - Hayden
