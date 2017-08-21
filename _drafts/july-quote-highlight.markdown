@@ -1,6 +1,13 @@
 ---
 title: July Quote Highlight
 date: 2017-08-22 09:17:00 +10:00
+categories:
+- Community News
+tags:
+- Monthly Quotes
+subtitle: The complied quotes for the great month of July!
+author: Shon Kolomoisky
+featured: true
 ---
 
 Hello everyone and welcome back to the best time of the month! This month's quotes come a bit late unfortunately. You can thank my lecturers for giving me five assignments at once. Good times.
