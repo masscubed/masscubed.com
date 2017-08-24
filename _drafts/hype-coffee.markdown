@@ -21,4 +21,8 @@ However, this is not enough. The hype felt when drinking a cup of coffee is inve
 
 ![chirsrlp.png](/uploads/chirsrlp.png)
 
-Now comes the time variables. The coffee shops around campus are fairly spread out, so the time it takes to get to them must be taken into account as the longer it takes to get to the cafe, the more annoyance is spawned to counteract the hype. Thus we get:
+Now comes the time variables. The coffee shops around campus are fairly spread out, so the time it takes to get to them must be taken into account as the longer it takes to get to the cafe, the more annoyance is spawned to counteract the hype, so we must subtract a variable to take this into account. Now as there are no coffee shops right next to the common room (unfortunately) we wont use the absolute time, but the standard deviation of the time it takes to get to the cafes from the mean time. Thus we get:
+
+![chirsrlpsigT.png](/uploads/chirsrlpsigT.png)
+
+On the topic of time, the coffee, to my great sadness, does not arrive instantly when I order it. So the time between ordering and receiving the coffee is treated in the same way as time taken to get to the cafe:
