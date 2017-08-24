@@ -27,10 +27,12 @@ Now comes the time variables. The coffee shops around campus are fairly spread o
 
 On the topic of time, the coffee, to my great sadness, does not arrive instantly when I order it. So the time between ordering and receiving the coffee is treated in the same way as time taken to get to the cafe:
 
-![chirsrlpsigTsigt.png](/uploads/chirsrlpsigTsigt.png)
+![chirsrlpsigTsigt-404847.png](/uploads/chirsrlpsigTsigt-404847.png)
 
 Finally, the last thing that must be considered is personal preference. More accurately how much someone cares about the price, or the time. Therefore, let's add two more variables that are unique to each person:
 
-![chirsrlpsigTsigtvar.png](/uploads/chirsrlpsigTsigtvar.png)
+![chirsrlpsigTsigtvar-580f3b.png](/uploads/chirsrlpsigTsigtvar-580f3b.png)
 
-And
+And there we have it. The formula used to quantify the hype of the coffee offered around campus!
+
+## Methodology
