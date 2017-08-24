@@ -18,3 +18,7 @@ To start off with the basics, most scales use some sort of rating out of ten, so
 ![chirsrl.png](/uploads/chirsrl.png)
 
 However, this is not enough. The hype felt when drinking a cup of coffee is inversely proportional to the amount of hard earned cash one had to drop in order to acquire it, so adding a variable for the price we get:
+
+![chirsrlp.png](/uploads/chirsrlp.png)
+
+Now comes the time variables. The coffee shops around campus are fairly spread out, so the time it takes to get to them must be taken into account as the longer it takes to get to the cafe, the more annoyance is spawned to counteract the hype. Thus we get:
