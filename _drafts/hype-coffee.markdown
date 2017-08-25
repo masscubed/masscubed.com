@@ -37,3 +37,15 @@ Finally, the last thing that must be considered is personal preference. More acc
 And there we have it. The formula used to quantify the hype of the coffee offered around campus!
 
 ## Methodology
+
+Starting in the common room, we set our destination to a certain coffee store and used a phone timer to  measure the time taken to get there. Once there, a small coffee would be ordered and a timer would be started to measure the time to coffee. 
+
+The price of a 16oz (473ml) cup of coffee would be recorded, as this is the standard size that all cafes carry although it may be called different names (Regular at Grafali's, Large at Secret Garden). 
+
+While we wait for our coffee we would make notes on the A E S T H E T I C C of the coffee store and the general environment/perks (Lactose free milk, other drinks, etc.). 
+
+Once the coffee is received, we do a very intricate taste test that is reminiscent of sommeliers. We judge the taste, creamy nature, sweetness, burn aspect, bitterness, texture and the most hipster-esq quality, mouthfeel. Using these aspects we both give it a score out of ten.
+
+All of this is, obviously, recorded in the most secure and professional way possible; on the back of the receipt.
+
+## Results
