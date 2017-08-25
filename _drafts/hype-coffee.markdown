@@ -1,5 +1,5 @@
 ---
-title: Hype coffee
+title: A Comprehensive Measure of the Hype Levels of On-Campus Coffee
 date: 2017-08-24 17:35:00 +10:00
 ---
 
@@ -29,7 +29,7 @@ On the topic of time, the coffee, to my great sadness, does not arrive instantly
 
 ![chirsrlpsigTsigt-404847.png](/uploads/chirsrlpsigTsigt-404847.png)
 
-Finally, the last thing that must be considered is personal preference. More accurately how much someone cares about the price, or the time. Therefore, let's add two more variables that are unique to each person:
+Finally, the last thing that must be considered is personal preference. More accurately how much someone cares about the price, or the time. Therefore, let's add two more variables that are unique to each person that describe how much their personal hype is affected:
 
 ![chirsrlpsigTsigtvar-580f3b.png](/uploads/chirsrlpsigTsigtvar-580f3b.png)
 
