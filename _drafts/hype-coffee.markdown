@@ -1,6 +1,7 @@
 ---
 title: A Comprehensive Measure of the Hype Levels of On-Campus Coffee
 date: 2017-08-24 17:35:00 +10:00
+author: Shon Kolomoisky
 ---
 
 The time has finally come, dear  members of MASS^3. The time has come for there to be a comprehensive review of the hype level of the numerous coffee shops dotted around campus. Fortunately, I have been rigorously testing (along side my noble co-reviewer Liam Azara) the various cafes on campus. It has been an eye-opening semester thus far, very caffeinated and full of both great and terrible coffee, but we have come out of it victorious.
