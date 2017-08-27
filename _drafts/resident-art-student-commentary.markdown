@@ -5,6 +5,9 @@ tags:
 - Art Student
 subtitle: Rachel answers Repugnant questions
 author: Rachel Farrell
+image: "/uploads/21146746_1890984651221125_676292344_o.jpg"
+imageSource: Rachel Farrell
+imageSourceURL: Nope
 featured: true
 ---
 
@@ -40,6 +43,8 @@ Rumour has it little elf men live inside them, and that the smoke that comes out
 **I've always wanted to know the origin story of the Thomas the Tank above the whiteboards in the common room!**
 
 The story is surprisingly un-extraordinary… but it was the summer of 2017, and I was trundling the home town of Great Grandpa Meme himself, Fish Creek, Capital of the Universe. I was walking the streets on what began as a very Normie day. Before I knew it, it had transformed into one of unimaginable, life changing proportions… for there I saw him… staring back at me… those eyes… that chimney! And I knew I had to have him, there and then! And so I picked him up from the road side, and we drove off into the sunset…Until I gifted him to Peter, Conductor of the Hype Train, Mr President, Hype Coordinator of the common Room and, Thomas’ true master… The rest, as they say… is history.
+
+![21146638_1890984591221131_1372605053_o (1).jpg](/uploads/21146638_1890984591221131_1372605053_o%20(1).jpg)
 
 **Why don’t I have genital warts?**
 
