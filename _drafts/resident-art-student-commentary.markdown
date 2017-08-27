@@ -66,18 +66,4 @@ I too have often questioned Jack’s supposed disgust of worms. He is suspicious
 
 \
 \
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-
-\
-\
-\
+\\
