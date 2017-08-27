@@ -1,5 +1,5 @@
 ---
-title: Resident Art Student Commentary
+title: Resident Art Student Commentary on Common Room Affairs
 date: 2017-08-27 19:40:00 +10:00
 categories:
 - Community News
