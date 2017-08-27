@@ -52,7 +52,7 @@ All of this is, obviously, recorded in the most secure and professional way poss
 
 Let's do this in ascending order of CHI, just to make sure you are left with a pleasent taste in your mouth.
 
-### Grain Express:
+### Grain Express
 
 **Scores:**
 
@@ -93,3 +93,31 @@ The actual coffee is also quite disappointing to say the least. While i could st
 * CHI: 1.85
 
 We finally reach what is classically the worst coffee on campus. And while the coffee here is quite bad, it does seem to be better than these other two places. Maybe it is because of its central location that it gets a worse rap than Grain Express and Church. However, this is not to say that there are any redeeming qualities to the coffee here. This was the only place that made Liam say that he would rather "Lick a toilet seat" than drink another drop of that coffee. In fact, I described it as "tasting how a back alley smells" so  unfortunatly for coffee point, it does not earn any redemption in this study. It does however earn the title of cheapest coffee on campus... by a whole 5 cents. Do yourself a favour and visit one of the later coffee shops on the list, even if they may be 5 cents more expensive.
+
+### Wholefoods
+
+**Scores:**
+
+* Shon: 4.5/10
+
+* Liam: 5/10
+
+* CHI: 2.34
+
+I did not have much hope for Wholefoods. However, its coffee, while bad did not in fact make either myself or Liam physically want to hurt ourselves. And you got to give credit where credit is due; the fact that Wholefoods is apparently run for students, by volunteers, in an environmentally friendly manner may sway people to overlook the worse than average coffee. However, the sheer length of time it takes them to make the coffee, as well as the fact that you must bring your own cup or else be stuck in drinking their coffee in store does nothing to help their mediocre blend.
+
+### Sapporo
+
+**Scores:**
+
+* Shon: 8/10
+
+* Liam: 7/10
+
+* CHI: 3.01
+
+Sapporo was one place that I had quite high hopes for, as it was praised by many people in the common room. In fact, the praise of Sapporo as well as a few other cafes is what motivated me to write this article. The coffee in Sapporo is, by all measures, pretty good. They have a range of different blends, with a new main blend every week or so to add variety to your coffee experience. The coffee itself has a very mellow taste, you wont taste a sharp bitterness, but moreso a clam and smooth bitterness of good coffee that will pleasently fill your palette. 
+
+However, not everything here is good. This is possibly the furthest coffee shop on campus from the common room, and the coffee takes its time being made. This does hurt its score quite badly when it comes to the CHI. The price of the coffee is surprisingly average, which is strange considering its location in New Horizons. 
+
+It's location is also a plus, its
