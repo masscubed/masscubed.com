@@ -78,4 +78,16 @@ The  price of this coffee doesn't even redeem it, as the standard size costs $4 
 
 * CHI: 1.15
 
-Despite the fancy name and the cozy hipstery interior, this cafe ranks as one of the worst.
+Despite the fancy name and the cozy hipstery interior, this cafe ranks as one of the worst. While it does seem like a nice place to sit down and talk about the day, all the while looking at the hordes of other stressful students milling about ourside, it may be a bit to expensive to be able to afford this luxury. In fact, this is the most expensive coffee shop on campus. For a massive $5 for the standard sized coffee, no amount of hipster blends or fancy deconstructed interior can make me not cry for the poor souls that frequent the establishement.
+
+The actual coffee is also quite disappointing to say the least. While i could stomach the burnt brew, Liam took two steps out of the cafe, and proceeded to pour the remainder of his cup down the nearest sewer drain. At least this coffee did not physically assult me I guess.
+
+### Coffee Point
+
+**Scores:**
+
+* Shon: 3/10
+
+* Liam: 2/10
+
+* CHI: 1.15
