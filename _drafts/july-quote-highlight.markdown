@@ -7,6 +7,8 @@ tags:
 - Monthly Quotes
 subtitle: The complied quotes for the great month of July!
 author: Shon Kolomoisky
+imageSource: The Common Room
+imageSourceURL: "..."
 featured: true
 ---
 
