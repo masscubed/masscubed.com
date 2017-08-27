@@ -1,7 +1,6 @@
 ---
 title: A Comprehensive Measure of the Hype Levels of On-Campus Coffee
 date: 2017-08-24 17:35:00 +10:00
-published: false
 categories:
 - Editorial
 tags:
