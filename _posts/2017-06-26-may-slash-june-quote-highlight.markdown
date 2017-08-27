@@ -1,6 +1,7 @@
 ---
 title: May/June Quote Highlight
 date: 2017-06-26 17:12:00 +10:00
+published: false
 categories:
 - Editorial
 tags:
