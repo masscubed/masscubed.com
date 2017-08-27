@@ -90,4 +90,6 @@ The actual coffee is also quite disappointing to say the least. While i could st
 
 * Liam: 2/10
 
-* CHI: 1.15
+* CHI: 1.85
+
+We finally reach what is classically the worst coffee on campus. And while the coffee here is quite bad, it does seem to be better than these other two places. Maybe it is because of its central location that it gets a worse rap than Grain Express and Church. However, this is not to say that there are any redeeming qualities to the coffee here. This was the only place that made Liam say that he would rather "Lick a toilet seat" than drink another drop of that coffee. In fact, I described it as "tasting how a back alley smells" so  unfortunatly for coffee point, it does not earn any redemption in this study. It does however earn the title of cheapest coffee on campus... by a whole 5 cents. Do yourself a favour and visit one of the later coffee shops on the list, even if they may be 5 cents more expensive.
