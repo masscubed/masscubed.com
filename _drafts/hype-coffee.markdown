@@ -239,3 +239,7 @@ The coffee here is not the cheapest (in fact it is one of the more expensive pla
 This was also one of the cafes which featured a guest reviewer. This time, a coffee connoisseur of the highest standards with a palette to match no other. Emily Jones, after trying a mere sip of this wonderful coffee gave the illustrious and prose-filled comment "Is gud".
 
 # Conclusions
+
+If I could reccomend a few places to stay away from at all costs, these places would be Grain Express (obviously.. who even gets coffee here), Church (because who has this much money to spend on bad coffee?) and Coffee Point (need I say more?). The top three places on campus however, are truely worth commending, and they are, in ascending order, Supernatural, Secret Garden and Cinque Lire. 
+
+I do hope this article will save many of you from experiencing bad coffee, and has finally solved the dilemma of what is the best coffee on campus. I wish you all a very caffeinated future!
