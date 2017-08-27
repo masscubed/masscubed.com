@@ -1,7 +1,6 @@
 ---
 title: July Quote Highlight
 date: 2017-08-22 09:17:00 +10:00
-published: false
 categories:
 - Community News
 tags:
