@@ -38,7 +38,7 @@ And there we have it. The formula used to quantify the hype of the coffee offere
 
 # Methodology
 
-Starting in the common room, we set our destination to a certain coffee store and used a phone timer to  measure the time taken to get there. Once there, a small coffee would be ordered each and a timer would be started to measure the time to coffee. I ordered a cappuccino and Liam ordered a mocha to account for both the complexity of preparing these drinks, and their popularity.
+Starting in the common room, we set our destination to a certain coffee store and used a phone timer to  measure the time taken to get there. Once there, a small coffee would be ordered each and a timer would be started to measure the time to coffee. I ordered a cappuccino and Liam ordered a mocha to account for both the complexity of preparing these drinks, and their popularity. Neither of us got any sugar in our drinks.
 
 The price of a 16oz (473ml) cup of coffee would be recorded, as this is the standard size that all cafes carry although it may be called different names (Regular at Grafali's, Large at Secret Garden).
 
@@ -96,6 +96,8 @@ The actual coffee is also quite disappointing to say the least. While i could st
 
 We finally reach what is classically the worst coffee on campus. And while the coffee here is quite bad, it does seem to be better than these other two places. Maybe it is because of its central location that it gets a worse rap than Grain Express and Church. However, this is not to say that there are any redeeming qualities to the coffee here. This was the only place that made Liam say that he would rather "Lick a toilet seat" than drink another drop of that coffee. In fact, I described it as "tasting how a back alley smells" so  unfortunatly for coffee point, it does not earn any redemption in this study. It does however earn the title of cheapest coffee on campus... by a whole 5 cents. Do yourself a favour and visit one of the later coffee shops on the list, even if they may be 5 cents more expensive.
 
+We also had a guest reviewer try this coffee with us. Ethan "Little Steve Erwin" Payne (otherwise known as Ashton) decided to have a taste. He was then obviously promptly rushed to the hospital much like one of his previous misadventures.
+
 ### Wholefoods
 
 **Scores:**
@@ -138,4 +140,102 @@ This may be a cafe not many of us members of MASS^3 have heard about. Just as HA
 
 The coffee itself is alright, with smooth flavours, but nothing actually significant about the taste of the coffee. It is however on the more expensive side of cafes around campus and also quite the distance from the common room. All in all, it may be worth hitting this place up if you find yourself in Matheson, but other than that maybe not.
 
- 
+### Grafali's 
+
+**Scores:**
+
+* Shon: 6/10
+
+* Liam: 6.5/10
+
+* CHI: 3.24
+
+Here we have reached the median in terms of CHI placement. The coffee here is decent, it has a central location and a fairly standard price. The biggest problem you will most likely face with this coffee shop is the crowds. It's central location and wide popularity around campus lends itself to long lines and wait times. This is mostly offset by the efficiency of the staff and the location. 
+
+It also has to be mentioned that Grafali's has some of the largest selections of drinks from any coffee shops on campus, so our rating of just the pure coffee/mocha may not do the place justice. Therefore, if you are after just a normal coffee, it may be worth skipping this place, but if you are after a more fancy drink have at it.
+
+A word of warning however, make sure that you are caught up on Game of Thrones if you are planning on purchasing your coffee from here, as I have witnessed a few spoilers being thrown around between the staff. You have been warned.
+
+### Taste Baguette
+
+**Scores:**
+
+* Shon: 7.5/10
+
+* Liam: 8/10
+
+* CHI: 3.55
+
+On the ground floor of the Menzies building, this may be the first coffee shop you come across if you are entering campus from the bus loop. The coffee here is slightly sweeter and creamier that other places, and it also posseses a slightly nutty flavour that gives it another dimension. It is however quite a trek from the common room, and it is not the cheapest coffee on campus, so proceede with caution.
+
+On a personal note, I would not reccomend getting an ice coffee from here as you get it in the same sized cup as a regular coffee, but it is more expensive and half filled with ice. #Scammed.
+
+### The Den
+
+**Scores:**
+
+* Shon: 7/10
+
+* Liam: 6/10
+
+* CHI: 3.67
+
+Nestled outside the campus centre, this place is easy to pass by. I must confess, this is the only time I have ever gone to this cafe, and most likely the only time I ever will. It's coffee is of a similar standard to Grafali's and Swift's, but it is a bit closer and less busy. Although everything else about it is mediocre, the aesthetic, the offering, the atmosphere, it is very meh. However, the coffee is decent so I cannot dissuade others from going there.
+
+### Artichoke & Whitebait
+
+**Scores:**
+
+* Shon: 7/10
+
+* Liam: 7/10
+
+* CHI: 3.77
+
+Otherwise known as "Sensory Lab" this cafe boasts some of the quickest coffee delivery times with a quality slightly better than its neighbour Grafali's. You will be greeted with a dose of information about their current blend, which does vary every once in a while. It also bosts an upclass sitting area and a elaborate menu, if for some reason you decide to forget that you are a student and splurge on some expensive food.
+
+### Supernatural
+
+**Scores:**
+
+* Shon: 8/10
+
+* Liam: 8/10
+
+* CHI: 4.42
+
+We have finally reached the top three cafes on campus, each with a CHI score of greater than 4.40 which is quite a jump from the next best. Supernatural boasts a vagan/vegetarian menu which may interest some, along side some of the friendliest staff in any coffee shops. As for the coffee, it is pretty great. It is made really quickly and has a really smooth, creamy and pleasently bitter as well as consistent taste. Just like Grafali's it also has a wide selection of drinks that are worth checking out.
+
+### Secret Garden
+
+**Scores:**
+
+* Shon: 9/10
+
+* Liam: 9/10
+
+* CHI: 3.49
+
+This cafe boasts the first nine Liam and I handed out. It's coffee is some of the best on campus. A really mellow taste that is creamy, slightly sweet and gives a perfect hint of coffee bitterness. The mocha here also uses some good chocolate, as described by Liam, which is always a plus. It also boasts a pretty good aesthetic that will feed the hipster part of your soul, as well as many couches that are perfect for taking a break to chill for a few minutes while you drink your coffee. The coffee here surprisingly actually increases in quality when the place is busy, which is quite an interesting effect. This is also one of the closest cafes to the common room, so you wont need to go far for your caffeine fix.
+
+One last point is the price. The coffee here is some of the cheapest on campus. The standard size is only five cents more expensive that Coffee Point, while the actual drink is leagues above. 
+
+All this combines to make Secret Garden my personal favourite cafe on campus. Would reccomend 
+
+### Cinque Lire
+
+**Scores:**
+
+* Shon: 9/10
+
+* Liam: 9/10
+
+* CHI: 4.58
+
+We have now arrived at the best cafe on campus according to the CHI. I have got to admit, I am glad I did this study as I did not know about this cafe before I conducted this experiment. First things first, the fastest way to get here is to leave the common room, turn right straight away and cut through the biology building, exiting through a giant orange sphincter-like door, and finally turn right and walk to this glorious cafe. 
+
+The coffee here is not the cheapest (in fact it is one of the more expensive places), but it is made incredibly quickly and oh my god the quality. The coffee here is less harshly bitter and has a smooth bitterness that creeps up on you. Its foam is perfectly aerated to created a significantly pleasurable mouthfeel that contributes greatly to the enjoyment of the coffee. It is made at the perfect temperature and uses a fantastic blend.
+
+This was also one of the cafes which featured a guest reviewer. This time, a coffee connoisseur of the highest standards with a palette to match no other. Emily Jones, after trying a mere sip of this wonderful coffee gave the illustrious and prose-filled comment "Is gud".
+
+# Conclusions
