@@ -1,7 +1,8 @@
 ---
 title: Resident Art Student Commentary
 date: 2017-08-27 19:40:00 +10:00
-published: false
+categories:
+- Community News
 tags:
 - Art Student
 subtitle: Rachel answers Repugnant questions
