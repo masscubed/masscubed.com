@@ -30,11 +30,11 @@ On the topic of time, the coffee, to my great sadness, does not arrive instantly
 
 ![chirsrlpsigTsigt-404847.png](/uploads/chirsrlpsigTsigt-404847.png)
 
-Finally, the last thing that must be considered is personal preference. More accurately how much someone cares about the price, or the time. Therefore, let's add two more variables that are unique to each person that describe how much their personal hype is affected:
+Finally, the last thing that must be considered is personal preference. More accurately how much someone cares about the price, or the time. Therefore, let's add two more variables that are unique to each person that describe how much their personal hype is affected (both of these will be set to one for the sake of this article, but if one wants to personalise the results for themselves the raw data can be provided upon request!):
 
 ![chirsrlpsigTsigtvar-580f3b.png](/uploads/chirsrlpsigTsigtvar-580f3b.png)
 
-And there we have it. The formula used to quantify the hype of the coffee offered around campus!
+And there we have it. The formula used to quantify the hype of the coffee offered around campus! 
 
 # Methodology
 
@@ -47,6 +47,8 @@ While we wait for our coffee we would make notes on the A E S T H E T I C C of t
 Once the coffee is received, we do a very intricate taste test that is reminiscent of sommeliers. We judge the taste, creamy nature, sweetness, burn aspect, bitterness, texture and the most hipster-esq quality, mouthfeel. Using these aspects we both give it a score out of ten.
 
 All of this is, obviously, recorded in the most secure and professional way possible; on the back of the receipt.
+
+![IMG_20170827_172122.jpg](/uploads/IMG_20170827_172122.jpg)
 
 # Results
 
@@ -120,4 +122,20 @@ Sapporo was one place that I had quite high hopes for, as it was praised by many
 
 However, not everything here is good. This is possibly the furthest coffee shop on campus from the common room, and the coffee takes its time being made. This does hurt its score quite badly when it comes to the CHI. The price of the coffee is surprisingly average, which is strange considering its location in New Horizons. 
 
-It's location is also a plus, its
+It's location is also a plus, it is tucked inside New Horizons giving it that rich academia vibes. Furthermore, it is the coffee shops with the closest proximity to Linc-Daddy as well as many other marvelous academics. Therefore, if you want to increase your chance in spotting a Lincoln in the wild, this is the place to do it. Overall, alright coffee, good atmosphere, may be worth a visit.
+
+### Swift's
+
+**Scores:**
+
+* Shon: 7/10
+
+* Liam: 7.5/10
+
+* CHI: 3.17
+
+This may be a cafe not many of us members of MASS^3 have heard about. Just as HAL has Secret Garden, Matheson has Swift's. It is a quaint place, surrounded by books and alcoves that look ideal to release your inner hipster, whip out your typewriter, and work on your manuscript... Which may or may not be a good thing, depending on one's opinion.
+
+The coffee itself is alright, with smooth flavours, but nothing actually significant about the taste of the coffee. It is however on the more expensive side of cafes around campus and also quite the distance from the common room. All in all, it may be worth hitting this place up if you find yourself in Matheson, but other than that maybe not.
+
+ 
