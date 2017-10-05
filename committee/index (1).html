@@ -1,0 +1,425 @@
+﻿<!Doctype html>
+
+<html>
+
+	<head>
+
+		<title>Committee</title>
+
+		<meta charset="UTF-8">
+		<link type="text/css" rel="stylesheet" href="/assets/style.css">
+		<link rel="shortcut icon" type="image/x-icon" href="/assets/images/favicon.ico"/>
+		<script src="/assets/jquery-1.9.0.js"></script>
+		<script src="/assets/jquery-ui.min.js"></script>
+		<script type = "text/javascript" src = "https://ajax.googleapis.com/ajax/libs/jqueryui/1.11.3/jquery-ui.min.js"></script>
+		<script type="text/javascript" src="/assets/konami.js"></script>
+		<!--<script src="http://code.jquery.com/jquery-1.9.0.js"></script>-->
+
+	</head>
+
+	<body>
+
+		<div class="overlay">
+
+	    	<img alt="IMAGE" src="/assets/images/backgrounds/meet.jpg" class="landing">
+
+	    </div>
+
+	    <div class="squares">
+
+	    	<img alt="" src="/assets/images/square.png">
+
+	    	<img alt="" src="/assets/images/square.png">
+
+	    </div>
+
+	    <div class="screen-first">
+
+		    <div class="desc">
+
+		    	<img alt="" src="/assets/images/icons/comm-w.svg" class="icon">
+
+		    	<p>Meet the committee for 2018<br>Click the thumbnails on the next page to find out more</p>
+
+		    </div>
+
+			<ul class="nav">
+
+				<a href="/"><li>HOME</li></a>
+
+				<a href="/about"><li>ABOUT</li></a>
+
+				<a href="/committee"><li class="current">COMMITTEE</li></a>
+
+				<a href="/events"><li>EVENTS</li></a>
+
+				<a href="/monthly"><li>NEWS</li></a>
+
+			</ul>
+
+			<div  class="scroll-down"><img alt="" src="/assets/images/arrow.png"></div>
+
+		</div>
+
+		<script>
+
+			function bio(n){
+
+				$(".bios li").hide();
+
+	            $(".bios li:nth-child("+ n +")").show();
+
+	            $(".bios").fadeIn("slow");
+
+	        }
+
+	        $(document).ready(function(){
+
+	        	$(".bios").on("click", function(){
+
+	        		$(this).fadeOut("slow");
+
+	        	});
+
+	        });
+
+		</script>
+
+		<div class="screen-second">
+
+			<ul class="comm">
+
+				<li onclick="bio(1)">
+
+					<img alt="" src="/assets/images/people/chris-alt.jpg">
+
+					<img alt="" src="/assets/images/people/chris.jpg">
+
+					<h2>Chris Bounds</h2>
+
+					<h3>President</h3>
+
+				</li>
+
+				<li onclick="bio(2)">
+
+					<img alt="" src="/assets/images/people/lachlan-alt.jpg">
+
+					<img alt="" src="/assets/images/people/lachlan.jpg">
+
+					<h2>Lachlan King</h2>
+
+					<h3>Vice-President</h3>
+
+				</li>
+
+				<li onclick="bio(3)">
+
+					<img alt="" src="/assets/images/people/hayden-alt.jpg">
+
+					<img alt="" src="/assets/images/people/hayden.jpg">
+
+					<h2>Hayden McMahon</h2>
+
+					<h3>Webmaster</h3>
+
+				</li>
+
+				<li onclick="bio(4)">
+
+					<img alt="" src="/assets/images/people/jo-alt.jpg">
+
+					<img alt="" src="/assets/images/people/jo.jpg">
+
+					<h2>Maddy Howell</h2>
+
+					<h3>Secretary</h3>
+
+				</li>
+
+				<li onclick="bio(5)">
+
+					<img alt="" src="/assets/images/people/bernard-alt.jpg">
+
+					<img alt="" src="/assets/images/people/bernard.jpg">
+
+					<h2>Bernard Field</h2>
+
+					<h3>Treasurer</h3>
+
+				</li>
+
+				<li onclick="bio(6)">
+
+					<img alt="" src="/assets/images/people/jo-alt.jpg">
+
+					<img alt="" src="/assets/images/people/jo.jpg">
+
+					<h2>Lauren Kirn</h2>
+
+					<h3>Events Co-ordinator</h3>
+
+				</li>
+
+				<li onclick="bio(7)">
+
+					<img alt="" src="/assets/images/people/ethan-alt.jpg">
+
+					<img alt="" src="/assets/images/people/ethan.jpg">
+
+					<h2>Ethan Payne</h2>
+
+					<h3>Education officer</h3>
+
+				</li>
+
+				<li onclick="bio(8)">
+
+					<img alt="" src="/assets/images/people/riley-alt.jpg">
+
+					<img alt="" src="/assets/images/people/riley.jpg">
+
+					<h2>Shon Kolomoisky</h2>
+
+					<h3>Editor</h3>
+
+				</li>
+
+				<li onclick="bio(9)">
+
+					<img alt="" src="/assets/images/people/bernard-alt.jpg">
+
+					<img alt="" src="/assets/images/people/bernard.jpg">
+
+					<h2>Matthew Sidji</h2>
+
+					<h3>Global Challenges Rep.</h3>
+
+				</li>
+
+				<li onclick="bio(10)">
+
+					<img alt="" src="/assets/images/people/jo-alt.jpg">
+
+					<img alt="" src="/assets/images/people/jo.jpg">
+
+					<h2>Sameera Tadikonda</h2>
+
+					<h3>Advanced Research Rep.</h3>
+
+				</li>
+
+		    </ul>
+
+		    <ul class="bios">
+
+		    	<li><h1>Chris</h1><br><h3>ccbou2@student.monash.edu</h3><br><p>Looking to major in two of Physics/Astrophysics/Maths/Computer Science with an aim of doing postgrad study in the future. I'm an avid soccer fan and player through Monash, enjoy video games too much (is that even possible?) along with the dankest of memes. Please feel free to approach me with any questions, banter or memes (I won’t bite, I promise)</p></li>
+
+		    	
+
+		    	<li><h1>Lachlan</h1><br><h3></h3><br><p>Hi I’m Lachlan, a research student majoring in ecology and zoology. My hobbies include video games, movies and various tabletop games. Happy to provide assistance for all things biology related, or to engage in any kind of conversation, or to pass on suggestions for overall improvements to everyone’s university experience.</p></li>
+
+
+
+		    	<li><h1>Hayden</h1><br><h3>hmcm0002@student.monash.edu</h3><br><p>Looking to major in Physics and Astrophysics, with the aim of being employed when I graduate. In my personal life I enjoy playing basketball, making memes and dissapointing my friends and family. Always up for a good chat about your hopes and dreams, uni struggles, or just your existential nihilism. All jokes aside, please be my friend... please.</p></li>
+
+
+
+		    	<li><h1>Maddy</h1><br><h3></h3><br><p></p></li>
+
+
+
+		    	<li><h1>Bernard</h1><br><h3></h3><br><p>Hi, I'm in Research and I'm undertaking majors in Physics and Chemistry. When I'm not studying or geeking out over a maths challenge, I play the trumpet, listen to epic music, play videogames, and do some roleplaying. Feel free to say hi and chat with me about science and stuff.</p></li>
+
+
+		    	<li><h1>Lauren</h1><br><h3></h3><br><p></p></li>
+
+
+
+		    	<li><h1>Ethan</h1><br><h3>epay1@student.monash.edu</h3><br><p>Hey, I’m Ethan but I go by many names (Ashton, Little Steven Irwin, and @nopaynenogain) and I’m majoring in Physics and Astrophysics (with a hint of applied math). I am here to help you all succeed, especially in academic/research endeavors. Feel free to approach me whenever for a chat, I only look radioactive ;).</p></li>
+
+
+
+		    	<li><h1>Shon</h1><br><h3></h3><br><p></p></li>
+
+
+
+		    	<li><h1>Matthew</h1><br><h3></h3><br><p></p></li>
+
+
+
+		    	<li><h1>Sameera</h1><br><h3></h3><br><p></p></li>
+
+		    </ul>
+
+		</div>
+
+
+
+		<script>
+
+			$(document).ready(function(){
+
+				//$(".move").effect("bounce", { times:3, distance:30 }, 2500);
+
+				$(".squares img:nth-child(1)").css("opacity","1");
+
+				$(".squares img:nth-child(2), .squares img:nth-child(3)").css("opacity","0.5");
+
+				//fade and slide
+
+				function slideFadeUp(elem) {
+
+				   var fade = { opacity: 0, transition: 'opacity 0.5s', 'z-index': '0'};
+
+				   elem.css(fade).slideUp("slow");
+
+				}
+
+				function slideFadeDown(elem) {
+
+				   var fade = { opacity: 0, transition: 'opacity 0.5s', 'z-index': '0' };
+
+				   elem.css(fade).slideDown("slow");
+
+				}
+
+				function slideShowUp(elem) {
+
+				   var fade = { opacity: 1, transition: 'opacity 0.5s', 'z-index': '1'};
+
+				   elem.css(fade).slideUp("slow");
+
+				}
+
+				function slideShowDown(elem) {
+
+				   var fade = { opacity: 1, transition: 'opacity 0.5s', 'z-index': '1' };
+
+				   elem.css(fade).slideDown("slow");
+
+				}
+
+
+
+				var page = 1;
+
+				var threshold=0;
+
+
+
+				$(window).on( 'DOMMouseScroll mousewheel', function ( event ) {
+
+					threshold++
+
+					if (threshold>3){
+
+						if(event.originalEvent.detail > 0 || event.originalEvent.wheelDelta < 0 ) {
+
+							//down
+
+							if(page==1){
+
+								slideFadeUp($(".screen-first"));
+
+								slideShowDown($(".screen-second"));
+
+								$(".squares img:nth-child(2)").css("opacity","1");
+
+								$(".squares img:nth-child(1)").css("opacity","0.5");
+
+							}
+
+							if(page<2){
+
+								page++;
+
+							}
+
+						} else{
+
+							//up
+
+							if(page==2){
+
+								slideShowDown($(".screen-first"));
+
+								slideFadeDown($(".screen-second"));
+
+								$(".squares img:nth-child(1)").css("opacity","1");
+
+								$(".squares img:nth-child(2)").css("opacity","0.5");
+
+							}
+
+							if (page>1){
+
+								page--;
+
+							}
+
+						}
+
+						threshold=0;
+
+					}
+
+				});
+
+				$(".scroll-down").on("click", function(){
+
+					if(page==1){
+
+						slideFadeUp($(".screen-first"));
+
+						slideShowDown($(".screen-second"));
+
+						$(".squares img:nth-child(2)").css("opacity","1");
+
+						$(".squares img:nth-child(1)").css("opacity","0.5");
+
+					}
+
+					if(page<2){
+
+						page++;
+
+					}
+
+				});
+
+				$(".squares img:nth-child(1)").on("click",function(){
+
+					slideShowDown($(".screen-first"));
+
+					slideFadeUp($(".screen-second"));
+
+					$(".squares img:nth-child(1)").css("opacity","1");
+
+					$(".squares img:nth-child(2)").css("opacity","0.5");
+
+					page=1;
+
+				});
+
+				$(".squares img:nth-child(2)").on("click",function(){
+
+					slideShowDown($(".screen-second"));
+
+					slideFadeUp($(".screen-first"));
+
+					$(".squares img:nth-child(2)").css("opacity","1");
+
+					$(".squares img:nth-child(1)").css("opacity","0.5");
+
+					page=2;
+
+				});
+
+			});
+
+		</script>
+
+	</body>
+
+</html>
