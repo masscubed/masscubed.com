@@ -19,5 +19,7 @@ Yours truly was re-elected as editor, and I plan to abuse this power in many mor
 
 Our new education officer is Ethan Payne, with his mad connections to the school of physics, and promises to create connections to the other school. I for one, have high hopes for this one (as foolish as this may be). Make sure you like @nopaynenogain on Facebook!
 
-Finally, last but definitely not least, Hayden McMahon   
+Finally, last but definitely not least, Hayden McMahon is our new webmaster. He hopes to improve on the great work of Hans Kek, and has already began on giving the website (Masscubed.net check it out) a much needed update.
+
+With the AGM concluded, a fantastic meme sesh was had at a booked lecture theater. Speaking of memes, let's get on with the quotes!    
 
