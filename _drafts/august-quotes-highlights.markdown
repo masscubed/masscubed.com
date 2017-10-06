@@ -24,3 +24,17 @@ Finally, last but definitely not least, Hayden McMahon is our new webmaster. He 
 With the AGM concluded, a fantastic meme sesh was had at a booked lecture theater. Speaking of memes, let's get on with the quotes!
 
 # Onto The Quotes:
+
+*"Define stalking"* - Liz
+
+*"Mine's bigger, longer and more expensive" - Nathan*
+
+*"Beat my hype"* - Peter
+
+*"My foot is a chode"* - Keith
+
+*"What would you do for a 95 WAM? *
+
+*Break My Neck" - *Cam and Rylan
+
+*"Do a Chris Bounds, do it the night before"* - Shon
