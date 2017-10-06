@@ -33,8 +33,18 @@ With the AGM concluded, a fantastic meme sesh was had at a booked lecture theate
 
 *"My foot is a chode"* - Keith
 
-*"What would you do for a 95 WAM? *
+\*"What would you do for a 95 WAM? \*
 
-*Break My Neck" - *Cam and Rylan
+\*Break My Neck" - \*Cam and Rylan
 
 *"Do a Chris Bounds, do it the night before"* - Shon
+
+*"Spam the cancer button"* - Shon
+
+*"I'll shove stones down a baby's throat"* - Rylan
+
+* Okay... Calm down there... please..
+
+*"Don't steal my fucking suicide!"* - Chris
+
+*"*
