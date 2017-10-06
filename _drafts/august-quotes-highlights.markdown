@@ -1,6 +1,8 @@
 ---
 title: August Quotes Highlights/AGM Discussion
 date: 2017-10-05 14:46:00 +11:00
+subtitle: The insanity of the past month, and a few quotes
+author: Shon Kolomoisky
 ---
 
 After a busy few weeks and a "mid-semester" break we are back at it. With all the madness of this entire time, a plethora of semi-insane or just institutionally troubled quotes have made it up to the shrine that is the whiteboard.
