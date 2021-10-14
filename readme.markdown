@@ -1,6 +1,6 @@
-# masscubed.net
+# masscubed.com
 
-Hello! You're looking at the source code for [masscubed.net](http://masscubed.net), the website for the Monash Advanced Science & Science Scholar Society (abbreviated, MASS³). Feel free to have a poke around, but you're not allowed to re-use the designs in here and claim it as your own. Have fun!
+Hello! You're looking at the source code for [masscubed.com](http://masscubed.com), the website for the Monash Advanced Science & Science Scholar Society (abbreviated, MASS³). Feel free to have a poke around, but you're not allowed to re-use the designs in here and claim it as your own. Have fun!
 
 ## How to use
 
