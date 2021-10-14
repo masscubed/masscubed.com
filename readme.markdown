@@ -54,4 +54,8 @@ If you want to modify any of the files, I recommend learning a little bit about 
 
 ## Fixing Issues
 
+<<<<<<< HEAD
 It's like a to-do list but for programmers. Seriously. Go to the Issues Tab above (or [click here](/issues)) and browse for any pending todos regarding this entire website. There may be bugs on the news site, fonts missing, or just general DEFCON-5 stuff. When you've fixed an issue in the code, mark it as completed.
+=======
+It's like a to-do list but for programmers. Seriously. Go to the Issues Tab above (or [click here](/issues)) and browse for any pending todos regarding this entire website. There may be bugs on the news site, fonts missing, or just general DEFCON-5 stuff. When you've fixed an issue in the code, mark it as completed.
+>>>>>>> 9dd82319077adbb8e00593b6c31e4026f4a4967d
