@@ -1,24 +1,24 @@
 @import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,600);
 @font-face {
-    font-family: Geo Sans Light;
-    src: url(/assets/fonts/GeosansLight.ttf);
+  font-family: Geo Sans Light;
+  src: url(/assets/fonts/GeosansLight.ttf);
 }
 
 html,body{
-	width: 100%;
+  width: 100%;
   height: 100%;
-	margin: 0;
-	padding: 0;
-	font-family: Open Sans;
+  margin: 0;
+  padding: 0;
+  font-family: Open Sans;
   color: rgba(255,255,255,1);
   background-color: rgba(60,60,60,1);
-	font-weight: 300;
+  font-weight: 300;
   font-size: 16px;
   overflow: hidden;
 }
 h1{
   font-family: Geo Sans Light;
-	font-size: 7vh;
+  font-size: 7vh;
   margin-top: 0; 
   margin-bottom: 0.2em;
   color: rgba(255,255,255,1);
@@ -46,7 +46,7 @@ p{
   margin-top: 0.1em;
 }
 p, li{
-	font-size: 3vh;
+  font-size: 3vh;
   color: rgba(255,255,255,0.9);
 }
 a{
@@ -91,9 +91,9 @@ li{
   display: block;
 }
 .logo{
-  top: 0;
+  /* top: 0; */
   width: 100%;
-  height: 60%;
+  /* height: 60%; */
   position: absolute;
   text-align: center;
 }
@@ -211,11 +211,11 @@ li{
   margin-top: 9vw;
   font-size: 1.5vw;
 }
- .events h2, .news h2{
+.events h2, .news h2{
   margin: 0;
   font-style: normal;
   font-size: 2vw;
- }
+}
 .comm h3, .events h3{
   font-size: 1.2vw;
 }
@@ -411,7 +411,7 @@ canvas, iframe{
     font-size: 2vh;
   }
   .desc p{
-      font-size: 2vh;
+    font-size: 2vh;
   }
   .scroll-down img{
     width: 6vw;
@@ -453,8 +453,8 @@ canvas, iframe{
     padding: 1vh;
   }
   .bios p{
-  font-size: 2.5vh;
-}
+    font-size: 2.5vh;
+  }
   .events img{
     width: 22vw;
   }
