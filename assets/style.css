@@ -104,13 +104,13 @@ li{
   margin-top: 8vh;
   margin-bottom: 0vh;
 }
-.logo h1{
-  font-size: 5vh;
-  text-shadow: 2px 2px 5px rgba(0,0,0,1);
-}
-.logo h3{
-  text-shadow: 2px 2px 5px rgba(0,0,0,1);
-}
+/* .logo h1{ */
+/*   font-size: 5vh; */
+/*   text-shadow: 2px 2px 5px rgba(0,0,0,1); */
+/* } */
+/* .logo h3{ */
+/*   text-shadow: 2px 2px 5px rgba(0,0,0,1); */
+/* } */
 .design{
   position:absolute;
   bottom: 5vh;
