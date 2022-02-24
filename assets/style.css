@@ -6,8 +6,8 @@ html, body{
   margin: 0;
   padding: 0;
   font-family: Open Sans;
-  color: rgba(255,255,255,1);
-  background-color: rgba(60,60,60,1);
+  /* color: rgba(255,255,255,1); */
+  /* background-color: rgba(60,60,60,1); */
   font-weight: 300;
   font-size: 16px;
   overflow: hidden;
@@ -20,7 +20,7 @@ h1{
   margin-bottom: 0.2em;
   color: rgba(255,255,255,1);
   font-weight: 300;
-  text-shadow: 2px 2px 5px rgba(0,0,0,0.1);
+  /* text-shadow: 2px 2px 5px rgba(0,0,0,0.1); */
 }
 h2{
   /* font-family: Open Sans Light; */
