@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,400;1,300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,400;1,300;1,400&display=swap');
 
 html, body{
   width: 100%;
@@ -13,8 +13,9 @@ html, body{
   overflow: hidden;
 }
 h1{
-  font-family: Open Sans Light;
+  /* font-family: Open Sans Light; */
   font-size: 7vh;
+  font-style: italic;
   margin-top: 0; 
   margin-bottom: 0.2em;
   color: rgba(255,255,255,1);
@@ -22,7 +23,7 @@ h1{
   text-shadow: 2px 2px 5px rgba(0,0,0,0.1);
 }
 h2{
-  font-family: Open Sans Light;
+  /* font-family: Open Sans Light; */
   font-size: 5vh;
   font-style: italic;
   font-weight: 300;
@@ -30,7 +31,7 @@ h2{
   margin-bottom: 0;
 }
 h3{
-  font-family: Open Sans Light;
+  /* font-family: Open Sans Light; */
   font-size: 2.5vh;
   font-style: italic;
   font-weight: 300;
