@@ -1,8 +1,8 @@
-@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,600);
-@font-face {
-  font-family: Geo Sans Light;
-  src: url(/assets/fonts/GeosansLight.ttf);
-}
+/* @import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,600); */
+/* @font-face { */
+/*   font-family: Geo Sans Light; */
+/*   src: url(/assets/fonts/GeosansLight.ttf); */
+/* } */
 
 html,body{
   width: 100%;
@@ -17,7 +17,7 @@ html,body{
   overflow: hidden;
 }
 h1{
-  font-family: Geo Sans Light;
+  font-family: Open Sans Light;
   font-size: 7vh;
   margin-top: 0; 
   margin-bottom: 0.2em;
@@ -26,7 +26,7 @@ h1{
   text-shadow: 2px 2px 5px rgba(0,0,0,0.1);
 }
 h2{
-  font-family: Geo Sans Light;
+  font-family: Open Sans Light;
   font-size: 5vh;
   font-style: italic;
   font-weight: 300;
@@ -34,7 +34,7 @@ h2{
   margin-bottom: 0;
 }
 h3{
-  font-family: Geo Sans Light;
+  font-family: Open Sans Light;
   font-size: 2.5vh;
   font-style: italic;
   font-weight: 300;
