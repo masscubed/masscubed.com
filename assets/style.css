@@ -1,8 +1,4 @@
-/* @import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,600); */
-/* @font-face { */
-/*   font-family: Geo Sans Light; */
-/*   src: url(/assets/fonts/GeosansLight.ttf); */
-/* } */
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
 
 html,body{
   width: 100%;
@@ -55,13 +51,18 @@ a{
 li{
   list-style-type: square;
 }
-.overlay{
-  background-color: rgba(40,40,40,1);
+
+/* Configuring the background on landing page */
+.background {
   height: 100%;
   width: 100%;
   position: relative;
   overflow: hidden;
 }
+.darkblue {
+  background-color: rgba(13, 139, 150, 1);
+}
+
 .landing{
   opacity: 0.2;
   position: fixed;
