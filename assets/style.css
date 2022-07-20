@@ -111,3 +111,13 @@ figcaption {
   font-style: italic;
   color: var(--c-darkgrey);
 }
+
+.banner {
+  background-image: url('/home/nimeni/git/masscubed.com/assets/images/shareteam.jpg');
+  width: 100%;
+  height: 400px;
+  background-size: cover;
+}
+main.home-page {
+  min-height: 100%;
+}
