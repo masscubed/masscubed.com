@@ -78,7 +78,7 @@ nav a:hover {
 
 /* make sure content has nice juicy margins on left and right */
 main {
-  margin: 50px 30%;
+  margin: 50px 25%;
 }
 
 /* use thin font for title, no overblown margins */
@@ -93,21 +93,16 @@ span.email {
   font-family: monospace;
 }
 
-/* green links in paragraphs */
+/* links in paragraphs */
 p > a {
   text-decoration: none;
   color: var(--c-darkcyan);
 }
 
-/* formatting figures */
-figure {
-  margin-left: 0;
-}
 figure > img {
-  max-width: 100%;
-  max-height: 500px; 
+  max-width: 100%; 
 }
 figcaption {
   font-style: italic;
-  color: var(--c-darkgrey);
+  color: var(--c-white);
 }
