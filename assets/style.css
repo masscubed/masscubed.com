@@ -124,6 +124,14 @@ figcaption {
   background-repeat: no-repeat;
   background-position: center;
 }
+
+/* pleasant */
 main {
   padding-bottom: 50px;
+}
+
+/* so Home page isn't so short */
+main.home-page {
+  padding-bottom: 0;
+  height: 100%;
 }
