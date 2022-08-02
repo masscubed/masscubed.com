@@ -1,205 +1,45 @@
-﻿<!doctype html>
+﻿<!DOCTYPE html>
 <html>
   <head>
-    <title>Committee</title>
+    <title>MASS Cubed—Committee</title>
     <meta charset="UTF-8">
-    <link type="text/css" rel="stylesheet" href="/assets/style.css">
-    <link rel="shortcut icon" type="image/x-icon" href="/assets/images/favicon.ico"/>
-    <script src="/assets/jquery-1.9.0.js"></script>
-    <script src="/assets/jquery-ui.min.js"></script>
-    <script type = "text/javascript" src = "https://ajax.googleapis.com/ajax/libs/jqueryui/1.11.3/jquery-ui.min.js"></script>
-    <script type="text/javascript" src="/assets/konami.js"></script>
-    <!--<script src="http://code.jquery.com/jquery-1.9.0.js"></script>-->
+    <meta name="keywords" content="Monash, clubs, university, science, MASS3">
+    <meta name="description" content="Monash Advanced Science & Science Scholars Society">
+    <meta name="author" content="Luke Attrill">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <base href="https://masscubed.com/">
+    <link type="text/css" rel="stylesheet" href="assets/style.css">
+    <link rel="shortcut icon" type="image/x-icon" href="assets/images/icons/favicon.ico"/>
   </head>
   <body>
-    <div class="overlay">
-      <img alt="People meeting in office" src="/assets/images/backgrounds/meet.jpg" class="landing">
-    </div>
-    <div class="squares">
-      <img alt="" src="/assets/images/square.png">
-      <img alt="" src="/assets/images/square.png">
-    </div>
-    <div class="screen-first">
-      <div class="desc">
-        <img src="/assets/images/icons/comm-w.svg" class="icon">
-        <p>Meet the committee for 2022<br>Click the thumbnails on the next page to find out more</p>
-      </div>
-      <ul class="nav">
-        <a href="/"><li>HOME</li></a>
-        <a href="/about"><li>ABOUT</li></a>
-        <a href="/committee"><li class="current">COMMITTEE</li></a>
-        <a href="/events"><li>EVENTS</li></a>
-        <a href="/monthly"><li>MONTHLY</li></a>
-      </ul>
-      <div  class="scroll-down"><img alt="" src="/assets/images/arrow.png"></div>
-    </div>
-    <script>
-      function bio(n){
-              $(".bios li").hide();
-              $(".bios li:nth-child("+ n +")").show();
-              $(".bios").fadeIn("slow");
-            }
-      $(document).ready(function(){
-              $(".bios").on("click", function(){
-                      $(this).fadeOut("slow");
-                    });
-            });
-    </script>
-    <div class="screen-second">
-      <ul class="comm">
-        <li onclick="bio(1)">
-          <img alt="" src="/assets/images/people/girl-alt.jpg">
-          <img alt="" src="/assets/images/people/alex.jpg">
-          <h2>Alex Miles</h2>
-          <h3>President</h3>
-        </li>
-        <li onclick="bio(2)">
-          <img alt="" src="/assets/images/people/girl-alt.jpg">
-          <img alt="" src="/assets/images/people/eleanor.jpg">
-          <h2>Eleanor Pullin</h2>
-          <h3>Vice-President</h3>
-        </li>
-        <li onclick="bio(3)">
-          <img alt="" src="/assets/images/people/girl-alt.jpg">
-          <img alt="" src="/assets/images/people/girl.jpg">
-          <h2>Sabrina Berg</h2>
-          <h3>Secretary</h3>
-        </li>
-        <li onclick="bio(4)">
-          <img alt="" src="/assets/images/people/boy-alt.jpg">
-          <img alt="" src="/assets/images/people/thomas.jpg">
-          <h2>Thomas Godfrey</h2>
-          <h3>Treasurer</h3>
-        </li>
-        <li onclick="bio(5)">
-          <img alt="" src="/assets/images/people/girl-alt.jpg">
-          <img alt="" src="/assets/images/people/girl.jpg">
-          <h2>Florence Honybun</h2>
-          <h3>Events Co-ordinator</h3>
-        </li>
-        <li onclick="bio(6)">
-          <img alt="" src="/assets/images/people/ruby-alt.jpg">
-          <img alt="" src="/assets/images/people/ruby.jpg">
-          <h2>Ruby Flack</h2>
-          <h3>Education Officer</h3>
-        </li>
-        <li onclick="bio(7)">
-          <img alt="" src="/assets/images/people/girl-alt.jpg">
-          <img alt="" src="/assets/images/people/girl.jpg">
-          <h2>Georgia Grant</h2>
-          <h3>Social Media</h3>
-        </li>
-        <li onclick="bio(8)">
-          <img alt="" src="/assets/images/people/natalie-alt.jpg">
-          <img alt="" src="/assets/images/people/natalie.jpg">
-          <h2>Natalie Sist</h2>
-          <h3>Webmaster</h3>
-        </li>
-        <li onclick="bio(9)">
-          <img alt="" src="/assets/images/people/boy-alt.jpg">
-          <img alt="" src="/assets/images/people/boy.jpg">
-          <h2>Player Unkown</h2>
-          <h3>Global Challenges Rep.</h3>
-        </li>
-        <li onclick="bio(10)">
-          <img alt="" src="/assets/images/people/girl-alt.jpg">
-          <img alt="" src="/assets/images/people/girl.jpg">
-          <h2>Player Unknown</h2>
-          <h3>Advanced Research Rep.</h3>
-        </li>
-      </ul>
-      <ul class="bios">
-        <li><h1>Brianna</h1><br><h3>barg0001@student.monash.edu</h3><br><p>Hey, I’m Brianna Argall – a turtle obsessed student in my 2nd year of the Global Challenges degree. I’ll be majoring in conservation biology and ecology (one major) and minoring in mathematical statistics. Aside from my love of natural environments, I’m also passionate about education equality in STEM (especially across SES groups) and love reading (but I don’t actually get through many new books). This year I’ll be the events co-ordinator for mass^3 so if you’ve got event ideas or feedback please let me know!</p></li>
-        <li><h1>Eleanor</h1><br><h3>epul0001@student.monash.edu</h3><br><p>Hey I’m Eleanor. I’m in my second year of the research degree, majoring in psychology and maths. I’m a chocolate and cheezels enthusiast and general music lover and nerd. I pretty much live in the common room so if you’re ever looking for me that’s a good place to start!</p></li>
-        <li><h1>Sabrina</h1><br><h3>Sabrina's email</h3><br><p>Hi my name is Sabrina and I havn't written a boi yet</p></li>
-        <li><h1>Thomas</h1><br><h3>thom0003@student.monash.edu</h3><br><p>Do you like science and maths as much as me? Well you sure should hope so because I’m the Treasurer for MASS^3 2K19. I’m an avid podcast listener; and a looking to major in Maths/Physics/Physiology I’m the person to come to for all your uni and life related questions. I enjoy iced coffee; gyms and beaches so come and say hi!</p></li>
-        <li><h1>Florence</h1><br><h3>Florence's email </h3><br><p>Hi my name is Florence and I havn't written a boi yet</p></li>
-        <li><h1>Ruby</h1><br><h3>rfla0001@student.monash.edu</h3><br><p>Hi I’m Second year in the Global challenges, I’m planning on majoring in Environmental sciences. I am a very approachable human and happy to help with anything, ask me for a tour of the campus or about how the moon was made… Otherwise I’ll just show you pictures of baby Capybaras to brighten your day. But in all seriousness The main reason I believe I’m here to help is because… “Mental health is more important than your education, it’s better to have a degree of sanity than just a degree” (anonymous,).</p></li>
-        <li><h1>Georgia</h1><br><h3>Ggra0004@student.monash.edu</h3><br><p>Hi my name is Georgia and I havn't written a boi yet</p></li>
-        <li><h1>Natalie</h1><br><h3>jsis0001@student.monash.edu</h3><br><p>Sup nerds, it's your webmaster Natalie. I hope this role will give me superpowers like gwen stacy. I am majoring in chemistry and computational science, maths is too hard. Big weeb, overwhelmingly average and lover of dank memes.  </p></li>
-        <li><h1>MIA</h1><br><h3></h3><br><p></p></li>
-        <li><h1>MIA</h1><br><h3></h3><br><p></p></li>
-      </ul>
-    </div>
-    <script>
-      $(document).ready(function(){
-              //$(".move").effect("bounce", { times:3, distance:30 }, 2500);
-              $(".squares img:nth-child(1)").css("opacity","1");
-              $(".squares img:nth-child(2), .squares img:nth-child(3)").css("opacity","0.5");
-              //fade and slide
-              function slideFadeUp(elem) {
-                      var fade = { opacity: 0, transition: 'opacity 0.5s', 'z-index': '0'};
-                      elem.css(fade).slideUp("slow");
-                    }
-              function slideFadeDown(elem) {
-                      var fade = { opacity: 0, transition: 'opacity 0.5s', 'z-index': '0' };
-                      elem.css(fade).slideDown("slow");
-                    }
-              function slideShowUp(elem) {
-                      var fade = { opacity: 1, transition: 'opacity 0.5s', 'z-index': '1'};
-                      elem.css(fade).slideUp("slow");
-                    }
-              function slideShowDown(elem) {
-                      var fade = { opacity: 1, transition: 'opacity 0.5s', 'z-index': '1' };
-                      elem.css(fade).slideDown("slow");
-                    }
-              var page = 1;
-              var threshold=0;
-              $(window).on( 'DOMMouseScroll mousewheel', function ( event ) {
-                      threshold++
-                      if (threshold>3){
-                              if(event.originalEvent.detail > 0 || event.originalEvent.wheelDelta < 0 ) {
-                                      //down
-                                      if(page==1){
-                                              slideFadeUp($(".screen-first"));
-                                              slideShowDown($(".screen-second"));
-                                              $(".squares img:nth-child(2)").css("opacity","1");
-                                              $(".squares img:nth-child(1)").css("opacity","0.5");
-                                            }
-                                      if(page<2){
-                                              page++;
-                                            }
-                                    } else{
-                                            //up
-                                            if(page==2){
-                                                    slideShowDown($(".screen-first"));
-                                                    slideFadeDown($(".screen-second"));
-                                                    $(".squares img:nth-child(1)").css("opacity","1");
-                                                    $(".squares img:nth-child(2)").css("opacity","0.5");
-                                                  }
-                                            if (page>1){
-                                                    page--;
-                                                  }
-                                          }
-                              threshold=0;
-                            }
-                    });
-              $(".scroll-down").on("click", function(){
-                      if(page==1){
-                              slideFadeUp($(".screen-first"));
-                              slideShowDown($(".screen-second"));
-                              $(".squares img:nth-child(2)").css("opacity","1");
-                              $(".squares img:nth-child(1)").css("opacity","0.5");
-                            }
-                      if(page<2){
-                              page++;
-                            }
-                    });
-              $(".squares img:nth-child(1)").on("click",function(){
-                      slideShowDown($(".screen-first"));
-                      slideFadeUp($(".screen-second"));
-                      $(".squares img:nth-child(1)").css("opacity","1");
-                      $(".squares img:nth-child(2)").css("opacity","0.5");
-                      page=1;
-                    });
-              $(".squares img:nth-child(2)").on("click",function(){
-                      slideShowDown($(".screen-second"));
-                      slideFadeUp($(".screen-first"));
-                      $(".squares img:nth-child(2)").css("opacity","1");
-                      $(".squares img:nth-child(1)").css("opacity","0.5");
-                      page=2;
-                    });
-            });
-    </script>
+    <header class="nav-bar bottom-horizontal">
+      <a href="">
+        <img class="nav-bar-logo"
+          src="assets/images/logo-darkblue.png"
+          alt="MASS Cubed logo"
+          href="">
+      </a>
+      <nav>
+        <a href="">Home</a>
+        <a href="events/">Events</a>
+        <a href="committee/" class="current-page">Committee</a>
+        <a href="contact/">Contact</a>
+      </nav>
+    </header>
+    <main>
+      <header class="bottom-horizontal">
+        <h1>Committee</h1>
+      </header>
+      <p>
+      <figure>
+        <img src="assets/images/committee2022.jpg"
+          alt="Seven of nine members of the committee smile awkwardly for a
+          formal photo.">
+        <figcaption>Figure 1: The top row is Caitlin, Steven, Ava, Jane, Tom.
+          The bottom row is Luke, Alex, Joy, Lara.
+        </figcaption>
+      </figure>
+      </p>
+    </main>
   </body>
 </html>

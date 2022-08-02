@@ -1,54 +1,63 @@
-<!doctype html>
+<!DOCTYPE html>
 <html>
   <head>
-    <title>MASS³</title>
+    <title>MASS Cubed</title>
     <meta charset="UTF-8">
-    <link type="text/css" rel="stylesheet" href="/assets/style.css">
-    <link rel="shortcut icon" type="image/x-icon" href="/assets/images/favicon.ico"/>
-    <script src="/assets/jquery-1.9.0.js"></script>
-    <script src="/assets/jquery-ui.min.js"></script>
-    <script type = "text/javascript" src = "https://ajax.googleapis.com/ajax/libs/jqueryui/1.11.3/jquery-ui.min.js"></script>
-    <script type="text/javascript" src="/assets/konami.js"></script>
-    <!--<script src="http://code.jquery.com/jquery-1.9.0.js"></script>-->
+    <meta name="keywords" content="Monash, clubs, university, science, MASS3">
+    <meta name="description" content="Monash Advanced Science & Science Scholars Society">
+    <meta name="author" content="Luke Attrill">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <base href="http://masscubed.com/">
+    <link type="text/css" rel="stylesheet" href="assets/style.css">
+    <link rel="shortcut icon" type="image/x-icon" href="assets/images/icons/favicon.ico"/>
   </head>
-  <body class="darkblue">
-    <!-- <div class="overlay"> -->
-      <!-- <img alt="New Horizons building" src="/assets/images/backgrounds/new horizons.jpg" class="landing"> -->
-      <!-- <img alt="Green Chemical Futures building" src="/assets/images/backgrounds/gcf.jpg" class="landing"> -->
-      <!-- <img alt="Cave of tessellated computer monitors" src="/assets/images/backgrounds/cave.jpg" class="landing"> -->
-    <!-- </div> -->
-    <script>
-      $(document).ready(function(){
-              $(".overlay img:gt(0)").hide();
-              setInterval(function(){
-                      $(".overlay :first-child").next().fadeIn(1700);
-                      $(".overlay :first-child").fadeOut(1700, function(){
-                              $(".overlay :first-child").appendTo(".overlay");
-                            });
-                    }, 5000);
-            });
-    </script>
-    <div class="logo">
-      <img alt="MASS3 logo" src="/assets/images/logo-white.svg">
-      <h1>Monash Advanced Science & Science Scholars Society</h1>
-      <br> <br>
-      <p>This website is undergoing an overhaul.
-      Please head over to our <a alt="MASS Cubed facebook page"
-        href="https://facebook.com/mass3monash">Facebook page</a>.<br>
-      You should also check out Monash's <a alt="Career Connect"
-        href="https://www.monash.edu/students/future-work/career-connect">Career
-      Connect program</a>.</p>
+  <body>
+    <div class="banner">
     </div>
-    <ul class="nav">
-      <a href="/"><li class="current">HOME</li></a>
-      <a href="/"><li>ABOUT</li></a>
-      <a href="/"><li>COMMITTEE</li></a>
-      <a href="/"><li>EVENTS</li></a>
-      <a href="/"><li>MONTHLY</li></a>
-    </ul>
-    <!-- <div class="design"> -->
-    <!--   <h3>Designed by Hans Kek</h3> -->
-    <!--   <h3>Curated by Thomas Nobes</h3> -->
-    <!-- </div> -->
+    <header class="nav-bar bottom-horizontal">
+      <a href="">
+        <img class="nav-bar-logo"
+          src="assets/images/logo-darkblue.png"
+          alt="MASS Cubed logo"
+          href="">
+      </a>
+      <nav>
+        <a href="" class="current-page">Home</a>
+        <a href="events/">Events</a>
+        <a href="committee/">Committee</a>
+        <a href="contact/">Contact</a>
+      </nav>
+    </header>
+    <main class="home-page">
+      <header class="bottom-horizontal">
+        <h1>Monash Advanced Science & Science Scholars Society</h1>
+      </header>
+      <p>
+        MASS³ (pronounced <em>mass cubed</em>) is a club for Monash students
+        enrolled in
+        <ul>
+          <li>the <em>Bachelor of Science Advanced - Research (Honours)</em>;
+            or
+          <li>the <em>Bachelor of Science Advanced - Global Challenges
+            (Honours)</em>.
+        </ul>
+        Our purpose is to provide strong social and academic networks
+        for high achieving students, particularly those who wish to proceed
+        into academia or business.
+      </p>
+      <p>
+        We urge members to visit to the 
+        <a href="https://www.facebook.com/groups/masscubed/">
+          Facebook page</a> for the latest information.
+        Students may also be interested in Monash's
+        <a href="https://www.monash.edu/students/future-work/career-connect">
+          Career Connect program
+          </a>.
+      </p>
+      <p>
+        <em>This website is still undergoing some works but I'll keep the
+        information here correct at bare minimum.</em>
+      </p>
+    </main>
   </body>
 </html>
