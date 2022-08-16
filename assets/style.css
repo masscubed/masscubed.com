@@ -118,11 +118,16 @@ figcaption {
 .banner {
   background-image: url('../assets/images/mixer2022.jpg');
   width: 100%;
-  min-height: 60%;
+  min-height: 100%;
   background-size: cover;
   background-attachment: fixed;
   background-repeat: no-repeat;
   background-position: center;
+}
+
+/* configuring logo on banner */
+.main-logo {
+  max-height: 300px;
 }
 
 /* pleasant */
