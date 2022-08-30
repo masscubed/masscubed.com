@@ -126,12 +126,14 @@ figcaption {
 }
 
 /* configuring logo on banner */
+.main-logo-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+}
 .main-logo {
   display: block;
-  margin-left: auto;
-  margin-right: auto;
-  margin-top: auto;
-  margin-bottom: auto;
   width: 75%;
 }
 
