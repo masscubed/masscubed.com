@@ -118,7 +118,7 @@ figcaption {
 .banner {
   background-image: url('../assets/images/mixer2022.jpg');
   width: 100%;
-  height: 100% !important;
+  height: 100%;
   background-size: cover;
   background-attachment: fixed;
   background-repeat: no-repeat;
@@ -127,8 +127,10 @@ figcaption {
 
 /* configuring logo on banner */
 .main-logo {
-  max-height: 300px;
-  margin: auto;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
 }
 
 /* pleasant */
