@@ -123,6 +123,7 @@ figcaption {
   background-attachment: fixed;
   background-repeat: no-repeat;
   background-position: center;
+  position: relative;
 }
 
 /* configuring logo on banner */
