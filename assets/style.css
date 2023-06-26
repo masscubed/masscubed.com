@@ -147,7 +147,7 @@ main.home-page {
 }
 
 /*buttons*/
-button {
+.button {
   margin:auto;
   display:block;
   background-color: #0d8b96;
