@@ -145,3 +145,12 @@ main.home-page {
   padding-bottom: 0;
   height: 100%;
 }
+
+/*buttons*/
+button {
+  margin:auto;
+  display:block;
+  background-color: #0d8b96;
+  color: #ffffff;
+  border:none;
+}
