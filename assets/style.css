@@ -151,7 +151,7 @@ main.home-page {
   margin:auto;
   display:block;
   background-color: #0d8b96;
-  color: #ffffff;
+  color: #ffffff !important;
   border:none;
 }
 
@@ -160,7 +160,7 @@ main.home-page {
   padding: 10px 20px;
   margin: 10px;
   background-color: #0d8b96;
-  color: #FFFFFF;
+  color: #FFFFFF !important;
   text-decoration: none;
   border-radius: 5px;
   transition: background-color 0.3s ease;
