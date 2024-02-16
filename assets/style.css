@@ -97,8 +97,8 @@ span.email {
 
 /* green links in paragraphs */
 a {
-  text-decoration: none;
-  color: var(--c-darkcyan);
+  text-decoration: none !important;
+  color: var(--c-darkcyan) !important;
 }
 
 /* formatting figures */
