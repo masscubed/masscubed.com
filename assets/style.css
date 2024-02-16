@@ -96,7 +96,7 @@ span.email {
 }
 
 /* green links in paragraphs */
-p > a {
+a {
   text-decoration: none;
   color: var(--c-darkcyan);
 }
