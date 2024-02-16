@@ -100,14 +100,6 @@ p > a {
   text-decoration: none !important;
   color: var(--c-darkcyan)!important;
 }
-ul > a {
-  text-decoration: none !important;
-  color: var(--c-darkcyan)!important;
-}
-em > a {
-  text-decoration: none !important;
-  color: var(--c-darkcyan)!important;
-}
 
 /* formatting figures */
 figure {
