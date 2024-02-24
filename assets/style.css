@@ -40,6 +40,7 @@ html, body{
   width: 100%;
   display: flex;
   align-items: center;
+  z-index: 1; /* Ensure navbar is below dropdown */
   justify-content: space-between;
   overflow: hidden; /* for safety */
   background-color: var(--c-white);
@@ -71,52 +72,6 @@ nav a:hover {
   color: var(--c-darkcyan);
   border-bottom: 2px solid var(--c-darkcyan);
 }
-
-/* Dropdown button */
-.dropbtn {
-  background-color: var(--c-white);
-  color: var(--c-black);
-  padding: 2px;
-  margin: 10px;
-  border: none;
-  cursor: pointer;
-  z-index: 1; /* Ensure dropdown button is above navbar */
-}
-
-/* Dropdown button on hover */
-.dropbtn:hover {
-  color: var(--c-darkcyan);
-}
-
-/* Dropdown content (hidden by default) */
-.dropdown-content {
-  display: none;
-  position: absolute;
-  background-color: var(--c-white);
-  min-width: 160px;
-  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
-  z-index: 2; /* Ensure dropdown content is above dropdown button */
-}
-
-/* Links inside the dropdown */
-.dropdown-content a {
-  color: var(--c-black);
-  padding: 12px 16px;
-  text-decoration: none;
-  display: block;
-  border-top: 2px solid var(--c-white);
-}
-
-/* Change color of dropdown links on hover */
-.dropdown-content a:hover {
-  background-color: var(--c-lightgrey);
-}
-
-/* Show the dropdown menu */
-.dropdown:hover .dropdown-content {
-  display: block;
-}
-/*end of dropdown bit */
 
 /* making sure the logo isn't naughty */
 .nav-bar-logo {
