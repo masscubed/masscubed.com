@@ -51,15 +51,15 @@ html, body{
 
 /* the collection of nav links, embedded in our nav bar */
 nav {
-  padding: 5px 20px;
+  padding: 0px 20px; /* changed from 5 */
 }
 
 /* properties of nav bar links */
 nav a {
   text-decoration: none;
   color: var(--c-black);
-  padding: 2px;
-  margin: 10px;
+  padding: 10px 15px; /* Adjusted padding from 2 */
+  margin: 0 5px; /* Adjusted padding from 10 */
   display: inline-block;
   border-top: 2px solid var(--c-white);
   border-bottom: 2px solid var(--c-white);
