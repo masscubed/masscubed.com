@@ -1,5 +1,0 @@
----
-title: Editorial
-layout: category
----
-
