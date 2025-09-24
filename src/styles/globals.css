@@ -3,6 +3,10 @@
 /* import Roboto Mono font */
 @import url('https://fonts.googleapis.com/css2?family=Roboto+Mono&display=swap');
 
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
 /* colour palette */
 :root {
   --c-deepblack: #000807;
@@ -60,7 +64,7 @@ nav {
 nav a {
   text-decoration: none;
   color: var(--c-black);
-  padding: 2px; /* Adjusted padding from 2 */
+  padding: 5px; /* Adjusted padding from 2 */
   margin: 10px; /* Adjusted padding from 10 */
   display: inline-block;
   border-top: 2px solid var(--c-white);

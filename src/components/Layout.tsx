@@ -1,5 +1,6 @@
 import Head from 'next/head';
 import Link from 'next/link';
+import Image from 'next/image';
 import { useRouter } from 'next/router';
 
 interface LayoutProps {
@@ -29,15 +30,17 @@ export default function Layout({ children, title = 'MASS Cubed', description = '
         <link rel="shortcut icon" type="image/x-icon" href="/assets/images/icons/favicon.ico" />
       </Head>
       
-      <header className="nav-bar bottom-horizontal">
+      <header className="flex items-center justify-between mx-auto p-4">
         <Link href="/">
-          <img 
+          <Image 
             className="nav-bar-logo"
             src="/assets/images/logo-darkblue.png"
             alt="MASS Cubed logo"
+            width={150}
+            height={100}
           />
         </Link>
-        <nav>
+        <nav className="flex items-center !space-x-50">
           <Link href="/" className={isCurrentPage('/') ? 'current-page' : ''}>Home</Link>
           <Link href="/events" className={isCurrentPage('/events') ? 'current-page' : ''}>Events</Link>
           <Link href="/committee" className={isCurrentPage('/committee') ? 'current-page' : ''}>Committee</Link>
