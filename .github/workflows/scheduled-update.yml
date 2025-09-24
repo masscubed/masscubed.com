@@ -1,9 +1,10 @@
-name: Deploy to GitHub Pages
+name: Scheduled Calendar Update
 
 on:
-  push:
-    branches: [ main, nextjs ]
-  workflow_dispatch:
+  schedule:
+    # Run daily at 6 AM UTC (adjust timezone as needed)
+    - cron: '0 6 * * *'
+  workflow_dispatch: # Allow manual triggering
 
 permissions:
   contents: read
@@ -15,7 +16,7 @@ concurrency:
   cancel-in-progress: false
 
 jobs:
-  build:
+  update-calendar:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
@@ -30,7 +31,7 @@ jobs:
       - name: Install dependencies
         run: npm ci
 
-      - name: Update Calendar Events
+      - name: Fetch Calendar Events
         run: npm run update-calendar
 
       - name: Build
@@ -46,13 +47,14 @@ jobs:
         with:
           path: ./out
 
-  deploy:
-    environment:
-      name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
-    runs-on: ubuntu-latest
-    needs: build
-    steps:
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
+
+      - name: Commit and Push Changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add src/pages/events.tsx
+          git commit -m "Update calendar events [skip ci]" || exit 0
+          git push

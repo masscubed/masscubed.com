@@ -8,7 +8,9 @@
     "start": "next start",
     "lint": "eslint",
     "export": "next build && next export",
-    "deploy": "npm run build && touch out/.nojekyll && git add out/ && git commit -m 'Deploy to GitHub Pages' && git subtree push --prefix out origin gh-pages"
+    "deploy": "npm run build && touch out/.nojekyll && git add out/ && git commit -m 'Deploy to GitHub Pages' && git subtree push --prefix out origin gh-pages",
+    "update-calendar": "node scripts/fetch-calendar-events.js",
+    "build-and-deploy": "npm run update-calendar && npm run build && touch out/.nojekyll && git add . && git commit -m 'Update calendar events and deploy' && git push"
   },
   "dependencies": {
     "googleapis": "^160.0.0",

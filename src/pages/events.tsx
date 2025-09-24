@@ -101,52 +101,32 @@ export default function Events({ events, error }: EventsPageProps) {
 // Sample events data - in production, this would come from a real calendar
 const getSampleEvents = (): Event[] => [
   {
-    id: 'sample-1',
-    title: 'Trivia Night',
-    description: 'Team up with your friends (or meet new people!) for one of the most competitive events of the year! Pizza, snacks and drinks will be provided from 6:30pm.',
-    start: new Date(Date.now() + 7 * 24 * 60 * 60 * 1000).toISOString(), // 1 week from now
-    end: new Date(Date.now() + 7 * 24 * 60 * 60 * 1000 + 3 * 60 * 60 * 1000).toISOString(), // 3 hours later
-    location: 'Common Room, 19 Rainforest Walk',
-    htmlLink: 'https://www.eventbrite.com.au/e/mass3-trivia-night-2025-tickets-1265652232899',
-    isAllDay: false,
-  },
-  {
-    id: 'sample-2',
-    title: 'Ordinary General Meeting (OGM)',
-    description: 'The first club meeting of the year! Run or vote for our first year representative positions. More information, including location, will be provided in the official OGM announcement.',
-    start: new Date(Date.now() + 14 * 24 * 60 * 60 * 1000).toISOString(), // 2 weeks from now
-    end: new Date(Date.now() + 14 * 24 * 60 * 60 * 1000 + 2 * 60 * 60 * 1000).toISOString(), // 2 hours later
-    location: 'TBA',
+    id: '3dgfccehq0mvaps7r5ntf114i4@google.com',
+    title: 'Monash Advanced Science: Career & Industry Insider',
+    description: '<p>If you plan to attend, please fill out this form <a href="https://docs.google.com/forms/d/e/1FAIpQLSc4jJqE5VJGIYaXch1IY8k0f6XfLj7EuTYuk5WMsSFNuR2p-g/viewform?usp=dialog"><u>here</u></a>.</p><p dir="ltr">MASS³ is the Monash University student club for the Advanced Science courses and aims to foster student community, providing opportunities to further students’ university experience through events such as this one. As part of this event, we would appreciate it if you could give a brief (5-10 minute) presentation about your professional journey, the key moments that have defined your career, and the challenges you are yet to overcome.</p><p dir="ltr">There will also be time for informal networking afterwards. Student questions have included:</p><ul><li dir="ltr"><p dir="ltr">How can you change fields/professions later in your career with the most success?</p></li><li dir="ltr"><p dir="ltr">How do you navigate a biased field or workplace? (Bias may include prejudice, discrimination, etc.)</p></li><li dir="ltr"><p dir="ltr">How do you establish and maintain professional connections?</p></li></ul>\n\nJoin with Google Meet: https://meet.google.com/gfr-xquh-pfj\nOr dial: (AU) +61 2 9051 7019 PIN: 123456999#\nMore phone numbers: https://tel.meet/gfr-xquh-pfj?pin=8872539299574&hs=7\n\nLearn more about Meet at: https://support.google.com/a/users/answer/9282720',
+    start: '2025-09-25T08:00:00.000Z',
+    end: '2025-09-25T11:00:00.000Z',
+    location: 'Monash University Clayton Campus, Wellington Rd, Clayton VIC 3800, Australia',
     htmlLink: '',
     isAllDay: false,
   },
   {
-    id: 'sample-3',
-    title: 'Powerpoint Evening',
-    description: 'Present whatever powerpoint creation you choose to in a relaxed night with snacks and friends! Whether you choose to present something educational, funny, or blind-swap presentations with a friend, we can\'t wait to see your creative slideshows.',
-    start: new Date(Date.now() + 28 * 24 * 60 * 60 * 1000).toISOString(), // 4 weeks from now
-    end: new Date(Date.now() + 28 * 24 * 60 * 60 * 1000 + 3 * 60 * 60 * 1000).toISOString(), // 3 hours later
-    location: 'Common Room, 19 Rainforest Walk',
+    id: '4jeqjdtr4ih9oo1t1736rfvbsr@google.com',
+    title: 'Mid-Semester Party ',
+    description: '<a href="https://www.eventbrite.com.au/e/mass3-midsem-social-night-tickets-1681470636939?aff=oddtdtcreator">https://www.eventbrite.com.au/e/mass3-midsem-social-night-tickets-1681470636939?aff=oddtdtcreator</a>',
+    start: '2025-09-30T09:00:00.000Z',
+    end: '2025-09-30T14:00:00.000Z',
+    location: '',
     htmlLink: '',
     isAllDay: false,
   },
   {
-    id: 'sample-4',
-    title: 'Academic Mixer',
-    description: 'Save the date for our annual academic and industry mixer event! This is a fantastic opportunity to meet both fellow students, and academics, with chances to network with possible project supervisors.',
-    start: new Date(Date.now() + 49 * 24 * 60 * 60 * 1000).toISOString(), // 7 weeks from now
-    end: new Date(Date.now() + 49 * 24 * 60 * 60 * 1000 + 4 * 60 * 60 * 1000).toISOString(), // 4 hours later
-    location: 'TBA',
-    htmlLink: '',
-    isAllDay: false,
-  },
-  {
-    id: 'sample-5',
-    title: 'Study Night',
-    description: 'Join us for a focused study session with snacks and coffee provided. Great opportunity to study with fellow students and get help with assignments.',
-    start: new Date(Date.now() + 35 * 24 * 60 * 60 * 1000).toISOString(), // 5 weeks from now
-    end: new Date(Date.now() + 35 * 24 * 60 * 60 * 1000 + 4 * 60 * 60 * 1000).toISOString(), // 4 hours later
-    location: 'Common Room, 19 Rainforest Walk',
+    id: '4bjg89rfbu4pseca3hl70gkfia@google.com',
+    title: 'MASS2',
+    description: '<span>MASS² is your chance to present your research to a captive audience, get real-time feedback on your presentation skills, and perfect your communication skills.<br>Whether it\'s a first, second, or third year research project, or even Honors or PhD, we want to hear about it!<br><br>With the choice of displaying a poster, giving a short talk, or both, fill out the EOI below to submit your research!<br><br><strong>Date:</strong> Wednesday, 8th October<br><strong>Time</strong>: 6:00pm<br><strong>Location</strong>: Green Chemical Futures Auditorium</span>',
+    start: '2025-10-07T13:00:00.000Z',
+    end: '2025-10-08T13:00:00.000Z',
+    location: '',
     htmlLink: '',
     isAllDay: false,
   }
