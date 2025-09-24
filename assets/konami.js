@@ -104,4 +104,4 @@ var Konami = function (callback) {
 	return konami;
 };
 
-var easter_egg = new Konami('konami.html');
+// var easter_egg = new Konami('konami.html'); // Uncomment and configure as needed
