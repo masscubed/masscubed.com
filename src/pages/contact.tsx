@@ -1,4 +1,4 @@
-
+// Contact page for MASS Cubed website, pretty self explanatory
 
 import Layout from '../components/Layout';
 import Link from 'next/link';

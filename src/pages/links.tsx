@@ -1,3 +1,6 @@
+// TODO: nuke this page and combine with contact page
+// Links page for MASS Cubed website, contains links to socials, newsletter signup, and event
+
 import Layout from '../components/Layout';
 import Link from 'next/link';
 

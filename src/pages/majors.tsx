@@ -1,3 +1,5 @@
+// TODO: prob nuke / archive this
+
 import Layout from '../components/Layout';
 
 export default function Majors() {

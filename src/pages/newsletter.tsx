@@ -1,3 +1,6 @@
+// This is where all the newsletters are listed
+// TODO: component for newsletter button
+
 import Layout from '../components/Layout';
 
 export default function Newsletter() {

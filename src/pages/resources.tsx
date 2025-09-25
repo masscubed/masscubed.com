@@ -1,3 +1,5 @@
+// Resources page for MASS Cubed website, touch as much as you wish
+
 import Layout from '../components/Layout';
 import Link from 'next/link';
 
