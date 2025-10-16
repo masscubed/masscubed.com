@@ -1,6 +1,6 @@
 // TODO: prob nuke / archive this
 
-import Layout from '../components/Layout';
+import Layout from '../src/components/Layout';
 
 export default function Majors() {
   return (
