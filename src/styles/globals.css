@@ -57,6 +57,24 @@ nav {
   padding: 5px 20px; 
 }
 
+.horsing {
+  height: 100vh;
+  background-image: url("/assets/images/horse1.gif");
+  background-color: #cccccc;
+  background-size: cover;
+  background-position: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.horsetext {
+  text-align: center;
+  padding: 20px;
+  background-color: rgba(255, 255, 255, 0.8);
+  border-radius: 10px;
+}
+
 /* properties of nav bar links */
 nav a {
   text-decoration: none;
