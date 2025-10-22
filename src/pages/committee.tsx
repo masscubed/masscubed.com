@@ -44,7 +44,7 @@ export default function Committee() {
               bio="Hi! I'm Nick, and I'll be your Treasurer in 2026!! I'm a research student 
             studying Astrophysics, Physics, and Maths, so you'll probably find me in commo crying over the 
             work I don't understand. Please drop in and say hi . . . for my sake."
-            imageUrl='/assets/images/people/nick.jpg'
+            imageUrl="/assets/images/people/nick.jpg"
           />
           <CommitteeMember
               name="Ivy Lai (she/her)"
@@ -68,7 +68,7 @@ export default function Committee() {
               do a major in ecology and a second major in physiology. If you couldn't tell from my choice of majors,
               I love all things biology. When I'm not doing school work, I love to read, crochet or play video games. 
               If you see me around, feel free to ask me any questions or just have a chat with me."
-              imageUrl='/assets/images/people/jacinta.jpg'
+              imageUrl="/assets/images/people/jacinta.jpg"
           />
           <CommitteeMember
               name="Niamh Toohey (she/her)"
@@ -76,7 +76,7 @@ export default function Committee() {
               bio="Hello! I'm Niamh and I'm very excited to be your Communications Officer for 2026! 
               I'm studying Advanced Research, majoring in Climate and Atmospheric Science, with a minor in Physics and Maths. 
               I love to knit and all things Antarctica and I'm always happy to chat!"
-              imageUrl='/assets/images/people/niamh.jpg'
+              imageUrl="/assets/images/people/niamh.jpg"
           />
                     <CommitteeMember
               name="TBD"
