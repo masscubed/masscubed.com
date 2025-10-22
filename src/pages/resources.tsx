@@ -11,7 +11,7 @@ export default function Resources() {
           <h1>Resources</h1>
         </header>
         <h2>Course information</h2>
-        <p>Whether you're a returning student or a first year in 2025, course planning can be hard!
+        <p>Whether you're a returning student or a first year in 2026, course planning can be hard!
           You can find basic enrolment information and helpful videos on the Monash science website:</p>
         <ul>
           <li> <a href="https://www.monash.edu/science/enrolment/tools-to-help-you-enrol-in-science-units/advanced-research-enrolment" style={{color:'var(--c-darkcyan)',textDecoration: 'none'}}> Advanced Research</a></li>
