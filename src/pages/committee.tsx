@@ -69,7 +69,7 @@ export default function Committee() {
           />
           <CommitteeMember
               name="Michael Cotugno (he/him)"
-              role="Editor"
+              role="Marketing Officer"
               bio="I'm Michael, unofficial face of the 2023 MASS Cubed Instagram and proud new editor
              for Mass Cubed's promotion and outreach. Next year, you can expect bad jokes, electronic music, 
              and environmental policy to all work their way into my role"
