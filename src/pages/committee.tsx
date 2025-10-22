@@ -18,10 +18,10 @@ export default function Committee() {
           <CommitteeMember
               name="Leith Murray (he/him)"
               role="Vice President"
-              bio="Howdy! I'm Leith and I have the delight of being your Vice President for 2026. 
-            I'm doing my Honours in Environmental Chemistry in the Advanced Research degree. 
-            Always free for a chat or to answer any questions, I can often be found taking samples in 
-            your nearest mangrove, marsh, or bog."
+              bio="    Howdy! I'm Leith and I have the delight of being your Vice President for 2026. 
+                I'm doing my Honours in Environmental Chemistry in the Advanced Research degree. 
+                Always free for a chat or to answer any questions, I can often be found taking samples in 
+                your nearest mangrove, marsh, or bog."
             imageUrl="/assets/images/people/leith.jpg"
           />
           <CommitteeMember

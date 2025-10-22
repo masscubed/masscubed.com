@@ -9,9 +9,9 @@ interface CommitteeMemberProps {
 
 export default function CommitteeMember({name, role, bio, imageUrl}: CommitteeMemberProps) {
     return (
-        <div className="committee-member flex items-start mb-8" style={{ gap: '2.5rem' }}>
+        <div className="committee-member flex gap-6 items-start mb-8">
             {imageUrl && (
-                <div className="profile-image" style={{ flexShrink: 0 }}>
+                <div className="profile-image flex-shrink-0">
                     <Image
                         src={imageUrl}
                         alt={`${name} - ${role}`}
@@ -22,7 +22,7 @@ export default function CommitteeMember({name, role, bio, imageUrl}: CommitteeMe
                     />
                 </div>
             )}
-            <div className="member-info" style={{ flexGrow: 1 }}>
+            <div className="member-info flex-grow">
                 <b>{role}</b> {name}<br/>
                 <p><em>{bio}</em></p>
             </div>
