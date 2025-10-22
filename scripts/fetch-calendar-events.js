@@ -102,10 +102,10 @@ const updateEventsPage = async () => {
     }).join(',\n');
     
     // Replace the events array in the file
-    const newEventsArray = `const getSampleEvents = (): Event[] => [\n${eventsArray}\n];`;
+    const newEventsArray = `const getEvents = (): Event[] => [\n${eventsArray}\n];`;
     
     eventsPageContent = eventsPageContent.replace(
-      /const getSampleEvents = \(\): Event\[\] => \[[\s\S]*?\];/,
+      /const getEvents = \(\): Event\[\] => \[[\s\S]*?\];/,
       newEventsArray
     );
     
