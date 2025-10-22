@@ -7,7 +7,7 @@ on:
   workflow_dispatch: # Allow manual triggering
 
 permissions:
-  contents: read
+  contents: write
   pages: write
   id-token: write
 
@@ -34,6 +34,14 @@ jobs:
       - name: Fetch Calendar Events
         run: npm run update-calendar
 
+      - name: Commit and Push Changes
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add src/pages/events.tsx
+          git diff --staged --quiet || git commit -m "Update calendar events [skip ci]"
+          git push https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git HEAD:${{ github.ref }} || echo "No changes to push"
+
       - name: Build
         run: npm run build
         env:
@@ -50,11 +58,3 @@ jobs:
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
-
-      - name: Commit and Push Changes
-        run: |
-          git config --local user.email "action@github.com"
-          git config --local user.name "GitHub Action"
-          git add src/pages/events.tsx
-          git commit -m "Update calendar events [skip ci]" || exit 0
-          git push
