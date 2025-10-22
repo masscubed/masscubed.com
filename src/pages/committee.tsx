@@ -13,7 +13,13 @@ export default function Committee() {
           <CommitteeMember
               name="Isabella Ferguson (she/her)"
               role="President"
-              bio=""
+              bio=" Hello! I'm Isabella, and I'm so exited to be your 2026 President!! I'm in the Advanced 
+               Research degree, and majoring in chemistry and earth science. I'm super passionate about all
+               sorts of nerdy science especially science communication, and love getting hands on and doing
+               things with real word applications. You can usually find me floating around commo between classes,
+               or with a million research papers open on my laptop. I love getting to know people, and am always
+               up for a chat (or anything else that helps procrastinate assignments) so come say hi!!"
+               imageUrl="/assets/images/people/isabella.jpg"
           />
           <CommitteeMember
               name="Leith Murray (he/him)"
