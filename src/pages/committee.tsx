@@ -22,7 +22,7 @@ export default function Committee() {
             I'm doing my Honours in Environmental Chemistry in the Advanced Research degree. 
             Always free for a chat or to answer any questions, I can often be found taking samples in 
             your nearest mangrove, marsh, or bog."
-            imageUrl="assets/images/people/leith.jpg"
+            imageUrl="/assets/images/people/leith.jpg"
           />
           <CommitteeMember
               name="Zach Peeters (he/him)"
