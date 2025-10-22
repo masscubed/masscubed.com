@@ -9,7 +9,7 @@ interface CommitteeMemberProps {
 
 export default function CommitteeMember({name, role, bio, imageUrl}: CommitteeMemberProps) {
     return (
-        <div className="committee-member flex gap-6 items-start mb-8">
+        <div className="committee-member flex gap-8 items-start mb-8">
             {imageUrl && (
                 <div className="profile-image flex-shrink-0">
                     <Image
