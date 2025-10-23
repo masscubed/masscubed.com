@@ -61,6 +61,7 @@ export default function Committee() {
               bio="Hi! I'm Kayla and I'm super excited to be your Education Officer for 2026. I'm in Advanced 
               Research and I'm doing an extended major in Chemistry with a minor in Astrophysics :) come drop
               by commo if you want to chat about music, martial arts, science or anything in between!"
+              imageUrl="/assets/images/people/kayla.jpg"
           />
           <CommitteeMember
               name="Jacinta Tait (she/her)"
