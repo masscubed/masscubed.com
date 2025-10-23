@@ -14,7 +14,7 @@ export default function Committee() {
               name="Isabella Ferguson (she/her)"
               role="President"
               bio="Hello! I'm Isabella, and I'm so exited to be your 2026 President!! I'm in the Advanced 
-               Research degree, and majoring in chemistry and earth science. I'm super passionate about all
+               Research degree, and majoring in Chemistry and Earth Science. I'm super passionate about all
                sorts of nerdy science especially science communication, and love getting hands on and doing
                things with real word applications. You can usually find me floating around commo between classes,
                or with a million research papers open on my laptop. I love getting to know people, and am always
@@ -33,9 +33,9 @@ export default function Committee() {
           <CommitteeMember
               name="Zach Peeters (he/him)"
               role="Secretary"
-              bio="Hi, I'm Zach, your Secretary! I'm a GC student, hopefully majoring in ecology, 
+              bio="Hi, I'm Zach, your Secretary! I'm a GC student, hopefully majoring in Ecology, 
             but I also love languages and learning about all the crazy discoveries the other scientific disciplines 
-            are making. If you need to find me, I live in the common room. Drop by commo on a Wednesday morning 
+            are making. If you need to find me, I live in the common room. Drop by commo any time 
             and I would love to share a cup of tea (or coffee) with you!"
           />
           <CommitteeMember
@@ -50,22 +50,23 @@ export default function Committee() {
               name="Ivy Lai (she/her)"
               role="Assistant Treasurer"
               bio="Hey there, I'm Ivy, the second ever Assistant Treasurer! I'm an Advanced Research student, 
-              majoring in pure maths and astrophysics. I play netball and study Japanese in my spare 
+              majoring in Pure Maths and Astrophysics. I play netball and study Japanese in my spare 
               time, and am always happy to have a chat! :)"
+              imageUrl="/assets/images/people/ivy.jpg"
               
           />
           <CommitteeMember
               name="Kayla Quinn (she/her)"
               role="Education Officer"
-              bio="Hi! I'm Kayla and I'm super excited to be your education officer for 2026. I'm in Advanced 
-              Research and I'm doing an extended major in chemistry with a minor in astrophysics :) come drop
+              bio="Hi! I'm Kayla and I'm super excited to be your Education Officer for 2026. I'm in Advanced 
+              Research and I'm doing an extended major in Chemistry with a minor in Astrophysics :) come drop
               by commo if you want to chat about music, martial arts, science or anything in between!"
           />
           <CommitteeMember
               name="Jacinta Tait (she/her)"
               role="Marketing Officer"
-              bio="Hi! I'm Jacinta and I'm the Marketing Officer for 2026. I'm an advanced research student planning to 
-              do a major in ecology and a second major in physiology. If you couldn't tell from my choice of majors,
+              bio="Hi! I'm Jacinta and I'm the Marketing Officer for 2026. I'm an Advanced Research student planning to 
+              do a major in Ecology and a second major in Physiology. If you couldn't tell from my choice of majors,
               I love all things biology. When I'm not doing school work, I love to read, crochet or play video games. 
               If you see me around, feel free to ask me any questions or just have a chat with me."
               imageUrl="/assets/images/people/jacinta.jpg"
