@@ -37,6 +37,7 @@ export default function Committee() {
               but I also love languages and learning about all the crazy discoveries the other scientific disciplines 
               are making. If you need to find me, I live in the common room. Drop by commo any time 
               and I would love to share a cup of tea (or coffee) with you!"
+              imageUrl="/assets/images/people/zach.jpg"
           />
           <CommitteeMember
               name="Nick Missen (he/him)"
