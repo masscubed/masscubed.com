@@ -13,7 +13,7 @@ export default function Committee() {
           <CommitteeMember
               name="Isabella Ferguson (she/her)"
               role="President"
-              bio=" Hello! I'm Isabella, and I'm so exited to be your 2026 President!! I'm in the Advanced 
+              bio=" Hello! I'm Isabella, and I'm so excited to be your 2026 President!! I'm in the Advanced 
                   Research degree, and majoring in Chemistry and Earth Science. I'm super passionate about all
                   sorts of nerdy science especially science communication, and love getting hands on and doing
                   things with real word applications. You can usually find me floating around commo between classes,
@@ -75,7 +75,7 @@ export default function Committee() {
           />
           <CommitteeMember
               name="Niamh Toohey (she/her)"
-              role="Communication Officer"
+              role="Communications Officer"
               bio=" Hello! I'm Niamh and I'm very excited to be your Communications Officer for 2026! 
                 I'm studying Advanced Research, majoring in Climate and Atmospheric Science, with a minor in Physics and Maths. 
                 I love to knit and all things Antarctica and I'm always happy to chat!"
