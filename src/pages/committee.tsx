@@ -78,7 +78,7 @@ export default function Committee() {
               role="Communications Officer"
               bio=" Hello! I'm Niamh and I'm very excited to be your Communications Officer for 2026! 
                 I'm studying Advanced Research, majoring in Climate and Atmospheric Science, with a minor in Physics and Maths. 
-                I love to knit and all things Antarctica and I'm always happy to chat!"
+                I love knitting and all things Antarctica and I'm always happy to chat!"
               imageUrl="/assets/images/people/niamh.jpg"
           />
                     <CommitteeMember
