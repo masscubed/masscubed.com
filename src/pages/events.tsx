@@ -102,16 +102,7 @@ export default function Events({ events, error }: EventsPageProps) {
 
 // If google calander isn't working or in use anymore, update this
 const getEvents = (): Event[] => [
-  {
-    id: '6ffv09662tehkr8ofte1fn95uu@google.com',
-    title: 'SWOTVAC Study Session',
-    description: 'Is studying for your exams getting too much? Join us for the best sort of motivation: Peer pressure! You bring the study notes, and we\'ll bring the food, drinks, and dinner!!',
-    start: '2025-10-28T00:00:00.000Z',
-    end: '2025-10-28T11:00:00.000Z',
-    location: '',
-    htmlLink: '',
-    isAllDay: false,
-  }
+
 ];
 
 export const getStaticProps: GetStaticProps<EventsPageProps> = async () => {
