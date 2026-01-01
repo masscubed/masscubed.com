@@ -17,8 +17,8 @@ export default function Contact() {
         <p>
           To discover our events, check out our <Link href="/events">events
           calendar</Link> or head to our
-          <a href="https://www.facebook.com/mass3monash">Facebook</a> or
-          <a href="https://instagram.com/mass3monash?igshid=MzRlODBiNWFlZA==">Instagram</a> pages. Any other
+          <a href="https://www.facebook.com/mass3monash"> Facebook</a> or
+          <a href="https://instagram.com/mass3monash?igshid=MzRlODBiNWFlZA=="> Instagram</a> pages. Any other
           important links or ticketing information can be found <Link href="/links">here</Link>.
         </p>
         <p>

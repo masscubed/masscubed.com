@@ -102,17 +102,7 @@ export default function Events({ events, error }: EventsPageProps) {
 
 // If google calander isn't working or in use anymore, update this
 const getEvents = (): Event[] => [
-  /* { // copy and paste this template including { and } below to add more events
-    id: '3dgfccehq0mvaps7r5ntf114i4@google.com', // google calendar event id
-    title: 'Title', // Event title
-    description: '<p>If you plan to attend, please fill out this form <a href="https://docs.google.com/forms/d/e/1FAIpQLSc4jJqE5VJGIYaXch1IY8k0f6XfLj7EuTYuk5WMsSFNuR2p-g/viewform?usp=dialog"><u>here</u></a>.</p>', // Event description, can include links
-    start: '2025-09-25T08:00:00.000Z', // Event start time in ISO format
-    end: '2025-09-25T11:00:00.000Z', // Event end time in ISO format
-    location: 'Monash University Clayton Campus, Wellington Rd, Clayton VIC 3800, Australia', // Event location as an address or text
-    htmlLink: '', // Link to the event on Google Calendar
-    isAllDay: false, // Whether the event is an all-day event
-  },
-  */
+
 ];
 
 export const getStaticProps: GetStaticProps<EventsPageProps> = async () => {
