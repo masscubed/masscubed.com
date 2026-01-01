@@ -1,6 +1,59 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/pages/api-reference/create-next-app).
 
-## Getting Started
+## 📝 Content Management Guide
+
+**For Club Members and Non-Technical Contributors**
+
+This website updates automatically when you make changes to the files in this repository. You can edit content directly through the GitHub website.
+
+### 📅 Updating Events
+The events page is powered by the **Mass Cubed Google Calendar**.
+1.  **Add/Edit Event**: Create or modify an event in the masscubed Google Calendar.
+2.  **Update Speed**:
+    *   **Calendar View**: Updates immediately.
+    *   **Upcoming Events List**: Updates automatically **every day at 6 AM**.
+    *   **Force Update**: If you need the list to update immediately, go to the [Actions tab](https://github.com/masscubed/masscubed.com/actions), select "Scheduled Calendar Update", and click "Run workflow".
+
+### 👥 Updating Committee Members
+Committee members are listed in `src/pages/committee.tsx`.
+
+1.  **Open the file**: Go to [src/pages/committee.tsx](./src/pages/committee.tsx).
+2.  **Edit**: Click the pencil icon ✏️ to edit.
+3.  **Modify**: Find the `<CommitteeMember />` block you want to change:
+    ```jsx
+    <CommitteeMember
+        name="Name (pronouns)"
+        role="Role"
+        bio="Write the full bio here..."
+        imageUrl="/assets/images/people/filename.jpg" // Optional
+    />
+    ```
+    *   Change the text between the quotes `""`.
+    *   **Warning**: Do not remove the quotes or the `< />` brackets.
+4.  **Save**: Scroll down, select "Commit directly to the main branch", and click **Commit changes**.
+5.  **Live Site**: The site will rebuild and update in a few minutes.
+
+### 🏠 Updating Text (Home, About, etc.)
+*   **Home Page**: Edit [src/pages/index.tsx](./src/pages/index.tsx).
+*   **Contact Page**: Edit [src/pages/contact.tsx](./src/pages/contact.tsx).
+*   **Resources**: Edit [src/pages/resources.tsx](./src/pages/resources.tsx).
+
+Look for the text inside plain tags (like `<p>`, `<h1>`, `<li>`) and edit strictly the text content.
+
+### 🖼️ Adding Images
+1.  Navigate to `public/assets/images` (or a subdirectory like `people`).
+2.  Click **Add file** > **Upload files**.
+3.  Upload your image (keep filenames simple, e.g., `nick.jpg`, no spaces).
+4.  Commit changes.
+5.  Reference it in code as `/assets/images/filename.jpg`.
+
+<br>
+<hr>
+<br>
+
+## 💻 Technical Development
+
+### Setup & Run
 
 First, run the development server:
 
