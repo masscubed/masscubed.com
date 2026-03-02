@@ -102,7 +102,26 @@ export default function Events({ events, error }: EventsPageProps) {
 
 // If google calander isn't working or in use anymore, update this
 const getEvents = (): Event[] => [
-
+  {
+    id: '5fls88ifd3jt59nobg6ioifoj3@google.com',
+    title: 'Trivia Night',
+    description: '',
+    start: '2026-03-13T00:00:00.000Z',
+    end: '2026-03-14T00:00:00.000Z',
+    location: '',
+    htmlLink: '',
+    isAllDay: false,
+  },
+  {
+    id: '0892m4q18rrgf061cnqrog639s@google.com',
+    title: 'OGM',
+    description: '',
+    start: '2026-03-19T06:30:00.000Z',
+    end: '2026-03-19T08:00:00.000Z',
+    location: '',
+    htmlLink: '',
+    isAllDay: false,
+  }
 ];
 
 export const getStaticProps: GetStaticProps<EventsPageProps> = async () => {
