@@ -12,7 +12,7 @@ The events page is powered by the **Mass Cubed Google Calendar**.
 2.  **Update Speed**:
     *   **Calendar View**: Updates immediately.
     *   **Upcoming Events List**: Updates automatically **every day at 6 AM**.
-    *   **Force Update**: If you need the list to update immediately, go to the [Actions tab](https://github.com/masscubed/masscubed.com/actions), select "Scheduled Calendar Update", and click "Run workflow".
+    *   **Force Update**: If you need the list to update immediately, go to the [Actions tab](https://github.com/masscubed/masscubed.com/actions), select "Scheduled Calendar Update", and click "Run workflow". If there hasn't been an update to the website in 60 days, the workflow will need to be re-enabled. Once it is re-enabled it will trigger at 4:00 PM AEST.
 
 ### 👥 Updating Committee Members
 Committee members are listed in `src/pages/committee.tsx`.
