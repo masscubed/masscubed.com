@@ -103,16 +103,6 @@ export default function Events({ events, error }: EventsPageProps) {
 // If google calander isn't working or in use anymore, update this
 const getEvents = (): Event[] => [
   {
-    id: '5fls88ifd3jt59nobg6ioifoj3@google.com',
-    title: 'Trivia Night',
-    description: '',
-    start: '2026-03-13T00:00:00.000Z',
-    end: '2026-03-14T00:00:00.000Z',
-    location: '',
-    htmlLink: '',
-    isAllDay: false,
-  },
-  {
     id: '6q4s4kt7c1hu30nk8a547g5etd@google.com',
     title: 'MASS³ OGM',
     description: 'Hi there, \n\nIsabella Ferguson is inviting you to a scheduled Zoom meeting. \n\nJoin from a PC, Mac, iPad, iPhone or Android device: \n\n    Please click this URL to start or join. <a href="https://www.google.com/url?q=https://monash.zoom.us/j/85742639449?pwd%3DMHa7zsZwVeyQeCX2wM1TjmgD2iDiY8.1&amp;sa=D&amp;source=calendar&amp;ust=1773539302026801&amp;usg=AOvVaw0gY7fyvOMACvH0OetlqNrD" target="_blank">https://monash.zoom.us/j/85742639449?pwd=MHa7zsZwVeyQeCX2wM1TjmgD2iDiY8.1</a> \n    Or, go to <a href="https://www.google.com/url?q=https://monash.zoom.us/join&amp;sa=D&amp;source=calendar&amp;ust=1773539302026801&amp;usg=AOvVaw3P2Zx3sMK5H3J0rGVsSBHD" target="_blank">https://monash.zoom.us/join</a> and enter meeting ID: 857 4263 9449  and passcode: 491418\n        Ensure your device has a dedicated microphone and webcam.\n        **Please do not share these details with those not on the participant list**\n\n \nJoin from a dial-in phone: \n\n    Dial: +61 3 990 59666 [+61 3 9905 ZOOM] or +61 2 8015 2088\n    Meeting ID: 857 4263 9449 \n    International numbers available: <a href="https://www.google.com/url?q=https://monash.zoom.us/u/kdsh1TNjLI&amp;sa=D&amp;source=calendar&amp;ust=1773539302026801&amp;usg=AOvVaw0YVIBq-vSnhjWHBCkkW0hG" target="_blank">https://monash.zoom.us/u/kdsh1TNjLI</a> \n\n\nJoin from a Video capable room system(H.323/SIP): \n\nDial:\n    61262227588 (From within Monash only) \n  or:\n    103.122.166.55 (IP) or\n    <a href="https://www.google.com/url?q=http://zmau.us&amp;sa=D&amp;source=calendar&amp;ust=1773539302026801&amp;usg=AOvVaw26h9JmSXpcSYbVNVFzWUji" target="_blank">zmau.us</a> (Backup)\n\n    Meeting ID: 857 4263 9449 \n    Passcode: 491418\n\n\n============================================\nUse of Zoom is subject to Monash University’s IT Acceptable Use Procedure: <a href="https://www.google.com/url?q=https://publicpolicydms.monash.edu/Monash/documents/1909280&amp;sa=D&amp;source=calendar&amp;ust=1773539302026801&amp;usg=AOvVaw3CkP2EH7L3Rs4YgSBpIhqr" target="_blank">https://publicpolicydms.monash.edu/Monash/documents/1909280</a>\n \nFor information relating to the handling of your personal information please refer to Monash University’s Data Protection and Privacy Procedure: <a href="https://www.google.com/url?q=https://publicpolicydms.monash.edu/Monash/documents/1909233&amp;sa=D&amp;source=calendar&amp;ust=1773539302026801&amp;usg=AOvVaw0tS03Lf0X-FDt-FtrXzs9X" target="_blank">https://publicpolicydms.monash.edu/Monash/documents/1909233</a>\n \nIf you have any questions about how Monash University is collecting and handling your personal information, please contact our Data Protection and Privacy Office at <a href="mailto:dataprotectionofficer@monash.edu" target="_blank">dataprotectionofficer@monash.edu</a>.\n============================================',
