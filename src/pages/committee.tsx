@@ -39,6 +39,16 @@ export default function Committee() {
               and I would love to share a cup of tea (or coffee) with you!"
               imageUrl="/assets/images/people/zach.jpg"
           />
+           <CommitteeMember
+              name="Ulyana Shatalina (she/her)"
+              role="Events Coordinator"
+              bio=" Hey! I'm Ulyana, your 2026 Events Coordinator! I'm an first year Global Challenges student working
+              towards a career in the health sciences. One thing about me is that I LOVE hosting, so I hope to run some
+              fun gatherings for you all this year! If you see me around campus, come up and say hi, and if you're new
+              to Monash like I am, we can settle into uni life together!"
+              imageUrl="/assets/images/people/ulyana.jpg"
+          />
+
           <CommitteeMember
               name="Nick Missen (he/him)"
               role="Treasurer"
@@ -48,12 +58,11 @@ export default function Committee() {
             imageUrl="/assets/images/people/nick.jpg"
           />
           <CommitteeMember
-              name="Ivy Lai (she/her)"
+              name="Janethri Koralagama (she/her)"
               role="Assistant Treasurer"
-              bio=" Hey there, I'm Ivy, the second ever Assistant Treasurer! I'm an Advanced Research student, 
-                majoring in Pure Maths and Astrophysics. I play netball and study Japanese in my spare 
-                time, and am always happy to have a chat! :)"
-              imageUrl="/assets/images/people/ivy.jpg"
+              bio=" Hey! I'm Janethri, the Assistant Treasurer! I'm an first year Research student doing mostly physics and maths.
+              It's not hard to find me in commo, if you want to chat and help me procrastinate. Or beat me in wii sports."
+              imageUrl="/assets/images/people/janethri.jpg"
               
           />
           <CommitteeMember
@@ -80,21 +89,27 @@ export default function Committee() {
                 I'm studying Advanced Research, majoring in Climate and Atmospheric Science, with a minor in Physics and Maths. 
                 I love knitting and all things Antarctica and I'm always happy to chat!"
               imageUrl="/assets/images/people/niamh.jpg"
-          />
-                    <CommitteeMember
-              name="TBD"
-              role="Events Coordinator"
-              bio=""
+      
           />
           <CommitteeMember
-              name="TBD"
+              name="Blake Lyu (he/him)"
               role="First Year Research Representative"
-              bio=""
+              bio="Hi! I'm Blake, and I am the First Year Research Representative for 2026. I'm currently studying Advanced 
+              Research, planning to do an extended major in Chemistry and a minor in Physics. Outside of uni, I'm a bird nerd
+              in training, and love discussing anything scientific, deeply extisential, borderline insane, or all of the above.
+              I'm not quite enervated from the uni lifestyle yet, so please drop by commo while I still have the energy, and 
+              I'm always open to a chat!"
+              imageUrl="/assets/images/people/blake.jpg"
           />
           <CommitteeMember
-              name="TBD"
+              name="Niseem Potabatti (he/him)"
               role="First Year Global Challenges Representative"
-              bio=""
+              bio="Hi! I'm Niseem, I'm your Global Challenges First Year Representative for 2026, and am so excited to be
+              working with you all this year! Let me know if you have any ideas for MASS Cubed, I am your representative and
+              bridge for your ideas and thoughts to feel connected to the club. I'm planning on majoring in Biochemistry with
+              a minor in Psychology. I love sketching, horror movies, badminton and gaming. I always love a good yap, so 
+              please say hi!"
+              imageUrl="/assets/images/people/niseem.jpg"
           />
           <CommitteeMember
               name="TBD"
