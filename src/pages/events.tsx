@@ -102,16 +102,7 @@ export default function Events({ events, error }: EventsPageProps) {
 
 // If google calander isn't working or in use anymore, update this
 const getEvents = (): Event[] => [
-  {
-    id: '3d22qtvokf2d0ruijkjvf75ilb@google.com',
-    title: 'Joint Science Trivia ',
-    description: '',
-    start: '2026-08-18T07:00:00.000Z',
-    end: '2026-08-18T09:00:00.000Z',
-    location: '',
-    htmlLink: '',
-    isAllDay: false,
-  }
+
 ];
 
 export const getStaticProps: GetStaticProps<EventsPageProps> = async () => {
