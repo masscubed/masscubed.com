@@ -7,7 +7,7 @@ export default function Committee() {
     <Layout title="MASS Cubed—Committee" description="Monash Advanced Science & Science Scholars Society">
       <main>
         <header className="bottom-horizontal">
-          <h1>Committee of 2026</h1>
+          <h1>Committee of 2027</h1>
         </header>
         <div>
           <CommitteeMember
@@ -92,24 +92,16 @@ export default function Committee() {
       
           />
           <CommitteeMember
-              name="Blake Lyu (he/him)"
+              name="TBD"
               role="First Year Research Representative"
-              bio="Hi! I'm Blake, and I am the First Year Research Representative for 2026. I'm currently studying Advanced 
-              Research, planning to do an extended major in Chemistry and a minor in Physics. Outside of uni, I'm a bird nerd
-              in training, and love discussing anything scientific, deeply extisential, borderline insane, or all of the above.
-              I'm not quite enervated from the uni lifestyle yet, so please drop by commo while I still have the energy, and 
-              I'm always open to a chat!"
-              imageUrl="/assets/images/people/blake.jpg"
+              bio=""
+              
           />
           <CommitteeMember
-              name="Niseem Potabatti (he/him)"
+              name="TBD"
               role="First Year Global Challenges Representative"
-              bio="Hi! I'm Niseem, I'm your Global Challenges First Year Representative for 2026, and am so excited to be
-              working with you all this year! Let me know if you have any ideas for MASS Cubed, I am your representative and
-              bridge for your ideas and thoughts to feel connected to the club. I'm planning on majoring in Biochemistry with
-              a minor in Psychology. I love sketching, horror movies, badminton and gaming. I always love a good yap, so 
-              please say hi!"
-              imageUrl="/assets/images/people/niseem.jpg"
+              bio=""
+              
           />
           <CommitteeMember
               name="TBD"
